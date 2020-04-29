@@ -33,3 +33,4 @@ There are several ways you can support this initiative, here are the main method
 - Sharing the course with your friends and family. It's friendly to both beginners and advanced users alike. 
 - Sharing and spreading the course to different communities around the internet. 
 - Uploading the free course to a platform of your choice. Because the free course is licensed under Creative Commons, go for it! Read the instructions on things to keep in mind in the 'Premium vs Free Version' section to avoid violating the license.
+- Translating the scripts to another language. I don't have an easy way to streamline this process yet, so email me @ support@techlore.tech for instructions. 
