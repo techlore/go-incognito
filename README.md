@@ -16,7 +16,7 @@ Go Incognito is a video-based course teaching users of varying experience levels
 
 ## Project Status
 - Section 3 is currently being produced. Lessons are first uploaded to YouTube, so visit our channel https://www.youtube.com/c/techlore to catch them as they are released. There's a Go Incognito playlist located at https://www.youtube.com/playlist?list=PL3KeV6Ui_4CayDGHw64OFXEPHgXLkrtJO
-- Currenty goal to complete production of the free course by the end of August, 2020. Premium by the end of October, 2020.
+- Current goal to complete production of the free course by the end of August, 2020. Premium by the end of October, 2020.
 - Once the free course is complete, the premium version will go into development. Read the below section to learn about the premium version. 
 
 ## Premium vs Free Version
