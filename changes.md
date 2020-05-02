@@ -2,7 +2,7 @@
 
 **(Updated May 17, 2019)**
 
-Thank you for watching Go Incognito! This PDF includes any necessary changes or updates to the course to ensure all information stays relevant.
+Thank you for watching Go Incognito! This document includes any necessary changes or updates to the course to ensure all information stays relevant.
 
 ### General Updates
 
