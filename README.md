@@ -34,3 +34,5 @@ There are several ways you can support this initiative, here are the main method
 - Sharing and spreading the course to different communities around the internet. 
 - Uploading the free course to a platform of your choice. Because the free course is licensed under Creative Commons, go for it! Read the instructions on things to keep in mind in the 'Premium vs Free Version' section to avoid violating the license.
 - Translating the scripts to another language. I don't have an easy way to streamline this process yet, so email me @ support@techlore.tech for instructions. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
