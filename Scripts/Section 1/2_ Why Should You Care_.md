@@ -45,9 +45,7 @@ images, and PRISM allows the NSA to tap into personal private data in tech
 companies like Facebook, Google, and Apple. This all surface level, and still crazy
 to hear about, there are hundreds of these programs. The government is
 increasingly tracking the movements of innocent citizens and doing so as a
-matter of policy, not as the result of a warrant and reasonable suspicion. Any
-opposition to this is greeted by the response that if a person is not doing
-anything wrong, they should have nothing to hide. We are losing privacy to the
+matter of policy, not as the result of a warrant and reasonable suspicion. Any opposition to this is greeted by the response that if a person is doing nothing wrong, they should have nothing to hide. We are losing privacy to the
 government, and in the process we are falling under its control. Glenn Greenwald
 discusses this issue in his TED talk where he expresses concerns behind nonstop
 surveillance; I recommend all of you watch this. One of my favorite quotes on the
