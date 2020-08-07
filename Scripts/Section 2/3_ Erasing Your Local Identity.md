@@ -83,6 +83,10 @@ David Kernell, who hacked Sarah Palin’s email account. The charges against bot
 Matanov and Kernell resulted from something called the Sarbanes-Oxley Act of
 2002, which aimed at preserving data to be used as evidence.
 
+**As important as making a lesson geared towards beginners can be, I have made the fatal mistake
+    of failing to mention those of you already using Linux. This entire lesson, as well as the previous
+    lesson (2.2) apply to Linux. BleachBit offers Linux support, just as it does for Windows.**
+
 [Queue Outro Promos]
 
 So, if you followed this lesson, you could be charged if you were to be accused of
