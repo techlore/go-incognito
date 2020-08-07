@@ -63,10 +63,14 @@ course where I’m going to tell you it doesn’t matter too much which one you 
 with, it’s mostly personal preference. These are simple apps, and all they do is
 generate new keys for you every 30 seconds, that’s it. The way it works is you scan
 a QR code for the service you’re signing up for, and now it’ll generate codes for
-you to use. Probably the most popular FOSS authenticator is Authy, now don’t get
+you to use. Probably the most popular ~~FOSS~~ authenticator is Authy, now don’t get
 me wrong, Authy is great...but it offers cloud syncing and key backups which is
 something we don’t want. We want all of this to be stored locally for better
 security. You can use Authy, just make sure to avoid the features inside of it.
+
+**Authy is NOT FOSS. An empty GitHub isn’t open-sourcing your software, and it’s a shame this
+    was mentioned as a FOSS service when it isn’t. (https://github.com/authy)**
+
 Alternatively, I’d recommend FreeOTP for iOS, and andOTP for Android. These are
 both FOSS, much more limited than Authy, and get the job done just as well.
 The last topic I want to cover is physical two-factor authentication, and this
@@ -81,6 +85,9 @@ be booted from a specified computer, and there are hundreds of different
 products out there that have their own proprietary version of physical 2FA. Like I
 said, there’s nothing in particular I’m going to recommend, but just be aware that
 these products exist.
+
+# **Biggest mistake of Go Incognito so far: No mention to BACK UP YOUR 2FA CODES! I repeat...BACK UP 2FA CODES. This is a major headache in the event you lose the device holding your 2FA keys.
+Have you backed up your codes yet?**
 
 [Queue Outro Promos]
 
