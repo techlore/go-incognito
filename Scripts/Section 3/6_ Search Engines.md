@@ -58,6 +58,13 @@ engines, to services that value your privacy. Once you pick the one you like, I�
 recommend setting it as your default search engine and adding it to your
 omnibar search on the top of your browser if possible.
 
+**\- Please note this lesson isn’t covering the ONLY search engines to use—it’s simply giving three
+    commonly-recommended options. There are several other great privacy search engines, and more
+    advanced users can make an educated decision on which one they trust most. The Techlore
+    channel will cover other search engines more in-depth in the future.
+    
+\- A beautiful thing about searx.me is they allow you to self-host it yourself. Underrated feature I failed to bring up.**
+
 [Queue Outro Promos]
 
 That’s going to wrap this up, it’s a fairly simple topic and I hope it all made sense.
