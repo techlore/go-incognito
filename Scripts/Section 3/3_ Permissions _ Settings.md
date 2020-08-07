@@ -37,6 +37,10 @@ dangerous and unneeded, since it collects data about everywhere you go when
 the app isn’t even open. Additionally, Uber also got caught for working with Apple
 on a secret permission allowing them to copy a user’s screen content.
 
+**Uber gets picked on A LOT in this lesson, which sparks the question: What about Lyft? They are a
+    smaller company, but this doesn’t protect everything from getting out. Lyft has also come under
+    some fire, as seen in this article: https://techcrunch.com/2018/01/25/lyft-god-view/**
+
 On the topic of cars...Tesla is an excellent company that makes phenomenal cars.
 When you buy a Tesla, you’re given a consent form which gives you the ability to
 allow Tesla to record any information about your car over a wireless
@@ -46,6 +50,9 @@ history, safety-related data, and much more. An entire portfolio of where and ho
 you drive is created which you have no control over, Tesla owns it and can do
 with it whatever they please. You can contact Tesla to opt out of this, but you will
 miss out on automatic software updates, as well as other features of the car.
+
+**Tesla is mentioned to have a form where you opt-in to cellular communication with the vehicle. Please be aware their process has updated, and opting out MAY involve voiding your vehicle’s
+warranty and many other major concerns. The Techlore channel has covered this topic here: https://www.youtube.com/watch?v=Qjkt3X2WLrw and will be covering this more in the future. **
 
 The lesson with all of these stories is the less permissions you grant programs
 and apps the better. All it takes is one of these companies to suffer a breach for
