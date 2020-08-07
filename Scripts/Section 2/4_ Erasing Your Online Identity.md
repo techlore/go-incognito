@@ -162,6 +162,8 @@ Equifax, who suffered one of the largest leaks in American history. Not only did
 Equifax suffer from this leak, but they profited from it through services like
 Lifelock. URGHH
 
+**Albine is a service shown in the lesson to automatically remove your information from people-searching websites. Please be aware this is NOT the only product that offers this service. For example, https://www.privacyduck.com offers this functionality as well.**
+
 [Queue Outro Promos]
 
 That’s going to wrap up erasing your online identity. It’s very difficult to cover
