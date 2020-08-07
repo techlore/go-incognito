@@ -59,3 +59,13 @@ want to get a head start, you can start looking for FOSS alternatives to the
 software you use everyday by going to alternativeto.net, searching for your
 software that you want to change from, and filtering by open source. Thank you
 for watching, and I’ll see you in the next lesson covering metadata.
+
+**[Something I regret not mentioning about FOSS relates to the code and control
+    companies/governments have over proprietary software. Just as mountains are natural
+    architectural limitations found in nature, software and code have architectural limitations on what
+    a user can/can’t do. With proprietary software, the user doesn’t know what these limitations are,
+    but FOSS allows the community to understand what the software can and can’t do. Sure, Tesla’s
+    have semi-automatic driving utilizing cameras around the car, but how do we know those cameras
+    aren’t constantly collecting identifiable information about other cars around us? It is unlikely, but
+    there’s no way to disprove the claim. With FOSS, we can disprove it. With FOSS, we know we aren’t
+    being limited. With FOSS, we can’t be oppressed unknowingly.]**
