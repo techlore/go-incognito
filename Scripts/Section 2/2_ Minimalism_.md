@@ -112,6 +112,10 @@ controls as well, so you don’t need to setup parental controls on the device i
 No matter what, avoid spy software from third party companies, that’s a big
 no-no.
 
+**As important as making a lesson geared towards beginners can be, I have made the fatal mistake
+    of failing to mention those of you already using Linux. This entire lesson, as well as the previous
+    lesson (2.2) apply to Linux. BleachBit offers Linux support, just as it does for Windows.**
+
 [Queue Outro Promos]
 
 So that wraps it up for minimalism. Remember: Less is more. The less programs,
