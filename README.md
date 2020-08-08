@@ -23,7 +23,7 @@ Go Incognito is a video-based course teaching users of varying experience levels
 
 ## Premium vs Free Version
 - All information between the two versions are exactly the same. 
-- Free includes short ads at the beginning of each lesson.
+- Free includes short self-developed ads at the beginning of each lesson.
 - Free is being released first, and is more prone to mistakes and improvements. Before premium is published, I'll be remastering the lessons and applying as many changes from the changelog as possible. 
 - Free is accessible on YouTube, and is under Creative Commons meaning you can technically upload it anywhere you want. Assuming: A) It's unmodified B) It's unmonetized and C) I'm credited. 
 - Premium will be accessible only through Udemy and other select hosts for an upfront cost. 
