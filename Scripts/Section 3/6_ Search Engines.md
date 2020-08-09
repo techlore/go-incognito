@@ -13,10 +13,6 @@ Because of this, we need to find search engines that collect as little informati
 about us as possible. Luckily there are three very good options which we will
 discuss today, each with their own pros and cons.
 
-One of the cons to the free version of this course is the promos, so here we go...
-
-[Promotional Spot]
-
 The first service is DuckDuckGo, which is probably the most popular and widely
 used privacy search engine. Some of the nice things about DuckDuckGo is they
 have a beautiful UI, they are privacy-oriented and extremely public about the
@@ -58,17 +54,17 @@ engines, to services that value your privacy. Once you pick the one you like, I�
 recommend setting it as your default search engine and adding it to your
 omnibar search on the top of your browser if possible.
 
-**\- Please note this lesson isn’t covering the ONLY search engines to use—it’s simply giving three
-    commonly-recommended options. There are several other great privacy search engines, and more
-    advanced users can make an educated decision on which one they trust most. The Techlore
-    channel will cover other search engines more in-depth in the future.
-    
-\- A beautiful thing about searx.me is they allow you to self-host it yourself. Underrated feature I failed to bring up.**
-
-[Queue Outro Promos]
-
 That’s going to wrap this up, it’s a fairly simple topic and I hope it all made sense.
 The next four lessons are going to be a quadrilogy about browsers. There’s so
 much information about proper browsing habits, so those will teach you
 everything you need to know. The first lesson is titled: Your Browser. Until then,
 and thank you for watching.
+
+## Changes
+
+***- Please note this lesson isn’t covering the ONLY search engines to use—it’s simply giving three
+    commonly-recommended options. There are several other great privacy search engines, and more
+    advanced users can make an educated decision on which one they trust most. The Techlore
+    channel will cover other search engines more in-depth in the future.***
+    
+***- A beautiful thing about searx.me is they allow you to self-host it yourself. Underrated feature I failed to bring up.***
