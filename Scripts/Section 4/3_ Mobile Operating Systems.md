@@ -5,11 +5,6 @@ sure you’re wondering what options you have for \* hold iPhone and Android
 device \* mobile operating systems. Well, we’re pretty limited here. On the bright
 side: it’s a shorter lesson.
 
-It would be even shorter if you didn’t have these promos, so get the course on
-Udemy…
-
-[Promotional Spot]
-
 Very similar to desktop operating systems, everything you do on your mobile
 devices runs on top of the operating system--like iOS or Android. You’re not
 going to be accomplishing much in this course if you’re on an inherently insecure
@@ -119,8 +114,6 @@ would recommend iOS or a stock Android device. But, if you’re willing to go ab
 and beyond and get a truly private and secure device, you’re going to want to
 check out Type 3 Android, preferably without Google services, and hopefully one
 day those Linux phones may be a good option.
-
-[Queue Outro Promos]
 
 That’s going to finish the main options for a private and secure experience on
 your mobile devices. It’s not as simple as I originally envisioned, but the final
