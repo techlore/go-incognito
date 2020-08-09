@@ -7,9 +7,6 @@ not private, and vice-versa. So let’s break these down now, so that later in t
 course, you, the viewer, will understand what it means when I say something is
 meant to improve your privacy, but not your security.
 
-Let’s hear a word from my future self:
-[Promotional Spot]
-
 Security can be simply defined as how you protect yourself and your data. Do
 you have a password on your phone? Do you encrypt your hard drives? Do you
 use an antivirus? Well these are all important security measures that keep your
@@ -19,7 +16,7 @@ Privacy, on the other hand, is any information that can be tied to your personal
 identity. Just because something is secure, doesn’t mean that people can’t collect
 any of your personal information.
 
-\* Hold Book \* Let me give you some stories to make this easier to understand:
+*(Hold Book)* Let me give you some stories to make this easier to understand:
 
 Let’s say you’re dating someone, and they go psychopath on you. They break
 your car, they wreck your house, it’s just a bad situation. You go to court to claim
@@ -54,8 +51,6 @@ with that data. They could very well be selling it to third parties who are usin
 data to influence an election. AVG, an antivirus company, actually came under a
 lot of fire for a very intrusive privacy policy. The truth is, we don’t know since we
 don’t have control of our data, a company does.
-
-[Queue Outro Promos]
 
 That’s the antivirus example, it typically helps people understand the difference
 between security and privacy pretty well. It’s very important to fully distinguish
