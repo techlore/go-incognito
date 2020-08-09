@@ -6,10 +6,6 @@ address. Almost every device uses one, and the name has nothing to do with the
 Macintosh, even though Macs do have MAC addresses. So what’s the problem
 with these and why should you be concerned? Let’s find out!
 
-After a short message…
-
-[Promotional Spot]
-
 If you were to gain access to a network, let’s say a free cafe’s WiFi, you would see
 the MAC addresses of every device connected to the network. MAC addresses are
 tied to your hardware, meaning everytime you connect to a network, it logs what
@@ -55,9 +51,7 @@ you, and there does seem to be built-in features for newer version of android.
 
 For iOS, you can’t spoof your MAC address unless you’re jailbroken. The
 workaround is you tether internet traffic through your computer with a spoofed
-MAC address. [Authors Note: This is inaccurate as of iOS 14 -Chase]
-
-[Queue Outro Promos]
+MAC address.
 
 So that summarizes MAC addresses and how to change them in order to
 continually make it look like you’re connecting with a different device. Try to do
@@ -65,3 +59,6 @@ this as often as possible to prevent people from tracking where you go, and what
 you’re doing on a network by simply logging your MAC addresses. The next
 lesson will be on a similar topic: Networking...more specifically how to properly
 secure a network. I’ll see you then!
+
+## Changes
+*** iOS 14 now enables Mac address randomization! 
