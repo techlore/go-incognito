@@ -8,8 +8,6 @@ recent widespread one in the US, as well as password cracking, since routers are
 always live and people have unlimited time to figure out the password. Luckily,
 there are lots of things we can do to secure our home routers. Let’s do it!
 
-[Promotional Spot]
-
 First, make sure your router is using at the very least WPA2 encryption, since the
 previous WEP encryption allows anyone with half a mind to get into your router.
 It’s been cracked for years and it’s criminal for it to still be an option.
@@ -53,7 +51,7 @@ What are some other things you can do to improve the security of your router?
 Glad you asked :)
 
 Like we’ve mentioned earlier in lesson 3.2, make sure everything is up to
-date--including your router. * hold manual * Refer to your manual for instructions
+date--including your router. *(hold manual)* Refer to your manual for instructions
 and do this as often as possible to receive the latest security patches.
 A big no-no is using the WPS button to connect to your router. WPS is a button
 you push that lets you quickly connect to a wireless connection without typing a
@@ -84,8 +82,6 @@ secure, although more advanced to set up than OpenWRT. They’re both very
 good, so I would research the features to see what’s best for you, although keep
 in mind not every router is compatible, so make sure to check beforehand if your
 device is supported.
-
-[Queue Outro Promos]
 
 That is all I have to say about routers and networks. They aren’t crazy complex,
 and it’s one of the most important devices to lockdown, so make sure you’re
