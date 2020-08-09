@@ -1,6 +1,6 @@
 # Section 2 Introduction
 
-Welcome to Section 2! Things are finally going to \*KICK\* kick off, and it’s time to
+Welcome to Section 2! Things are finally going to *(KICK)* kick off, and it’s time to
 learn some new stuff. If you’re going through this course, you’re going to fall into
 a few categories: You could be a beginner who is learning about all of this for the
 first time. Maybe you understand the basics but need to learn more advanced
