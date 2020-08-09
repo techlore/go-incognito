@@ -1,15 +1,12 @@
 # Minimalism.
 
 Before we even discuss the internet, let’s talk about minimalism pertaining to your
-local files and programs. “Local” means files and programs stored on your \*show
-devices \* physical hard drives, phones, and other personal devices. In general,
+local files and programs. “Local” means files and programs stored on your *(show
+devices)* physical hard drives, phones, and other personal devices. In general,
 the rule of thumb is the more programs and services you’re using, the higher
 chance of a security exploit and/or personal data collection.
 
-Why is this? Let’s find out after this short message…
-[Promotional Spot]
-
-A basic example: \* Hold Smartphone \* Almost all of us have smartphones. Let’s
+A basic example: *(Hold Smartphone)* Almost all of us have smartphones. Let’s
 say you download the Facebook app onto your phone. It can now read all of your
 contacts, your SMS messages sent outside of the app, and it can view your phone
 calls. This already is alarming. But let’s say you download Snapchat. Now
@@ -71,7 +68,7 @@ shredding files later on in the course. Then you can start moving to your other
 files, finding things you really have no use for anymore. Old screenshots,
 unneeded videos, expired documents, this is all on you to decide. At this point, I’d
 recommend transferring any documents which contain sensitive information
-about your life to a properly secured \* show both \* external hard drive or flash
+about your life to a properly secured *(show both)* external hard drive or flash
 drive, which can only be accessed if you physically plug it in, that way the
 information isn’t always accessible by your operating system. We will cover how to
 properly secure these later on with encryption.
@@ -86,8 +83,8 @@ uninstalling programs, it has to be done in the control panel or the new Windows
 you have to drag it into the trash bin. For the more advanced users, when you
 uninstall programs from your computer (especially in windows), there are
 commonly still leftovers of the program which aren’t fully removed. Some key
-places to look are these directories. \* C:/Program Files, C:/Program Files (x86),
-C:/User/YOURUSERNAME/Appdata \* You can also hit Windows Key + R, and enter
+places to look are these directories. *C:/Program Files, C:/Program Files (x86),
+C:/User/YOURUSERNAME/Appdata* You can also hit Windows Key + R, and enter
 Regedit.exe. Once here, just search for keywords from the program to find
 leftover registry keys, or there’s a tool in the next lesson which will automate this
 process. For Mac users, do the same thing by looking through these directories
@@ -112,12 +109,6 @@ controls as well, so you don’t need to setup parental controls on the device i
 No matter what, avoid spy software from third party companies, that’s a big
 no-no.
 
-**As important as making a lesson geared towards beginners can be, I have made the fatal mistake
-    of failing to mention those of you already using Linux. This entire lesson, as well as the previous
-    lesson (2.2) apply to Linux. BleachBit offers Linux support, just as it does for Windows.**
-
-[Queue Outro Promos]
-
 So that wraps it up for minimalism. Remember: Less is more. The less programs,
 apps, and files you store on your devices, the less data there is to collect about
 you, and less risk of a security exploit. This was a simple and casual step, but it’s
@@ -125,3 +116,8 @@ very important nonetheless down the road. This is also one of the beautiful
 things to do, because it actually speeds up your devices and improves your
 battery life, without really affecting convenience. The next lesson for section 2 will
 dive a little bit deeper into minimalism. I will see you then.
+
+## Changes
+***As important as making a lesson geared towards beginners can be, I have made the fatal mistake
+    of failing to mention those of you already using Linux. This entire lesson, as well as the previous
+    lesson (2.2) apply to Linux. BleachBit offers Linux support, just as it does for Windows.***
