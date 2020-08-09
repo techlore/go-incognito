@@ -14,5 +14,3 @@ I hope you’ve learned more than just a few things, I hope your life has comple
 changed; if it did, please share your story with me because I’d love to hear it. That
 is all I have to say, thank you for being a part of the course and the Techlore
 community, and go out there and normalize privacy.
-
-Final Animation
