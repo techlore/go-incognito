@@ -7,8 +7,6 @@ and private. Well, no. Unfortunately, we communicate on an internet where our
 messages are inherently insecure with the illusion that what’s being shared is
 kept private. Let’s dive deeper into the topic…
 
-[Promotional Spot]
-
 By default, it is extremely difficult to communicate privately and securely digitally.
 It’s a weird thing to think about. In our society, we respect people’s personal
 space because we want them to respect ours. If you want a conversation to be
@@ -132,8 +130,6 @@ on Tor, which lets you securely and anonymously share a file of any size. This i
 very promising. No matter what service you choose, encrypt the file before
 uploading it, and give the password to your recipient using another
 communication method.
-
-[Queue Outro Promos]
 
 So that’s going to cover the different main forms of communication on the
 internet. Section 3 has been a ton of fun, time-consuming, but fun. We’re halfway
