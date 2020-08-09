@@ -57,7 +57,7 @@ and cookies as well.
 7) Try to ask a friend to dig up information on you online. If they find more than
 you’d like, you need to ask them where they got the information so you can
 remove or falsify it. You can also do this yourself if you don’t have any friends \*
-long pause \* that don’t want to do it for you.
+long pause *(that don’t want to do it for you.)*
 
 8) This is your decision, the other things we covered I recommend you always
 check up on, but you may have different priorities and things to look at. Section 5
