@@ -2,16 +2,13 @@
 
 Another term I’m going to be using that you need to know and understand is
 metadata. Metadata is any data that doesn’t directly expose any sensitive
-information, but can be used to expose information about us. For example, \*Hold
-several books up\* libraries use metadata to sort books by title, author, and
+information, but can be used to expose information about us. For example, *(Hold
+several books up)* libraries use metadata to sort books by title, author, and
 publishing information. Having 2 of any of these three 3 things is enough
 information to find that book, open it up and view the contents. This is very
 similar to our digital lives; where even though your messages may be encrypted,
 there could be metadata collected like who’s talking to who at what time for how
 long, all things that can be used to figure out what is being said.
-
-We’re going to explore this further after a quick message…
-[Promotional Spot]
 
 A post by Kurt Opsahl from the EFF, a digital rights group, gives a few examples
 as to why metadata can be so dangerous.
@@ -79,8 +76,6 @@ to delete metadata on your files, so definitely take a look at them. For Android
 there’s Scrambled EXIF, photexif for jailbroken iOS devices, viewExif for
 non-jailbroken iOS devices, and the LiveOS tails includes a tool as well, we will
 discuss Tails in section 4 of the course.
-
-[Queue Outro Promos]
 
 And that is it! Thank you for watching, I know this stuff might not be the most fun
 to learn about, but it is necessary to know and it only gets better from here. We
