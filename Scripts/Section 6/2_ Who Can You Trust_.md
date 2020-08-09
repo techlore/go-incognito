@@ -5,8 +5,6 @@ want to make it seem like everybody is out to get you, and no one is trustworthy
 in your life. But I do want to make you cautious with how other people can
 intentionally or unintentionally leak sensitive information about you.
 
-[Promotional Spot]
-
 Let’s begin with the people closest to you--family and close friends. These are
 your most trusted peeps, but proceed with caution. Not because they’re
 necessarily untrustworthy, but their habits can be improper. For example, you
@@ -30,7 +28,7 @@ engineering, “The manipulation of the natural human tendency to trust.” Soci
 engineering is dangerous because it exploits the way humans function to achieve
 unauthorized access. How is this done? Well we talked about phishing scams
 earlier in the course, which relied on you trusting a fraudulent website that steals
-your information--this is a form of social engineering. \* show phone \* This can
+your information--this is a form of social engineering. *(show phone)* This can
 happen with your phone calls as well. Hackers can call their targets from a
 "spoofed" phone number claiming to be someone needing your information. It
 could be spoofed to be your AT&T provider asking for your account details, or
@@ -85,8 +83,6 @@ information and pick a different service if possible.
 share about you. You can keep your life as locked down as possible, but if
 your partner or best friend is sharing your phone number and email that’s
 intended to be secret, well...that’s not good.
-
-[Queue Outro Promos]
 
 And that wraps up this lesson. There will always be those you trust, but remember
 to educate and communicate with them about your privacy and security habits.
