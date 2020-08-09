@@ -1,14 +1,12 @@
 # Shopping Safely
 
-At this point in the course, you may be asking yourself about \* show groceries \*
+At this point in the course, you may be asking yourself about *(show groceries)*
 shopping. How can you order from Amazon, privately and securely? What about
 physical stores? This is tricky because it’s difficult to do. Stress on difficult,
 because it’s not impossible! Let’s go ahead and cover different techniques and
 methods we can use to make our shopping experiences, online and in-store,
 safer; keep in mind this is a more extreme lesson, so those of you who draw your
 convenience lines early may find this lesson out of your zone.
-
-[Promotional Spot]
 
 Let’s start with in-person stores, leaving the digital-side out of the equation.
 Security-wise, we need to be careful, we don’t know how stores handle your data.
@@ -79,8 +77,6 @@ don’t require an account to make a purchase; if you can checkout as a guest,
 take that route. Rather than using Amazon gift cards though, use prepaid debit
 card and a pseudonym to make an account--if one is required. Don’t forget to
 make purchases on a hardened browser, we covered this in section 3.
-
-[Queue Outro Promos]
 
 And that is how to shop safely. It’s important you take control of your data
 because the places you shop don’t have your security and privacy on their
