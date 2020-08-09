@@ -3,10 +3,6 @@
 The very last thing we’re going to talk about in section 4 is auditing. It is one of
 the most important things that you can do in this course, so don’t take it lightly!
 
-Don’t take this message lightly either…
-
-[Promotional Spot]
-
 When we think of auditing, we think of inspections, uneasiness, error-finding, and
 unfortunately...that’s what it is. But, auditing is very important. Your privacy and
 security etiquette is going to change over time. Either you’re going to slowly start
@@ -75,8 +71,6 @@ a New Year’s resolution, but in six months you can be completely vulnerable. S
 on top of things! I recommend you set aside a day every week, other week, month,
 or every other month to sit down and audit yourself. The frequency is your
 decision and where you draw your convenience line.
-
-[Queue Outro Promos]
 
 I wish you luck! Thank you for watching this lesson and I will see you in the finale
 of section 4, where we recap everything we covered.
