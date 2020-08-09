@@ -112,3 +112,13 @@ normalize privacy, and implement better security in our world. I hope I’ve mad
 my case, and I hope to see more people begin to take their privacy and security
 seriously. I will see you in the next lesson on security vs privacy, and don’t forget
 to normalize privacy.
+
+## Changes
+- At https://youtu.be/M6_ZlkBYrxI?t=3m22s (3 minutes, 22 seconds) I say: 
+```
+Any opposition to this is greeted by the response that if a person is doing anything wrong, they should have nothing to hide.
+```
+- What I meant to say was: 
+```
+Any opposition to this is greeted by the response that if a person is doing nothing wrong, they should have nothing to hide.
+```
