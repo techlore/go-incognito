@@ -1,10 +1,8 @@
 # FOSS
 
-A term that I’m going to consistently use throughout this course is FOSS, \*Show
-Floss\* not FLOSS , FOSS, which stands for Free and open-source software. Rather
+A term that I’m going to consistently use throughout this course is FOSS, *(Show
+Floss)* not FLOSS , FOSS, which stands for Free and open-source software. Rather
 than me explaining it every time I use the acronym, let’s cover the term right now.
-
-[Promotional Spot]
 
 FOSS isn’t just a category of software--it’s a movement. FOSS is any software that
 can be freely licensed to use, copy, study, and change in any you want, while
@@ -41,7 +39,7 @@ iPhone, you can’t easily remove Google services on an Android device, and
 Microsoft bugs you all day to sign in to your Microsoft account on Windows 10.
 These are just a few of the thousands of things companies force you to deal with
 everyday. The last benefit is the most obvious one, it’s all free and accessible, you
-never have to pay a \* show dime \* dime, since it’s voluntarily run by the
+never have to pay a *(show dime)* dime, since it’s voluntarily run by the
 community, and typically relies on donations from users.
 
 Because of all these benefits, I’m going to be recommending FOSS as much as I
@@ -52,15 +50,14 @@ company with 20 eyes looking for their next paycheck. If you want more
 information on FOSS, I made a more in-depth video discussing it on my YouTube
 channel.
 
-[Queue Outro Promos]
-
 I hope this explained what FOSS is, and why it’s important for this course. If you
 want to get a head start, you can start looking for FOSS alternatives to the
 software you use everyday by going to alternativeto.net, searching for your
 software that you want to change from, and filtering by open source. Thank you
 for watching, and I’ll see you in the next lesson covering metadata.
 
-**[Something I regret not mentioning about FOSS relates to the code and control
+## Changes
+***Something I regret not mentioning about FOSS relates to the code and control
     companies/governments have over proprietary software. Just as mountains are natural
     architectural limitations found in nature, software and code have architectural limitations on what
     a user can/can’t do. With proprietary software, the user doesn’t know what these limitations are,
@@ -68,4 +65,4 @@ for watching, and I’ll see you in the next lesson covering metadata.
     have semi-automatic driving utilizing cameras around the car, but how do we know those cameras
     aren’t constantly collecting identifiable information about other cars around us? It is unlikely, but
     there’s no way to disprove the claim. With FOSS, we can disprove it. With FOSS, we know we aren’t
-    being limited. With FOSS, we can’t be oppressed unknowingly.]**
+    being limited. With FOSS, we can’t be oppressed unknowingly.***
