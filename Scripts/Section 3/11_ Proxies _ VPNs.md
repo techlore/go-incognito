@@ -6,8 +6,6 @@ What are these tools? Do they make you anonymous? Are they different from one
 another? In this lesson, we’re going to cover all of those questions, and much
 much more!
 
-[Promotional Spot]
-
 Let’s start with proxies. A proxy’s main goal is to hide your real IP address. An IP
 address is a unique code used to identify you on the internet. Proxies spoof this
 by acting as a middleman between you and the websites you visit, so that the
@@ -124,8 +122,6 @@ beta, and are becoming a more standard offering across both operating systems
 and VPN providers. I’m still wary since it’s relatively new to the scene, but
 definitely keep an eye on Wireguard, it’s a very promising project that may one
 day be the new recommended protocol, over OpenVPN.
-
-[Queue Outro Promos]
 
 That’s going to wrap up everything! I hope you understand the differences
 between proxies and VPNs. I hope you enjoyed the lesson, and I will see you in the
