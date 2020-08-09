@@ -4,10 +4,6 @@ To kick off section 3 with a pretty easy start, let’s talk about security
 vulnerabilities and why keeping your programs, apps, and operating systems up
 to date is important.
 
-But not as important as this message:
-
-[Promotional Spot]
-
 At the Black Hat Conference in 2017, security researchers found a vulnerability on
 all Android devices called The ‘Toast Overlay’ attack, \* Have Plate of Toast \*
 which was able to deceive users into installing malware by overlaying
@@ -21,7 +17,7 @@ iOS, MacOS, Windows, and it led to the possibility of man-in-the-middle attacks,
 letting hackers hijack the device. Vendors immediately started rolling out
 patches, which required an update to install.
 
-\*Hold bag of sugar \* Crack….no no. KRACK exploits vulnerabilities in the WPA2
+*(Hold bag of sugar)* Crack….no no. KRACK exploits vulnerabilities in the WPA2
 security protocol on routers and allowed hackers to eavesdrop on any device
 hooked up to a wifi network. This affected all major operating systems, and
 vendors like Microsoft and Android rolled out their own patches.
@@ -49,8 +45,6 @@ updates--I like having control over the update process and I enjoy reading the
 changes developers are including in the update. But, for most users out there, I
 do recommend you leave automatic updates enabled to receive security patches
 at the fastest possible rate.
-
-[Queue Outro Promos]
 
 So that’s the first lesson and probably the easiest of section 3. Keep your
 programs, apps, and operating systems up-to-date, and your future self will
