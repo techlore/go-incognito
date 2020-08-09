@@ -6,11 +6,6 @@ how we interact with our devices, it’s important that you, the user, configure
 a way that will increase your privacy and security, limit website tracking, and give
 you a much cleaner web experience. Let’s pick our knight!
 
-Almost as clean as the premium version of the course with no promo messages
-like this one:
-
-[Promotional Spot]
-
 To start off simple, what knight, or browser should you be using? All of them claim
 to be either the best, the fastest, or offer the best battery life. So here are the
 browsers I recommend you use with a focus on either security, privacy, or both. If
@@ -62,8 +57,6 @@ There is a lot more you need to do, mostly related to extensions and browsing
 habits. For most of you watching this lesson, I would recommend you go with
 Firefox because it offers such good support for extensions that we need to use.
 The instructions in the next few lessons will be aimed at Firefox.
-
-[Queue Outro Promos]
 
 Thank you for watching this lesson, it was straightforward because there are
 three more lessons which will get into the more technical side of things. I hope
