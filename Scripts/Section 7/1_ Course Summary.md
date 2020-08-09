@@ -3,10 +3,6 @@
 Welcome to section 7, this lesson will summarize everything we’ve learned, and
 the next video will be our final goodbyes.
 
-Here’s the final promo, so listen up :)
-
-[Promotional Spot]
-
 Section 1 covered basic terms and information needed to get started: explaining
 what is privacy and security, why we should care, FOSS, metadata, and the
 convenience line. Section 2 was dedicated to getting you a clean slate through
@@ -41,8 +37,6 @@ internet teaching how to live a private and secure life. There are hundreds of
 sources, and this has all been peer edited and reviewed by several people over
 the course of 4 months. I really really hope that it’s been useful and you use this
 information wisely.
-
-[Queue Outro Promos]
 
 Thank you all so much for watching; remember to normalize privacy, we have a
 right to it, which is looking more and more grim everyday. If you made it all the
