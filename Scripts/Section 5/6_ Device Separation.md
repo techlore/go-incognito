@@ -4,10 +4,6 @@ This lesson will be pretty simple and straightforward, and if you watched the
 expendable operating systems lesson in section 4, you’ll find this lesson will have
 many similarities.
 
-Here’s something you weren’t prepared for…
-
-[Promotional Spot]
-
 The ideas in this lesson aren’t foreign to you, your work or school may give you a
 device solely used for work or education--separate from your personal devices.
 One reason this is done, is to increase security, since one device being
@@ -59,8 +55,6 @@ everybody to buy eight different devices for different tasks; but I do expect yo
 start thinking about how certain aspects of your life are mixed, when it could be
 beneficial to separate them through a physical barrier, or a digital one using
 maybe something like virtual machines or separate user accounts.
-
-[Queue Outro Promos]
 
 To summarize compartmentalization, Create boundaries! Thank you for
 watching, and I’ll see you in the section finale.
