@@ -6,9 +6,7 @@ straightforward and simple to do. This is going to be the first lesson where man
 of you are going to find your limits. Erasing your online identity is a very tough
 thing for us to do, many of your accounts you’ve most likely owned for a good
 part of your life, and some of them you may use everyday. So yes, this is the true
-beginning of a clean slate. \* Hold phone to ear \* Let’s start with a wake-up call.
-
-[Promotional Spot]
+beginning of a clean slate. *(Hold phone to ear)* Let’s start with a wake-up call.
 
 The first thing I want you to do is login to your main email, and search ‘sign up’ in
 the search bar to get an unofficial a list of emails services you’ve signed up for.
@@ -81,7 +79,7 @@ aren’t comfortable deleting a service you still want to keep? First, if it’s
 you use consistently, make sure you’re utilizing privacy settings and giving the
 least amount of personal information possible. If you aren’t deleting the service
 because you have some form of data on there you don’t want deleted, like maybe
-a cloud storage service, see if you can move that data and \* hold external HDD \*
+a cloud storage service, see if you can move that data and *(hold external HDD)*
 store it locally (with proper security) so you can finally delete that account and
 still keep your data.
 
@@ -152,8 +150,8 @@ need your information, and only kept your actual information on as few services
 as possible. This is your clean slate!
 
 Now, there’s no other place to say this in the course, so I’m saying it here. You
-don’t need to register for services like Lifelock. \* Throw all of these things over
-your shoulder \* You’re wasting your money, time, and giving up information to a
+don’t need to register for services like Lifelock. *(Throw all of these things over
+your shoulder)* You’re wasting your money, time, and giving up information to a
 company that doesn’t need to have it. Everything we’ve gone through in this
 lesson accomplishes the same thing as Lifelock, and this entire course will teach
 you how to protect yourself so you won’t need to worry about identity theft and
@@ -162,12 +160,11 @@ Equifax, who suffered one of the largest leaks in American history. Not only did
 Equifax suffer from this leak, but they profited from it through services like
 Lifelock. URGHH
 
-**Albine is a service shown in the lesson to automatically remove your information from people-searching websites. Please be aware this is NOT the only product that offers this service. For example, https://www.privacyduck.com offers this functionality as well.**
-
-[Queue Outro Promos]
-
 That’s going to wrap up erasing your online identity. It’s very difficult to cover
 everything in one lesson, but that covered JUST about everything. The rest will
 come later when we retouch on this subject more in-depth. Hopefully if you
 followed a lot of these steps, you’ll get the feeling of digital control, maybe for the
 first time in your life! And this is just the beginning! I hope you enjoyed this lesson and thank you for watching.
+
+## Changes
+***Albine is a service shown in the lesson to automatically remove your information from people-searching websites. Please be aware this is NOT the only product that offers this service. For example, https://www.privacyduck.com offers this functionality as well.***
