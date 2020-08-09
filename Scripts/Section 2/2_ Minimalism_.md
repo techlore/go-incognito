@@ -119,5 +119,4 @@ dive a little bit deeper into minimalism. I will see you then.
 
 ## Changes
 ***As important as making a lesson geared towards beginners can be, I have made the fatal mistake
-    of failing to mention those of you already using Linux. This entire lesson, as well as the previous
-    lesson (2.2) apply to Linux. BleachBit offers Linux support, just as it does for Windows.***
+    of failing to mention those of you already using Linux. This entire lesson applies to Linux. BleachBit offers Linux support, just as it does for Windows.***
