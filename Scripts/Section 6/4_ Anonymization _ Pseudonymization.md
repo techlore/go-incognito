@@ -7,10 +7,6 @@ and part of the system. We have social security numbers, we have birth
 certification, we pay taxes and have jobs. But this doesn’t mean we can’t hide or
 separate the non-necessities from ourselves. How do we do this?
 
-I’ll tell you right after this short message:
-
-[Promotional Spot]
-
 To recap, pseudonymization is the creation of an alias, or ghost identity.
 Pseudonyms are completely legal as long as you’re not using them to defraud
 someone else. They allow you to sideload information to aliases not tied to you,
@@ -67,8 +63,6 @@ help with creativity, fakenamegenerator is a great resource. And before wrapping
 things up...remember the golden rule:
 
 **Your pseudonyms must not be tied to your personal identity.**
-
-[Queue Outro Promos]
 
 And that’s the lesson, it’ll give you a lot of freedom with different ways you can
 sideload information that would otherwise be tied to your personal identity. I
