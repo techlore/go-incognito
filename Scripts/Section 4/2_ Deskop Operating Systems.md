@@ -3,12 +3,10 @@
 Your digital world starts with booting up your computer into its operating system.
 Almost everything you do runs on top of an OS like Windows, MacOS, or
 Linux--making them extremely important in our quest towards privacy and
-security. \* show helmet \* It’s like wearing a super protective helmet on a bike
+security. *(show helmet)* It’s like wearing a super protective helmet on a bike
 without breaks.
 
 We’ll dive off our bikes and explore this more after a quick message…
-
-[Promotional Spot]
 
 Now technically, operating systems run on top of a BIOS, on top of your
 hardware. This will all be discussed in section 5, we’re going from the top and
@@ -35,7 +33,7 @@ Windows? The answer isn’t so simple...
 
 Malware is any piece of unauthorized software designed to cause damage to a
 system. Malware relies on the use of vulnerabilities and exploits within an
-operating system to properly function. \* hold calculator \* To compare Windows
+operating system to properly function. *(hold calculator)* To compare Windows
 and MacOS, we can look at the number of vulnerabilities and how widely they are
 utilized to infect consumers. Luckily, The Hacker News published an article from
 2015 that found MacOS does have fewer exploits than Windows, although they
@@ -100,7 +98,7 @@ compatible with Linux. For those who are on the edge, I have a few words of
 wisdom:
 
 First, you can use Linux without installing it. You can create a virtual machine,
-which I’ll discuss later in section 4, or you can create a \* show flash drive \*
+which I’ll discuss later in section 4, or you can create a *(show flash drive)*
 bootable liveOS, which I’ll also talk about.
 
 Second, there are many FOSS alternatives to the programs you use every day. It’s
@@ -117,9 +115,7 @@ amazing content talking about Linux and easy ways to switch over, we actually
 did a stream together going through some tips for all of you, to make the switch
 as easy as possible.
 
-[Queue Outro Promos]
-
-And that’s everything I have to say about desktop operating systems. \* hold
-popsicles \* There are many flavors to choose from and the choice is entirely
+And that’s everything I have to say about desktop operating systems. *(hold
+popsicles)* There are many flavors to choose from and the choice is entirely
 yours. The next lesson will cover mobile operating systems, so make sure to stick
 around for that. Thank you for watching, and see you then!
