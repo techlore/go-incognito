@@ -1,8 +1,8 @@
 # Mobile Operating Systems
 
 Now that we’ve covered desktop operating systems in the previous lesson, I’m
-sure you’re wondering what options you have for \* hold iPhone and Android
-device \* mobile operating systems. Well, we’re pretty limited here. On the bright
+sure you’re wondering what options you have for *(hold iPhone and Android
+device)* mobile operating systems. Well, we’re pretty limited here. On the bright
 side: it’s a shorter lesson.
 
 Very similar to desktop operating systems, everything you do on your mobile
