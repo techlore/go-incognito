@@ -24,7 +24,7 @@ Bancorp in Minnesota, Social media like Facebook which goes through at least
 one privacy scandal every year, or even medical records which can be sold, even
 though they are meant to be confidential.
 
-\* show wallet \* Credit Card Fraud will cause a headache for days, weeks, or even
+*show wallet* Credit Card Fraud will cause a headache for days, weeks, or even
 months, and the culprit is typically poor privacy and security with your credit
 card information. Companies want to convince you there’s no way to protect
 yourself, so that they can sell a product to do it for you, I will teach you otherwise.
@@ -86,7 +86,7 @@ of those in power.
 
 In fact, you can already see the silencing of citizens take place today. In the
 United States, people who expose fraudulent activities in companies, also known
-as \* put on whistle \* whistleblowers, are encouraged and are protected by laws in
+as *put on whistle* whistleblowers, are encouraged and are protected by laws in
 many states, in order to hold companies accountable and prevent them from
 abusing their power But do we have a similar program like this for governments,
 which allows citizens to hold our government accountable? Well, no. If somebody
@@ -107,7 +107,7 @@ watching the Vice documentary on YouTube, it is phenomenal.
 
 [Queue Outro Promos]
 
-To summarize, you need to protect your data. It \*Hold Key\* holds the key to your
+To summarize, you need to protect your data. It *Hold Key* holds the key to your
 pictures and contacts, the money in your bank, all of your personal information,
 and all of your private communication. You’re not going to be sharing your data
 with strangers on the street, and just because digital strangers are collecting it
