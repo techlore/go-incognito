@@ -5,8 +5,6 @@ the word radio. When I say radios, I’m referring to Bluetooth, location servic
 NFC, cellular data, and anything else that gives off a signal. This lesson will be
 broken up by each type of radio. Let’s get into it!
 
-[Promotional Spot]
-
 Let’s begin with Bluetooth. Bluetooth has allowed us to interact with devices
 wirelessly like never before. But it’s one of the most inherently insecure
 technologies. Security risks like Bluejacking, Bluesnarfing, and Bluebugging have
@@ -24,7 +22,7 @@ stores.
 What can you do about this? First, make sure you’re up-to-date on your devices.
 Second, utilize proper bluetooth passwords on devices requiring them, so don’t
 use the default 0s. Third, leave Bluetooth off as much as possible; it doesn’t need
-to be on all day. Lastly, don’t use it at all if possible. \* show wire and phone \* If you
+to be on all day. Lastly, don’t use it at all if possible. *(show wire and phone)* If you
 have the option to go wired--go wired!
 
 The next radio is GPS. GPS is great for navigation and other situations that
@@ -153,8 +151,6 @@ transportation are tracked as well. The inconvenience of getting through these
 problems is astronomical, but you will have close to an anonymous phone if you
 purchase it properly. This is definitely not for everybody, but the option is there
 for people who need the absolute highest privacy.
-
-[Queue Outro Promos]
 
 To summarize the lesson, every radio you use creates a new potential security
 exploit, or a potential leak of information about your personal data. I hope this
