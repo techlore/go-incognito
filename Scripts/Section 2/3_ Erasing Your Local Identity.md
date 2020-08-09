@@ -1,13 +1,8 @@
 # Erasing Your Local Identity
 
 Now that we understand the basics of minimalism, we need to finish cleaning up
-our local identities, Let’s discuss \* show cookies & Cash\* cookies, cache, and any
+our local identities, Let’s discuss *(show cookies & Cash)* cookies, cache, and any
 temporary files stored on your devices.
-
-You know what you can’t remove though? These ads...well unless you’re on the
-premium version...let’s get it out of the way!
-
-[Promotional Spot]
 
 History, cookies, and cache (or we’ll use HCC for short) are most commonly seen
 and used within web browsers. History shows all the websites you’ve visited,
@@ -19,8 +14,8 @@ refreshed.
 HCC all have their functions, but they are terrible for your privacy, since websites
 are able to view and record data associated with them.
 
-\* Dip cookies in Milk \* Cookies are one problem, and are frequently used for
-cross-website tracking, but \* Dip huge cookie \* supercookies are a super
+*(Dip cookies in Milk)* Cookies are one problem, and are frequently used for
+cross-website tracking, but *(Dip huge cookie)* supercookies are a super
 problem. Think of supercookies as those squabbits from Brickleberry, or a hydra.
 If one dies, two more are created, although this is just an analogy. You can’t clear
 super cookies like you can clear regular cookies, because it is injected into your
@@ -44,7 +39,7 @@ different, but typically in the settings you’ll see an area to clear history a
 other data like cookies and cache. This is quick, easy, and lazy.
 
 But what about all the stuff other programs and your operating system store on
-you? For this, we need to use \* Hold Up Screwdriver \* special tools.
+you? For this, we need to use *(Hold Up Screwdriver)* special tools.
 
 CCleaner is a free option for both Windows and MacOS, it’s a good program, but
 it is closed source. On top of that they did suffer a hack which installed malware
@@ -83,15 +78,14 @@ David Kernell, who hacked Sarah Palin’s email account. The charges against bot
 Matanov and Kernell resulted from something called the Sarbanes-Oxley Act of
 2002, which aimed at preserving data to be used as evidence.
 
-**As important as making a lesson geared towards beginners can be, I have made the fatal mistake
-    of failing to mention those of you already using Linux. This entire lesson, as well as the previous
-    lesson (2.2) apply to Linux. BleachBit offers Linux support, just as it does for Windows.**
-
-[Queue Outro Promos]
-
 So, if you followed this lesson, you could be charged if you were to be accused of
 a crime. Luckily, you’re hopefully not being accused of a crime, and the
 workaround is to not store the information in the first place, and this is exactly
 what I will be teaching you how to do in section 3. This was just a lesson to start
 you off on a cleaner slate. Thank you for watching, and I’ll see you in the next
 lesson: erasing your online identity.
+
+## Changes
+**As important as making a lesson geared towards beginners can be, I have made the fatal mistake
+    of failing to mention those of you already using Linux. This entire lesson, as well as the previous
+    lesson (2.2) apply to Linux. BleachBit offers Linux support, just as it does for Windows.**
