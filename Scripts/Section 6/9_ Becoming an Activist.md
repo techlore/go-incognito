@@ -5,12 +5,8 @@ spreading the message and good information to the people around you. The
 more people who take their privacy and security seriously, the more companies
 and governments will need to cater to the public opinion.
 
-You know what’s not changing?
-
-[Promotional Spot]
-
-Let’s start with companies! \*Play Facebook Cares Snippet\* \*Play recording
-through Timeline of privacy issues\* Facebook doesn’t care about your privacy,
+Let’s start with companies! *(Play Facebook Cares Snippet)* *(Play recording
+through Timeline of privacy issues)* Facebook doesn’t care about your privacy,
 because there’s no pressure for them to care. There are no regulations and not
 enough people making a negative impact on the company. If they lose 50% of
 their customers, and all of them left for privacy concerns, Facebook would start
@@ -24,7 +20,7 @@ an impact on the people around you.
 The best thing you can do is to tell people why you do what you do. Trust me, they
 notice the precautions you take, and if they know you’re not some weirdo, they’re
 going to want to hear what you have to say. I constantly get questions about why
-I do what I do. Why do I use a password manager, a VPN, \* show screen \* why is my
+I do what I do. Why do I use a password manager, a VPN, *(show screen)* why is my
 screen always off from their point of view. The goal here is to give an answer that
 makes the other person rethink privacy and security. Tell them you use a privacy
 screen protector because shoulder attacks are a common way people get their
@@ -56,8 +52,8 @@ lesson 1.2. There are a few things we can do to improve this problem. First,
 implement and use the tools we’ve discussed throughout the course. That way
 people around you, who know you’re not a bad person, realize it’s not that weird
 to value your data. You should also keep them noticeable, leave Tor and other
-tools in your toolbar or desktop so people can see you use them. \* show your
-swag \* You can take this to the next level by donating to these projects for
+tools in your toolbar or desktop so people can see you use them. *(show your
+swag)* You can take this to the next level by donating to these projects for
 merchandise. The Tor project, the EFF, the FSF, and this course all offer
 merchandise like shirts and stickers to help you spread the message. This helps
 people in public realize these services are nothing to be ashamed of. Normalize
@@ -65,8 +61,6 @@ privacy; if there’s two words you should take home from this entire course, it
 those. 
 
 Normalize privacy!
-
-[Queue Outro Promos]
 
 To summarize, if you begin to take your privacy seriously, then you might find
 others will do the same. At first you may only have an impact on your circle of
