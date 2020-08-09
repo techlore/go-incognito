@@ -6,8 +6,6 @@ Linux--making them extremely important in our quest towards privacy and
 security. *(show helmet)* It’s like wearing a super protective helmet on a bike
 without breaks.
 
-We’ll dive off our bikes and explore this more after a quick message…
-
 Now technically, operating systems run on top of a BIOS, on top of your
 hardware. This will all be discussed in section 5, we’re going from the top and
 working down. If you followed everything privacy-related I’ve taught you so far in
