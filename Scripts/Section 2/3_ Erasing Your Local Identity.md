@@ -86,6 +86,6 @@ you off on a cleaner slate. Thank you for watching, and I’ll see you in the ne
 lesson: erasing your online identity.
 
 ## Changes
-**As important as making a lesson geared towards beginners can be, I have made the fatal mistake
+***As important as making a lesson geared towards beginners can be, I have made the fatal mistake
     of failing to mention those of you already using Linux. This entire lesson, as well as the previous
-    lesson (2.2) apply to Linux. BleachBit offers Linux support, just as it does for Windows.**
+    lesson (2.2) apply to Linux. BleachBit offers Linux support, just as it does for Windows.***
