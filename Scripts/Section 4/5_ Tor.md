@@ -6,8 +6,6 @@ dark web? \* get questions out of your face \* So many questions, and so many
 misconceptions! Today, I’m going to tell you everything you need to know about
 Tor, why it isn’t scary, and why it’s such an important tool in our digital age.
 
-[Promotional Spot]
-
 The Onion Router, or Tor, is a group of servers that improve your privacy and
 security on the internet. Normally, without Tor, you directly connect to a site like
 techlore.tech. Tor will obscure this connection by adding nodes, and every 10
@@ -163,8 +161,6 @@ have no reason to believe they own a large amount of them. ZOZ’s talk actually
 addresses a lot of the concerns about Tor, so I’m going to remind you to give that
 a watch. If you’re not a Tor believer, there are other projects out there designed
 to try and replace Tor, most notably I2P and Freenet.
-
-[Queue Outro Promos]
 
 This has been a very long talk, but I hope it cleared up a lot about Tor and the
 misconceptions behind it. I want to take this time to thank those of you who are
