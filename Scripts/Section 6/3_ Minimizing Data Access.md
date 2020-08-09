@@ -6,10 +6,6 @@ around with a tin foil hat? Do you take an oath to not speak outside the home?
 What do you do? Well, let’s cover different ways you can minimize access to your
 data in the digital and real world.
 
-Now, I ain’t minimizing the promos, so get ready for another one :)
-
-[Promotional Spot]
-
 Many of us unknowingly give out too much information. We see a web form and
 want to complete it to its full extent; we want services and people to know who we
 are. The problem is we aren’t aware of how others will handle your information, we
@@ -123,8 +119,6 @@ To summarize the lesson, a lot of us give out way too much information that
 doesn’t need to be given out. We have the tendency to be honest and undervalue
 the worth of our data. Your personal information is extremely important, so treat
 it like so.
-
-[Queue Outro Promos]
 
 That is all that is to be said about minimizing data access; I hope this changed
 your perspective on data collection. Thank you for watching and I’ll see you in the
