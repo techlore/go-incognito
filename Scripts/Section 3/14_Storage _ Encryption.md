@@ -6,8 +6,6 @@ them when you’re not trying to delete them? Should you store them locally? Ove
 the cloud? No matter what the content, the general process of securing it is
 pretty straightforward.
 
-[Promotional Spot]
-
 The easiest place to start is to encrypt your drive with full-disk encryption, but
 that’s going to be its own topic in section 5. For this lesson, we’re going to look at
 individual files and/or folders you want to safely protect.
@@ -79,8 +77,6 @@ The last and best cloud storage option is Nextcloud, which is a self-hosting clo
 storage service, meaning you host it yourself and you own all of your data. The
 setup can be tricky for beginners, but this is by far the best way to go if you’re
 able to go this route.
-
-[Queue Outro Promos]
 
 And that wraps up the basics on proper storage and encryption. I hope this was
 useful to you, and I will see you all in the next lesson, teaching safe
