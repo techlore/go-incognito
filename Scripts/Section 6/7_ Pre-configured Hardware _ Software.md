@@ -8,8 +8,6 @@ to offer security, privacy, or both out of the box. It’s important for us to s
 companies and projects that take this stuff seriously, and leave behind other
 companies that don’t give a crap...our advocacy lesson is coming soon.
 
-[Promotional Spot]
-
 Let’s start with software:
 
 - Tor is preconfigured to boost your anonymity. It’s offered for free, and the
@@ -64,8 +62,6 @@ iPads and Chromebooks. We’ve discussed using these in the past for high
 security, and low privacy activities; this includes personal banking,
 personal email, and anything else that is inherently unprivate, but requires
 a degree of security.
-
-[Queue Outro Promos]
 
 And that’s it! My hope is that some of you watching this course have some
 programming, engineering, or development experience. If so, I encourage you to
