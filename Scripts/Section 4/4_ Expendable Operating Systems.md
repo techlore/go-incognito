@@ -4,11 +4,6 @@ Welcome back to the course! Today’s topic is super fun: expendable operating
 systems...operating systems designed to be easily removable, replaceable, and
 destroyable. Let’s get right into it!
 
-You know what’s not expendable and meant to stay? You know where this is
-going...
-
-[Promotional Spot]
-
 To begin, virtual machines allow you to run operating systems within your current
 operating system, opening up many possibilities. To start with security, VMs run
 guest operating systems completely sandboxed and separate from your host
@@ -28,7 +23,7 @@ When it comes to privacy, virtual machines are an excellent tool to create
 pseudonyms, or ghost identities. They are expendable, can be deleted in a couple
 mouse clicks, are separate from your host OS (so nothing is mixed between
 identities) and you have full control of how you want the OS configured. As an
-example, let’s say I used my \* show personal laptop \* personal Windows computer
+example, let’s say I used my *(show personal laptop)* personal Windows computer
 for work, but wanted to separate my personal life from my work life. I can create a
 Debian VM to store my personal information, and have no work data whatsoever
 inside of it. I can set up another VM running something like Whonix to handle
@@ -52,7 +47,7 @@ machine. Tor will be discussed in our very next lesson.
 The second major type of expendable operating systems is Live Operating
 Systems, which as the name implies, run live, and don’t retain any information or
 changes you make to the OS, unless configured to do so with persistence. Most
-of these run off a \* show flash drive \* flash drive, allowing you to quickly boot into
+of these run off a *(show flash drive)* flash drive, allowing you to quickly boot into
 the OS on any device, at any point in time. When you shut off the computer, all
 things you downloaded, changed, or configured in the live OS are deleted and
 restored back to factory settings. Probably the most well-known strictly live
@@ -70,8 +65,6 @@ to do banking, Tails OS for anonymizing your casual web traffic, or a Debian
 flash drive used for personal accounts like email. Being able to separate your life
 is essential, as we’ll discuss in section 6, and having an expendable arsenal is
 something very cool to have, with infinite opportunities for your individual needs.
-
-[Queue Outro Promos]
 
 That’s going to wrap up expendable operating systems, the next lesson will talk
 about Tor which I’m sure is a topic many of you are looking forward to viewing. I’ll
