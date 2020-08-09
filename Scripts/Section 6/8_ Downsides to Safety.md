@@ -7,8 +7,6 @@ your information; not to mention the benefits from fraud, identity theft, and ot
 criminal activities. These are amazing pros! But, there are problems that are
 difficult to avoid, and this lesson will prepare you for the most common ones.
 
-[Promotional Spot]
-
 The first and most obvious issue is your convenience will go down the drain. We
 talked about this in the very first section of the course; the more private and
 secure you get, the more inconvenient your life becomes. This is why I introduced
@@ -41,8 +39,6 @@ I hope this has shed some light on the downsides to living a more private and
 secure life, but I also hope it doesn’t discourage you from implementing a good
 amount of everything we’ve talked about. The benefits you’ll get greatly outweigh
 the downsides, and there’s always a middle ground; where do you draw your line?
-
-[Queue Outro Promos]
 
 Make sure to stick around for the next lesson, which is the last informational
 lesson of the course, and it’s the most important. It talks about activism,
