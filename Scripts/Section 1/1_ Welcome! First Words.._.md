@@ -2,7 +2,7 @@
 
 Hello future privacy and security advocates, and welcome to Go Incognito, a
 course teaching you how to be secure and private in our modern-day world. This
-is a pretty big number * 1,946,181,599 * Well, it’s the total number of records
+is a pretty big number **1,946,181,599** Well, it’s the total number of records
 containing personal and other sensitive data that have been compromised
 between January 1st, 2017--and March 20, 2018. Pretty crazy stuff that we will learn
 how to prevent through the course!
