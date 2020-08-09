@@ -7,11 +7,6 @@ Well no...not even close actually. This lesson is going to cover the basics of h
 properly delete files, especially sensitive ones that you don’t want to be
 recoverable.
 
-You know what else can’t be recovered, the time it takes to sit through the
-following message...wait….
-
-[Promotional Spot]
-
 First, how come emptying the recycle or trash bin doesn’t work? I’m going to
 loosely quote this website, since they explain it perfectly: “On traditional spinning
 hard drives, Windows keeps track of where files are on the drive through
@@ -51,13 +46,11 @@ data is much more difficult than wiping data on traditional spinning hard drives
 Your main places to look are in your BIOS, which sometimes offer secure deletion,
 or your SSD manufacturer may have their own proprietary software. This is overal
 much more difficult to remove data, for this reason, I’d advise keeping your most
-sensitive documents on \* show hard drive \* spinning hard drives. You can do
+sensitive documents on *(show hard drive)* spinning hard drives. You can do
 wipes on your SSD but I wouldn’t recommend doing more than 1 because you’re
 wasting writes on the drive and shortening its lifespan. I would recommend
 full-disk encryption for your SSDs to avoid any file from being recovered in an
 unauthorized fashion. We’ll talk about encryption in the very next lesson.
-
-[Queue Outro Promos]
 
 Let this lesson be a reminder that emptying your files, isn’t the same as deleting
 your files! Make sure you properly dispose of files so people can’t recover
