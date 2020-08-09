@@ -5,9 +5,6 @@ topic. These range from passwords, to encryption, pseudonyms, VPNs, Tor, and
 more... To give you a heads up: every lesson is broken down more or as less as
 follows:
 
-First, there’s a promo, speaking of....
-[Promotional Spot]
-
 I’ll start with the basics, what you need to know. This will be an introduction to the
 topic. Then there’s the big no-nos. Not using the same password for every
 website, the easy things that you should be implementing no matter who you are.
@@ -26,8 +23,8 @@ private and secure you wish to become, the more time and work you’re going to
 have to put in, there’s just no way around this.
 
 It’s just like riding a bike. You can have zero security protection for your bike, and
-very quickly be able to grab it, hop on, and ride away, very convenient indeed. \*
-hold up lock and key \*Now let’s say you put a simple lock on it that requires a key,
+very quickly be able to grab it, hop on, and ride away, very convenient indeed. *(
+hold up lock and key)* Now let’s say you put a simple lock on it that requires a key,
 well now you have to carry the lock on you everywhere, you have to lock your bike
 everytime you stop, and you have to make sure you don’t lose the key.
 Convenience has dropped significantly, but your security has gone up. Now let’s
@@ -52,11 +49,9 @@ understand your boundaries. Some things in this course will seem extreme to
 some, and introductory to others--be aware of your boundaries and how
 different people have different lines.
 
-[Queue Outro Promos]
-
 Once again, every lesson will start with the basics, and progressively get less and
 less convenient, and this is where you have to draw a line. I am sure that not
 everyone watching this course will follow everything I discuss to the max, and that
 is totally okay. This course is setup to be used by anybody, no matter who you
-are. So I now grant you the ability to \*Hold pencil up\* draw your own line. Thank
+are. So I now grant you the ability to *(Hold pencil up)* draw your own line. Thank
 you for being here, and see you in the next lesson.
