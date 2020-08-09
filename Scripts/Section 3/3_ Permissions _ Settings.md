@@ -7,10 +7,6 @@ to be tracked. This is obviously a big problem for several reasons. Let’s cove
 some stories and scenarios where permissions led to privacy invasions, and how
 we can change that!
 
-After you have my permission to continue watching after this short message…
-
-[Promotional Spot]
-
 Recently, Facebook suffered a pretty big hit after it was revealed that a company
 called Cambridge Analytica was stealing private customer data from users who
 authorized access to their Facebook account. This was HUGE, millions of people’s
@@ -37,10 +33,6 @@ dangerous and unneeded, since it collects data about everywhere you go when
 the app isn’t even open. Additionally, Uber also got caught for working with Apple
 on a secret permission allowing them to copy a user’s screen content.
 
-**Uber gets picked on A LOT in this lesson, which sparks the question: What about Lyft? They are a
-    smaller company, but this doesn’t protect everything from getting out. Lyft has also come under
-    some fire, as seen in this article: https://techcrunch.com/2018/01/25/lyft-god-view/**
-
 On the topic of cars...Tesla is an excellent company that makes phenomenal cars.
 When you buy a Tesla, you’re given a consent form which gives you the ability to
 allow Tesla to record any information about your car over a wireless
@@ -50,9 +42,6 @@ history, safety-related data, and much more. An entire portfolio of where and ho
 you drive is created which you have no control over, Tesla owns it and can do
 with it whatever they please. You can contact Tesla to opt out of this, but you will
 miss out on automatic software updates, as well as other features of the car.
-
-**Tesla is mentioned to have a form where you opt-in to cellular communication with the vehicle. Please be aware their process has updated, and opting out MAY involve voiding your vehicle’s
-warranty and many other major concerns. The Techlore channel has covered this topic here: https://www.youtube.com/watch?v=Qjkt3X2WLrw and will be covering this more in the future. **
 
 The lesson with all of these stories is the less permissions you grant programs
 and apps the better. All it takes is one of these companies to suffer a breach for
@@ -90,11 +79,17 @@ guests have limited permissions. This is similar to the principle of “least
 privilege” in a corporate or security setting. Where employees are granted
 the minimum permissions needed to get a job done.
 
-[Queue Outro Promos]
-
 I hope that helped you understand the need for limiting permissions, because
 most data breaches and privacy invasions are a result of poor permission
 etiquette. It’s important for you to understand what type of data is being
 collected about you from the features, settings, apps, and programs you use
 everyday. Remember minimalism and transfer the ideas from there to here.
 Thanks for watching, and I’ll see you in the next lesson talking about passwords.
+
+## Changes
+***- Uber gets picked on A LOT in this lesson, which sparks the question: What about Lyft? They are a
+    smaller company, but this doesn’t protect everything from getting out. Lyft has also come under
+    some fire, as seen in this article: https://techcrunch.com/2018/01/25/lyft-god-view/***
+    
+***- Tesla is mentioned to have a form where you opt-in to cellular communication with the vehicle. Please be aware their process has updated, and opting out MAY involve voiding your vehicle’s
+warranty and many other major concerns. The Techlore channel has covered this topic here: https://www.youtube.com/watch?v=Qjkt3X2WLrw and will be covering this more in the future.***
