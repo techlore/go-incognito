@@ -9,10 +9,6 @@ browsers that can be hardened but shouldn’t have extensions are Brave and Tor.
 Brave because it doesn’t rely on extensions for hardening, and Tor has its own
 reasons which we’ll discuss in section 4.
 
-But first, a quick message!
-
-[Promotional Spot]
-
 To start off with standard settings, make sure you always check for updates and
 install them automatically for the newest security patches. Set your homepage to
 a privacy-oriented search engine like the ones we discussed earlier, set your
@@ -102,8 +98,6 @@ The very last extension is uMatrix, which lets you manage cross-website requests
 to stop tracking between websites. I saved this for last because it’s a more
 complex extension to use, geared more towards advanced users. I would
 recommend it if you are comfortable configuring it.
-
-[Queue Outro Promos]
 
 So that is how you harden Firefox and other web browsers to give you the safest
 browsing experience possible. We have implemented a ton of precautions on the
