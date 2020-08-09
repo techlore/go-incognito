@@ -6,8 +6,6 @@ possible. The problem is that your decisions when you’re browsing can be your
 downfall, so it’s equally important for you to understand risks on the internet and
 how to get around them. Let’s dive right into it...
 
-[Promotional Spot]
-
 First, only visit trusted, non-suspicious websites. If you go to a website and it
 seems sketchy, just leave. The more you browse the internet and get exposed to
 different websites, the better your BS radar’s going to be. Here’s a few things you
@@ -94,10 +92,8 @@ programs during the installation process, since some of them are not
 related to terms and conditions, it’s just asking to install PUPs.
 To finish everything off, try to use common sense on the internet. If a random
 stranger is asking for your personal details, you probably shouldn’t give it to
-them. If there’s an ad for a \* show pill \* penis enlargement pill, it’s most likely a
+them. If there’s an ad for a *(show pill)* penis enlargement pill, it’s most likely a
 scam and doesn’t work, just be aware.
-
-[Queue Outro Promos]
 
 In reality, you’re probably going to mess up here and there, we all do, but that’s
 why we’ve discussed different precautions, and we will have many more safety
