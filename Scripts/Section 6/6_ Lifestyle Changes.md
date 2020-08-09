@@ -5,16 +5,14 @@ information, that we might not normally think about. I can’t cover every
 possibility, but I’m going to give you a lot of scenarios and tips that will teach you
 the mindset required to change your lifestyle.
 
-[Promotional Spot]
-
 Let’s start with your home.
 
 ● Make sure your most sensitive valuables like wallets, passports, and
 electronics are in a room that isn’t easily accessible from outside, keeping
 the most sensitive items in a safe. Not just any safe, a good one.
 
-● Make sure your data is encrypted, and make sure to \* show external hard
-drives \* keep backup drives with your data inside of your safe. Always keep
+● Make sure your data is encrypted, and make sure to *(show external hard
+drives)* keep backup drives with your data inside of your safe. Always keep
 an off-site backup in case something happens.
 
 ● You should also consider investing in a security solution to fend off thieves.
@@ -100,8 +98,6 @@ privacy and security of your daily lives. If you have kids, family, or friends, 
 sure to educate them. It’s very important for them to understand why they should
 or shouldn’t do certain things when they’re around you, and why they should
 implement certain things into their lives as well.
-
-[Queue Outro Promos]
 
 I hope this lesson was a wakeup call, or at least made you rethink some of the
 things you do every day. There are many more tips and tricks out there, but the
