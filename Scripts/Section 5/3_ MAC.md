@@ -61,4 +61,4 @@ lesson will be on a similar topic: Networking...more specifically how to properl
 secure a network. I’ll see you then!
 
 ## Changes
-*** iOS 14 now enables Mac address randomization! 
+***iOS 14 now enables Mac address randomization!***
