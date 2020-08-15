@@ -16,7 +16,7 @@ your computer and the proxy server, they don’t tend to strip identifying
 information outside your IP address, and there are no additional privacy or
 security considerations built in. so when it comes to protecting your data from
 internet service providers, governments, or network attacks—proxies won’t really
-help you. What they will help with is simply making your IP address.
+help you. What they will help with is simply masking your IP address.
 
 Let’s move to VPNs…VPN stands for Virtual Private Network; they’re going to hide
 your IP address and allow you to connect to servers around the world--like
@@ -46,7 +46,7 @@ human, since your IP address is likely being used by a great number of people,
 this is extremely annoying. Fourth, some websites will block VPNs because of the
 large amount of people using the same IP address, Amazon is a big fan of this.
 The last downside to VPNs is they’re typically slower than proxies, which could be
-a problem for people looking to stream or download content.
+a problem for people looking to stream or download content--although most VPNs nowadays are plety fast.
 
 Whether you go for a proxy or VPN, I will typically push you away from free
 services. It costs money to run them, so if you’re not paying with your cash, you’re
@@ -60,7 +60,7 @@ Alonso could have used this opportunity to push malware into people’s browsers
 tracking everything they do. He could harvest and sell their data, or he could
 turn everyone over to law enforcement. Let this demonstrate how easy it is for
 someone to put up fake services, and why free services should be treated with
-caution.
+caution. We've covered this more thoroughly on our YouTube channel.
 
 Outside of not being free, what are some other considerations you should take
 when picking a VPN?
@@ -90,12 +90,12 @@ stopped--never exposing your true IP address.
 
 - If you want a quick list of good services, privacytools.io has a good basic
 list, or we evaluate VPN services on our website and YouTube channel,
-utilizing a systematic, public, review protocol.
+utilizing a systematic, public, review protocol and other tools to make your decision an easy one to make.
 
 It’s important to mention that VPNs are NOT all-in-one anonymization tools. If you
 want your VPN to be private, not just secure, you’re going to have to open an
 account anonymously. This means utilizing techniques you’ll learn throughout
-the course, like setting up an account with a fake name and email on an open
+the rest of the course, like setting up an account with a fake name and email on an open
 wireless network using something like Tor, we’ll discuss how to do all of this later
 on. Next, you have to find a way to pay for the VPN anonymously. In short, you
 have to find a service that takes cash like Mullvad or IVPN, anonymous
@@ -121,8 +121,8 @@ replace the current VPN standard--OpenVPN. As of today, they have recently left
 beta, and are becoming a more standard offering across both operating systems
 and VPN providers. I’m still wary since it’s relatively new to the scene, but
 definitely keep an eye on Wireguard, it’s a very promising project that may one
-day be the new recommended protocol, over OpenVPN.
+day be the new recommended protocol, over OpenVPN--promising better security and speeds.
 
-That’s going to wrap up everything! I hope you understand the differences
-between proxies and VPNs. I hope you enjoyed the lesson, and I will see you in the
+That’s going to wrap up everything! Hopefully now you understand the differences
+between proxies and VPNs, and what they're actually good for. I hope you enjoyed the lesson, and I will see you in the
 next one, where we talk about antiviruses and malware. Thanks for watching.
