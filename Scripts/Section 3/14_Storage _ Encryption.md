@@ -1,7 +1,7 @@
 # Storage & Encryption
 
 Something we overlook frequently is how we store sensitive files. We discussed
-how to delete and dispose of files in the previous lesson, but how do you protect
+how to delete and dispose files in the previous lesson, but how do you protect
 them when you’re not trying to delete them? Should you store them locally? Over
 the cloud? No matter what the content, the general process of securing it is
 pretty straightforward.
@@ -25,7 +25,7 @@ computer, but we can also encrypt the archive with a password to properly
 secure it. Now no one can access the files without a password. That’s 7zip!
 
 The next software is Veracrypt, and it’s my go-to piece of software. The way it
-works is you create a volume that you can load your files into...it’s almost like a
+works is you create a volume that you can load your files into, kind of like a
 virtual flash drive. However, the volume is encrypted so you need a password to
 gain access, protecting every single file stored within the volume. Veracrypt is
 open source, free, and even offers partition and full-disk encryption for Windows,
@@ -39,8 +39,7 @@ Pretty Good Privacy, a pretty good form of encryption. Something that can be
 either an advantage or disadvantage is GNU Privacy Guard relies on third parties
 to build a frontend graphical user interface for you to use, meaning there’s no
 official client offered--you pick the one you enjoy the most. This is different from
-Veracrypt, which for the most part uses the same unified software for all major
-major operating systems.
+Veracrypt, which for the most part uses the same unified software for all major operating systems.
 
 So those are three different pieces of software you can use to encrypt your files.
 Keep in mind there are many others, but these are three good options to get you
