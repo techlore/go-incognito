@@ -8,8 +8,7 @@ data in the digital and real world.
 
 Many of us unknowingly give out too much information. We see a web form and
 want to complete it to its full extent; we want services and people to know who we
-are. The problem is we aren’t aware of how others will handle your information, we
-talked about this in the previous lesson. I worked as a cashier in a retail store,
+are. The problem is we aren’t aware of how others will handle your information. I worked as a cashier in a retail store,
 where customers were offered discounts for joining a rewards program--which
 required personal information. In general, the older crowd would say very
 uninformed things about the way the internet works, like thinking giving out their
@@ -35,13 +34,14 @@ be valid--shouldn’t be valid. This means picking gender-neutral emails that do
 have your name and birthday built into them, using usernames which are
 arbitrary and reveal nothing about you, removing metadata from your photos
 before publishing them, and many more techniques we’ve covered throughout
-the course.
+this entire course.
 
 Third, establish emails and phone numbers used for different purposes. Get a
 secondary phone number for work, get an email for spam, do everything possible
 to separate different sides of your life. I’m going to teach you how to do this in the
 next lesson. On the topic of phones, if you can...refrain from having a voicemail
 message, because this will confirm a phone number belongs to you.
+
 Fourth, Don’t, and I repeat: DON’T send DNA to websites...it can be shared with
 third parties and is overall a huge risk. MyHeritage leaked millions of account
 details, although thankfully no DNA leaks, but it’s only a matter of time until it
@@ -53,7 +53,7 @@ similar to Gattaca.
 
 The fifth and final digital tip is to opt out of services and delete unused accounts.
 Go back and rewatch lesson 2.3 and 2.4 that teaches how to delete your local and
-online identity, it’ll go into this much more in-depth.
+online identity, it’ll go into this much more in-depth for you to start with a clean slate.
 
 Okay! That summarizes the digital side of things, but what about the real world?
 Throughout this course, I’ve been trying to show that people want your data. It’s
@@ -103,7 +103,7 @@ your car, none of your other trusts are at risk, and your privacy remains intact
 Never let your personal life and the trust intermix. If you get a check for yourself,
 don’t deposit it into the trust’s account. If a salesman asks who the owner of the
 house is, say they aren’t home, because you aren’t the owner. This is all VITAL to
-properly maintain privacy in a trust.
+properly maintain privacy in a trust. An LLC or business entity is another option outside trusts.
 
 To continue the discussion on homes, let’s discuss the fifth and final tip. Get a PO
 box or private mail box. They each have pros and cons which may be better or
@@ -111,7 +111,7 @@ worse for certain people. Use these as your shipping and return addresses, avoid
 giving out your actual address. You can make this even better by opening a third
 box belonging to your trust--if you have one. The last housing tip, which I know
 can’t necessarily always be avoided, but just something to keep in mind, is
-avoiding renting. Renting allows landlords to understably perform background
+avoiding renting. Renting allows landlords to understandably perform background
 checks, credit checks, and more if needed. Try to own your properties or put
 them in a trust, if possible.
 
