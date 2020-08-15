@@ -103,5 +103,5 @@ implement certain things into their lives as well.
 I hope this lesson was a wakeup call, or at least made you rethink some of the
 things you do every day. There are many more tips and tricks out there, but the
 most important thing you need is the mindset, which is what this lesson gave. I’ll
-see you in the next lesson discussing the downsides to privacy and security,
-thank you for watching, and see you soon.
+see you in the next lesson discussing the some out of the box services and products
+that you can buy that honor your privacy and security.
