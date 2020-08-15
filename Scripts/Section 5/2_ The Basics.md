@@ -54,7 +54,7 @@ to steal your passwords and personal information. Luckily, it’s easily thwarte
 using a piece of plastic, called a privacy screen protector, *(show your screen
 protector)* making it hard to see a screen unless you’re directly looking at it.
 There are commercial options, but there are DIY methods. Don’t forget to put
-these on laptops and monitors as well.
+these on laptops and monitors as well if needed.
 
 Next is restricting access to your BIOS--the firmware directly interacting with your
 hardware and operating system. The BIOS can be used for wrongdoing in more
@@ -79,7 +79,9 @@ California. Participants in the bike race were able to identify who had passed
 them and later, while online, directly message them. This is creepy, especially with
 social media platforms like Strava who publicize where you exercise. If you have
 to use something like a GPS watch to track your activities, keep it local on the
-watch and avoid syncing it to any devices or accounts.
+watch and avoid syncing it to any devices or accounts. We've covered private health tracking
+options with smart watches and other devices on our YouTube channel, there are surpringsly
+a plethora of options at your disposal covered there.
 
 The last thing to talk about in this lesson is webcams and mics. This has turned
 into a bandwagon, where people tape up their webcams while browsing an HTTP
