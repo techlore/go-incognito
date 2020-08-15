@@ -11,14 +11,12 @@ To recap, pseudonymization is the creation of an alias, or ghost identity.
 Pseudonyms are completely legal as long as you’re not using them to defraud
 someone else. They allow you to sideload information to aliases not tied to you,
 which is useful when services or people are requesting information that doesn’t
-necessarily need to be yours. We’ll cover how to make them at the end of this
-lesson.
+necessarily need to be yours.
 
 Anonymization involves making sure something you’re doing is tied to no identity.
 The most common way of accomplishing this is by blending a group of people
 together, so no one user is unique. This is exactly what Tor does, it is built from
-the ground up to make you look like everyone else using it--assuming you use Tor
-properly.
+the ground up to make you look like everyone else using it.
 
 To sum up how to use the two concepts...I would recommend you anonymize any
 traffic that doesn’t require an account with Tor and other anonymization tools
@@ -42,7 +40,7 @@ We’ll pick a very common name to blend in, something like Brian Smith.
 
 Now, Roger needs a form of communication, and this will vary depending on what
 service he’s trying to access. If it’s an online survey, he’ll need an email. If it’s
-Facebook, maybe also a phone number. He needs to form a communication
+Google, maybe also a phone number. He needs to form a communication
 method that isn’t tied to him. We’ve previously covered services in the course like
 tempmail, guerillamail, freephonenum, inumbr, burner, and shuffle.
 
@@ -59,7 +57,12 @@ we covered how to do this earlier in the course.
 And that’s Brian Smith, one pseudo. I would recommend creating multiple
 pseudos for different purposes. Maybe you have one for online surveys, one for
 spam, one for Jamba Juice, and one for craigslist--the sky's the limit! If you need
-help with creativity, fakenamegenerator is a great resource. And before wrapping
+help with creativity, fakenamegenerator is a great resource. 
+
+Pseduos can also be used in an anonymous fashion to layer them. You can have a pseudonym
+that only lives in Tor sessions, so you're utilizing anonymity to hide a pseudonym to hide yourself.
+The sky's the limit. 
+And before wrapping
 things up...remember the golden rule:
 
 **Your pseudonyms must not be tied to your personal identity.**
