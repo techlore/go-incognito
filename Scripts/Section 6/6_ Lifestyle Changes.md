@@ -73,12 +73,12 @@ envelope transparent, the snooper still can’t view the letter.
 
 That wraps up some real world examples, but what about the digital world?
 
-● First, never post publicly that you’re traveling. There’s nothing better for a
+* First, never post publicly that you’re traveling. There’s nothing better for a
 criminal than alerting them that your house is deserted for weeks. Take
 pictures of your vacation while you’re there, and post them once you’re
 back home.
 
-● Speaking of traveling, never constantly share your location. This increases
+* Speaking of traveling, never constantly share your location. This increases
 the odds of stalking and tracking from people who may or may not have
 your best interest. Remember that 7/10 acts of sexual violence are
 committed by someone known to the victim. Ensure Find my Friends is
@@ -89,7 +89,7 @@ post pictures of yourself, and if you do, obfuscate the triangle formation
 made by your eyes and mouth, since this is how our brains are able to
 quickly distinguish faces as well as lots of facial recognition and AI.
 
-● The last digital tip involves your social security number. Make sure to go to
+* The last digital tip involves your social security number. Make sure to go to
 ssa.gov/myaccount and create an account with your social security
 number. There are settings in there that will make it extremely difficult for
 anyone but you to do anything with your social. Not many people know
