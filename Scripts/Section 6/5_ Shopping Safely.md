@@ -49,16 +49,17 @@ information. \*cough\*
 5) And the final step, go into every store with a pseudo. You never know when
 people will ask for information, and if you’re not prepared, you’re going to
 give your real information. Be prepared, like Japeth.
+
 That wraps up physical stores! But what about digital shopping? Stores are being
 hacked left and right, phishing attacks are never-ending, and your personal
 information is constantly at risk. 
 
-Let’s start with the site you care about most:
+Let’s start with a popular website:
 Amazon.
 
 Amazon requires an email and a name, both of which don’t have to be
 genuine...use a pseudonym. Remember to send packages to your pseudo’s PO
-box or PMB. Now, everything is private except payment--you have two options if
+box or PMB, or you could ship to an Amazon Locker. Now, everything is private except payment--you have three options if
 you don’t want the purchase tied to you.
 
 1) The recommended payment option is to purchase an Amazon gift card at
@@ -70,6 +71,8 @@ bank offers virtual expendable cards to protect your actual card. If this
 isn’t possible, services like privacy.com or Blur offer similar functionality.
 But, I would always recommend the gift card route--it is significantly more
 robust.
+
+3) As we mentioned earlier, you can use prepaid non-reloadable debit cards.
 
 Congrats, you are now using Amazon privately and securely. Lucky for you, the
 rules are extremely similar on other sites--with one main difference. Lots of sites

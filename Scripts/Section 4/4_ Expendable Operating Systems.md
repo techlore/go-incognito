@@ -31,9 +31,9 @@ sensitive data, like banking and online purchases, we’ll cover Whonix later. T
 use-cases demonstrate the potential you have as a security and privacy-minded
 individual to separate and compartmentalize your life across different virtual
 operating systems. We will cover pseudonyms and all that much more in-depth
-later in the course
+later in the course.
 
-So how do you set one up? The two virtual machine programs are Virtualbox,
+So how do you set one up? The main virtual machine programs are Virtualbox,
 VMWare, and KVM. Virtualbox and KVM are FOSS so I’m going to lean you in that
 direction. Every OS has a slightly different setup, so dig online to find out how to
 configure the guest OS of your choice, it’s typically pretty straight-forward.

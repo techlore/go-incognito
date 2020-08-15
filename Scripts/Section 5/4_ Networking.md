@@ -17,7 +17,7 @@ password; meaning if someone gets the model of your router, they can search
 online what the password is and you’re, in a nice way, screwed. Go to this website
 and search for your router, hopefully it doesn’t use the same password. Even if it
 doesn’t, most default passwords aren’t strong enough, so you should still change
-it, more on that soon.
+it.
 
 Before getting into the password, let’s discuss how to make sure attackers can’t
 figure out the model for our router. First, make sure the SSID, the public name of
@@ -48,7 +48,7 @@ free wifi. No matter what, hiding your SSID won’t severely work against you, i
 won’t really protect you from genuine threats.
 
 What are some other things you can do to improve the security of your router?
-Glad you asked :)
+Glad you asked...
 
 Like we’ve mentioned earlier in lesson 3.2, make sure everything is up to
 date--including your router. *(hold manual)* Refer to your manual for instructions
@@ -60,12 +60,13 @@ On top of that, attacks like Pixie Dust can crack WPS-enabled routers in hours. 
 short, disable WPS.
 
 You can take your security a step further by only allowing a connection to a
-specified device via a MAC address, we discussed these in the previous lesson.
+specified device via a MAC address, we discussed what these are in the previous lesson.
 This way, only devices you specify connect to the router, and any other device is
 blacklisted. But, similar to hiding your SSID, this won’t stop an experienced
 hacker, since tools like aircrack-ng reveal the authorized MAC addresses, and
 the attacker can spoof the MAC address to mimic an accepted device. So, once
 again, this will only help keep out your amateur attackers.
+
 Something I’d recommend you do do, if you use VPNs, is install a VPN on your
 router, which will route every device on the network through the VPN. Not only
 does this mean you don’t need to worry about VPN software on every device, but

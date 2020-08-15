@@ -2,7 +2,7 @@
 
 *(show coin with BTC taped on it)* Bitcoin! So mysterious to so many people, and
 so many misconceptions regarding the technology behind it and its capabilities.
-Is Bitcoin anonymous? Is it a fad? And most importantly...when moon?
+Is Bitcoin anonymous? Is it a fad? What is its future?
 
 Bitcoin is a cryptocurrency, or digital currency, like donuts in Simpsons Tapped
 Out, Gold in Candy Crush Saga, or Vbucks in Fortnight. There are two key
@@ -68,7 +68,6 @@ transactions on the blockchain. On top of that, your wallet address, which is ho
 you identify your wallet, is never used in the transaction. There are two ghost
 addresses used to avoid exposing the real addresses. Monero implements all of
 this by default, which is great since it eliminates the possibility of human error.
-Another project is ZCash.
 
 Before going out and buying cryptocurrencies, remember to secure them. This
 space is very new, there are lots of scams out there, and people are losing their
@@ -76,10 +75,11 @@ money left and right. Avoid leaving your coins on exchanges, transfer them to a
 wallet where you have control of the private keys. If you want the utmost security,
 you should go pick up a Ledger Nano or other hardware wallet, which is
 considered the most secure method of storing cryptocurrencies.
+
 To recap everything, cryptocurrencies can be used to help anonymize digital
 purchases. With Bitcoin, it’s difficult and you’ll have to jump some hoops because
-it’s not inherently private. Other technologies like Monero and ZCash offer more
-private ways of sending money, which are much better than Bitcoin. Remember,
+it’s not inherently private. Other technologies like Monero offer more
+private ways of sending money, which are better than Bitcoin. Remember,
 as always--do not put full faith in the technology. Create these accounts and
 send transactions assuming they will be compromised, so even if they are
 compromised your personal data is still safe.

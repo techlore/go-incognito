@@ -22,8 +22,7 @@ anonymous tip lines, gives support for activists and whistleblowers, and
 obviously, it can be used like many of you taking this course--to improve your
 privacy and security. Since Tor is such a powerful tool, it is used for criminal
 activities. But, it’s important to understand that there is an enormous amount of
-good that Tor does, and we can’t let the bad side ruin its reputation. We will cover
-this misconception a bit more very soon.
+good that Tor does, and we can’t let the bad side ruin its reputation.
 
 The other two major misconceptions are the deep web and the dark web. What
 are the differences? Are they dangerous?
@@ -42,12 +41,12 @@ really. Something I haven’t mentioned about Tor is there are websites that req
 a visitor to be using Tor in order to access the site. These are called onion sites.
 Instead of .com, it’s now .onion. The “dark web” is any site that is an onion website.
 Now, that 6% figure used to describe the “dark web” is also pretty misleading,
-since sites like ProPublica, Facebook, DuckDuckGo, the Sci-Hub database, and
+since sites like ProPublica, Facebook, DuckDuckGo, the Sci-Hub database, BBC, and
 Keybase, just to name a tiny few, are all legit and legal websites that are part of
 the “dark web”. Onion sites are created for people in repressive regions to have
 the freedom to access these sites, one of the main reasons Tor exists.
 
-I’ve been quoting the “dark web”, and for good reason. I dislike the name, and you
+I dislike the name--"The Dark Web", and you
 should too. The “dark web” is a name popularized by governments and the media
 to make people associate it with this dark, mysterious place that’s created for
 criminals. Experian ads use the dark web to sell the idea that the “dark web” is
@@ -91,20 +90,24 @@ is this isn’t fool proof.
 Second, Tor doesn’t protect you from correlation attacks, if your attacker can
 watch the traffic coming out of your computer, as well as the traffic arriving at
 your destination, they can use statistical analysis to figure out who’s doing what.
+
 Third, you can’t control exit nodes, which may be under the control of
 governments or law enforcement, although there is little evidence this is a
 widespread problem.
 
 Fourth, Tor is SLOW. Like...really slow. Especially if you configure it for max safety
 in the settings. So don’t expect a speedy browser here.
+
 Fifth, some websites won’t work when you’re connected to Tor. Either you’ll be
 blocked entirely, or sites like Google will require annoying captchas.
+
 The sixth and final major downside is once you use Tor, you’re going to be placed
 on a watch-list by the FBI out of unreasonable suspicion. ZOZ, a robotics
 engineer with a passion for hacking, spoke at Defcon, a hacking conference (you
 should definitely give this a watch by the way) and he says the more people we
 put on this list, the better Tor becomes as a tool to anonymize its users. So don’t
 be afraid of this list, you’re not doing anything wrong.
+
 Those are the major downsides. But here are some extra tips to help you out with
 those downsides and/or other things to watch out for.
 

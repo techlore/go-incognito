@@ -11,7 +11,7 @@ technologies. Security risks like Bluejacking, Bluesnarfing, and Bluebugging hav
 affected every version of Bluetooth except 4.0 and onward. Even the newer
 versions are vulnerable to eavesdropping through the new Bluetooth Low Energy
 tech, and we even saw the BlueBorne vulnerability in 2017, not to mention the
-recent vulnerability discovered in July of this year. These exploits can lead to
+constant new vulnerabilities coming out. These exploits can lead to
 tampering with sensitive data, theft of data, privacy invasion, and sometimes
 even more extreme issues.
 
@@ -43,7 +43,8 @@ targeting and other misuses.
 Additionally, certain apps and programs may publicly reveal your location
 without your knowledge, opening up the door for stalkers. The last concern is
 surveillance. Law enforcement agencies can obtain location data through
-various methods, some as simple as a court order. According to a report by the
+various methods, some as simple as a court order--or the newest workaround doesn't even require a warrant.
+To add to this, according to a report by the
 ACLU, law enforcement agents can track innocent people who happened to be in
 the vicinity of a crime, so this can impact people who do nothing wrong--and they
 aren’t alerted when their data is snagged. This doesn’t even include the fact that
@@ -54,14 +55,15 @@ union meetings; all things intended to be private.
 So...don’t record the data in the first place! First, only grant apps and programs
 the permission to view your location if it’s required. Calculators don’t need your
 location, and neither does Snapchat. If there’s an app that requires a location to
-function, like Tinder, you can try to fake your location on Android using a
+function, you can try to fake your location on Android using a
 location spoofer. Set the location to a random area near you and keep it there at
 all times. iPhones don’t allow location spoofing unless you jailbreak; there are
 great tweaks if you do decide to go this route. Second, opt out of any
 location-based tracking and/or personalization on your device, Google and
-Apple both do this. Third, install a custom ROM like GrapheneOS on Android
-devices to cut out Google tracking altogether. Fourth, make sure to disable
-location sharing in apps like Snapchat and Find my Friends. Fifth, completely
+Apple both do this. Third, install a custom ROM like GrapheneOS or CalyxOS on Android
+devices to cut out most if not all Google tracking altogether--Section 4 covered this more thoroughly.
+Fourth, make sure to disable location sharing in apps like
+Snapchat and Find my Friends. Fifth, completely
 disable location services, unless you explicitly need to use them. The last (and
 very extreme) thing you can do is physically remove the GPS chip in your device.
 This isn’t always possible and every device is different, but the option is there for
@@ -106,7 +108,7 @@ let’s cover some other quick little things to watch for...
 this.
 
 ● Lastly, don’t forget to lock your SIM card. This will ensure anyone who gets
-your SIM will need a password in order to start using your cell service, just
+your SIM will need a password in order to start using your cell service and possibly access contacts, just
 a tip :)
 
 Alright, what’s the final radio you need to watch out for? You may be surprised to
@@ -125,13 +127,13 @@ pings other towers to make sure you’re still using the best tower. Here’s th
 problem, the data logged from pinging multiple cell towers can geographically
 pinpoint a user using triangulation techniques from 3 or more cell towers--with
 extreme accuracy; this was actually the technique used to catch Pat Barbaro in
-an australian mafia investigation. Not only are you trusting your cellular provider
+an australian mafia investigation despite them using burner phones. Not only are you trusting your cellular provider
 to properly manage this data, but law enforcement can, and do request this
 information.
 
 If this wasn’t alarming enough, law enforcement is known to create devices that
 pretend to be cellular base stations that intercept voice and text messages when
-your phone mistakenly connects to it. These are typically used at large rallies,
+your phone mistakenly connects to it--commonly known as a stingray. These are typically used at large rallies,
 allowing law enforcement to later identify who was attending the rally.
 What can we do? First, disable wifi as much as possible to avoid any tracking
 done when you’re searching for networks. Once you’re inside a location with wifi,
@@ -150,7 +152,8 @@ that walking into a store means there will likely be cameras, and most forms of
 transportation are tracked as well. The inconvenience of getting through these
 problems is astronomical, but you will have close to an anonymous phone if you
 purchase it properly. This is definitely not for everybody, but the option is there
-for people who need the absolute highest privacy.
+for people who need the absolute highest privacy. Even if you get a burner phone,
+it's not directly immune to some of these methods of tracking--it just adds a layer of privacy.
 
 To summarize the lesson, every radio you use creates a new potential security
 exploit, or a potential leak of information about your personal data. I hope this

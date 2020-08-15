@@ -46,7 +46,7 @@ phone from. You are being thoroughly screwed here.
 Type 2 Android is more commonly known as stock Android, which is what Google
 pushes out on their devices. For security, this is definitely an improvement from
 Type 1. Google pushes out consistent security patches that don’t need to be
-cleared by third parties, and google is overal an extremely secure company that
+cleared by third parties, and google is overall an extremely secure company that
 ensures the utmost security on their phones. But, there is still arguably a higher
 risk than iOS because of things like the poor compliance on the Google Play
 Store. Type 2 also limits the amount of preinstalled software, and cell providers
@@ -75,7 +75,7 @@ As of today, the only two ROMs I’m aware of that don’t suffer this problem a
 GrapheneOS, and CalyxOS. GrapheneOS is considered the absolute most secure
 and private ROM out there, I covered the entire project on the YouTube channel.
 CalyxOS maintains the security of AOSP, and it preinstalled things like MicroG to
-make a ROM designed for the masses. They’re both great projects aimed at
+make a ROM designed for the masses--this will be on our channel as well. They’re both great projects aimed at
 different people.
 
 Even though projects like LineageOS have security problems, that may be okay. If
@@ -112,8 +112,8 @@ still have yet to be fully released so let’s wait for that to happen first.
 To summarize, if you’re a user who draws your convenience line pretty early on, I
 would recommend iOS or a stock Android device. But, if you’re willing to go above
 and beyond and get a truly private and secure device, you’re going to want to
-check out Type 3 Android, preferably without Google services, and hopefully one
-day those Linux phones may be a good option.
+check out Type 3 Android, preferably without Google services, and ideally with strong
+security using as of today--GrapheneOS or CalyxOS. 
 
 That’s going to finish the main options for a private and secure experience on
 your mobile devices. It’s not as simple as I originally envisioned, but the final

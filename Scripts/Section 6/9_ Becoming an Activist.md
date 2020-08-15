@@ -13,7 +13,7 @@ their customers, and all of them left for privacy concerns, Facebook would start
 to take their privacy more seriously. The same idea applies to security concerns.
 My old bank, one of the largest banks in the United States, doesn’t offer proper 2
 factor authentication. If more people left the service because of security
-concerns, they would change their ways. Donate money and use products that
+concerns like I did, they would change their ways. Donate money and use products that
 are built to protect you. This is pretty self-explanatory, so let’s move on to making
 an impact on the people around you.
 
@@ -29,10 +29,9 @@ of secure passwords--something like that. Lastly, make sure to bring out the
 positives in services, it’s easy for us to point out the bad things:
 
 - VPNs slow down your speeds
-
 - DuckDuckGo isn’t as good as Google
-
 - Linux isn’t as easy to use as Windows, etc.
+
 Instead of bringing out the negatives, bring out the positives. VPNs encrypt your
 traffic on a public wifi network and give you freedom from your ISP, DuckDuckGo
 allows you to use a huge number of search engines all from one location, and

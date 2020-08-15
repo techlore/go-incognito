@@ -64,7 +64,7 @@ Let these examples be a lesson that even when companies promise privacy, they
 could be lying, or they could unpurposely implement poor methods of securing
 your data.
 
-The moral of this lesson is be careful with who handles your information. Don’t
+Be careful with who handles your information. Don’t
 give up data when it isn’t needed, and don’t trust everybody to handle your
 information as well as you would. Here are some general rules for you to follow:
 1) Don’t give up information that isn’t required. RadioShack didn’t need your
@@ -87,6 +87,6 @@ intended to be secret, well...that’s not good.
 And that wraps up this lesson. There will always be those you trust, but remember
 to educate and communicate with them about your privacy and security habits.
 As for companies and other entities, it’s safe to assume the worst, because there
-are little to no regulations on how your data is shared at least in theUS, and most
+are little to no regulations on how your data is shared at least in the US, and most
 companies will take the opportunity to abuse your data for a quick profit. Thank
 you for watching, and I’ll see you in the next lesson: Minimizing Data Access.

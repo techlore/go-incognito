@@ -10,7 +10,7 @@ One reason this is done, is to increase security, since one device being
 compromised won’t directly lead to another being compromised. As a general
 rule of thumb, never conduct personal tasks on a work device or network, since
 these are likely monitored; it’s better to use cellular data to do personal stuff at
-work. Separating different aspect of your life, is called Compartmentalization
+work. Separating different aspect of your life, is called Compartmentalization.
 
 Before we dive into the lesson, here is a major disclaimer, so listen up! I’m going
 to give you unrealistic scenarios, repeat: UNREALISTIC! that involve purchasing a
@@ -53,7 +53,7 @@ to tie them together.
 Before clocking out, I will remind you this was a mindset lesson. I don’t expect
 everybody to buy eight different devices for different tasks; but I do expect you to
 start thinking about how certain aspects of your life are mixed, when it could be
-beneficial to separate them through a physical barrier, or a digital one using
+beneficial to separate them through a physical barrier like several devices, or a digital one using
 maybe something like virtual machines or separate user accounts.
 
 To summarize compartmentalization, Create boundaries! Thank you for

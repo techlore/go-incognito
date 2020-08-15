@@ -24,7 +24,7 @@ privacy and security habits. I broke up auditing into different steps to help yo
 out. Premium users can refer to the checklist.
 
 1) Check haveibeenpwned and search for your personal information through
-startpage or searx.me for hacks and leaks of your personal information. If
+a search engine for hacks and leaks of your personal information. If
 anything has been compromised, you need to make sure you secure your
 account by changing your password and ideally the email associated with the
 password. Go back to lesson 2.4 and 3.4 for more instructions on what to do in
@@ -64,7 +64,8 @@ check up on, but you may have different priorities and things to look at. Sectio
 will talk about physical security and privacy, and some of you may have things in
 there you want to audit. I’d encourage you to find what’s important for your
 personal interests, priorities, and threat models and add them to your list of
-items to consistently check up on. Expand as need be.
+items to consistently check up on. 
+
 Like I said before, auditing is an extremely important part of increasing your
 digital privacy and security. You can configure everything properly in January as
 a New Year’s resolution, but in six months you can be completely vulnerable. Stay

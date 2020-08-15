@@ -17,8 +17,8 @@ Let’s begin with the most used desktop operating system: Windows, by Microsoft
 Overall, Windows is the option to strike a balance between hardware capability
 and application availability, but it falls short in privacy. I am forced to use
 Windows to edit this, since Adobe refuses to support other operating systems
-that allow me to use my own optimized hardware. Gamers will also find it
-challenging to use other operating systems because of poor support. For privacy,
+that allow me to use my own optimized hardware. Gamers may also find it
+challenging to use other operating systems. For privacy,
 it’s well known that Windows tracks you and functions as spyware. In fact, they
 even handed over encrypted messages to the NSA at one point. If you need to
 use Windows either for work or entertainment, you can use tools like W10Privacy
@@ -27,24 +27,9 @@ disable any settings you don’t need, and minimize the information you hand
 over--this was all discussed in lesson 3.3.
 
 MacOS is the next major operating system by Apple. Is it more secure than
-Windows? The answer isn’t so simple...
+Windows? Yes, in general it is.
 
-Malware is any piece of unauthorized software designed to cause damage to a
-system. Malware relies on the use of vulnerabilities and exploits within an
-operating system to properly function. *(hold calculator)* To compare Windows
-and MacOS, we can look at the number of vulnerabilities and how widely they are
-utilized to infect consumers. Luckily, The Hacker News published an article from
-2015 that found MacOS does have fewer exploits than Windows, although they
-still do exist. So yes, Macs can and DO get viruses. This does not tell a full story
-behind what’s more secure, it’s just a basic comparison. Unfortunately, because
-of the common misconception that Macs don’t get viruses, people tend not to
-use proper browser habits and/or implement an antivirus when needed, which
-causes people to unknowingly get their Macs infected.
-Privacy is something else Apple claims to take seriously. Now yes, Apple will give
-you generally better privacy than Microsoft, but they still aren’t very
-privacy-friendly.
-
-Apple claims all personal data is processed on the physical device, not on an
+As for privacy, Apple claims all personal data is processed on the physical device, not on an
 Apple server. In reality, consumer data is “anonymised”, and eventually sent to
 Apple’s servers. So Apple does form a portfolio on you and your habits, but it’s
 not tied to your personal iCloud account directly. The issue is things can be tied
@@ -53,8 +38,9 @@ This has proved to be true...Apple has disclosed and given up information on
 iCloud users, almost 2,000 times in just the first half of 2015. They helped the FBI
 identify the owner of Kickass Torrents. Don’t forget Apple is in the NSA’s PRISM
 project, which gives the NSA access to Apple data. So I would say Apple is a more
-privacy-oriented company than Microsoft, but it’s important to realize Apple is
-not as private as they market themselves to be.
+privacy-oriented company than Microsoft, but it’s important to realize Apple may
+not be private as they market themselves to be.
+
 Between Windows and MacOS, MacOS will offer you overall better privacy and
 security than Windows.
 
@@ -99,13 +85,12 @@ First, you can use Linux without installing it. You can create a virtual machine
 which I’ll discuss later in section 4, or you can create a *(show flash drive)*
 bootable liveOS, which I’ll also talk about.
 
-Second, there are many FOSS alternatives to the programs you use every day. It’s
-just a matter of researching and finding the best option.
+Second, in terms of switching operating systems, there are many FOSS alternatives to the programs you use every day. It’s
+just a matter of researching and finding the best option. Alternativeto.net is a great place to start.
 
 Third, you don’t necessarily have to choose between Linux and Windows, you can
 have the best of both worlds by dual booting, which lets you use two operating
-systems on the same computer. This is common among gamers, since Linux
-doesn’t have great gaming support. What gamers do is they download and use
+systems on the same computer. This is common among gamers; what gamers do is they download and use
 games on Windows, restricting the amount of personal information they share,
 and they use Linux for everything else, making sure nothing crosses over. I’d also
 recommend checking out Switched to Linux’s channel on YouTube, who has
