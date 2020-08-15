@@ -44,7 +44,7 @@ For Linux, Bleachbit can shred your files.
 As for SSDs, or Solid State Drives, which many newer devices use today, wiping
 data is much more difficult than wiping data on traditional spinning hard drives.
 Your main places to look are in your BIOS, which sometimes offer secure deletion,
-or your SSD manufacturer may have their own proprietary software. This is overal
+or your SSD manufacturer may have their own proprietary software. This is overall
 much more difficult to remove data, for this reason, I’d advise keeping your most
 sensitive documents on *(show hard drive)* spinning hard drives. You can do
 wipes on your SSD but I wouldn’t recommend doing more than 1 because you’re
