@@ -5,7 +5,7 @@ we use the internet: To communicate! You would think the private
 communications between you, family, friends, and coworkers would be secure
 and private. Well, no. Unfortunately, we communicate on an internet where our
 messages are inherently insecure with the illusion that what’s being shared is
-kept private. Let’s dive deeper into the topic…
+kept private.
 
 By default, it is extremely difficult to communicate privately and securely digitally.
 It’s a weird thing to think about. In our society, we respect people’s personal
@@ -24,7 +24,7 @@ message, \* hold two phones up \* sent between two phone numbers. The
 technology that powers these messages is called SMS, or short message service,
 and this is all handled by your cellular provider, like Verizon, AT&T, or Sprint.
 Unfortunately, these texts are generally not encrypted, and cellular companies
-collect all of our conversations; they’re known to hand it over to intelligence
+collect all of our conversations; they’re also known to hand it over to intelligence
 agencies. As a matter of fact, beginning in 2002, the NSA asked AT&T to build
 secret rooms in their facilities: One in Bridgeton, Missouri, and another on
 Folsom Street in San Francisco. More were eventually added in Seattle, San Jose,
@@ -49,9 +49,9 @@ out there, I would argue iMessage is one of the better ones, but you’re really
 picking between the worst fruit from the tree. Here’s a nice website that compares
 the main messengers for you.
 
-So what are the good options? Well looking at that chart: Signal, Threema, Wire,
-Telegram, and Wickr seem decent. Each has its pros and cons, so I’d recommend
-sorting through this yourself. Be wary of services like Whatsapp whocollect
+So what are the good options? Well Signal, Threema, Wire, Telegram, and Wickr seem decent.
+Each has its pros and cons, so I’d recommend
+sorting through them yourself. Be wary of services like Whatsapp who collect
 metadata, a problem we discussed in section 1. Telegram is popular as well,
 although often debated in the security realm. They suffered a hack in 2016 that
 exposed 15 million phone numbers, and they use proprietary software on the
@@ -71,23 +71,24 @@ concerns people.
 I’ve already mentioned some services that hit some, or all of these requirements,
 but there are more options. Chatsecure utilizes XMPP, more on that soon.
 Crytocat is okay if you’re alright with not having mobile clients.
-I mentioned XMPP. XMPP is a protocol used for sending messages with
+I mentioned XMPP; XMPP is a protocol used for sending messages with
 decentralization, open standards, and security as the main benefits, although
 keep in mind by default there is no end-to-end encryption, you must configure it.
 You can use Jabber to set it up, Kontalk, or any other XMPP client. There’s also
 the Matrix protocol, which attempts to improve on XMPP and is used in services
-like Riot.im.
+like Element.im.
 
 To summarize, at the end of the day, the messenger you pick is your call, each
 has pros and cons, and it ultimately comes down to what you trust the most, in
 combination with where your priorities lie, and what services you can realistically
-get your friends and family to use.
+get your friends and family to use. I personally recommend Signal as something that hits lots of green flags.
+
 Outside direct messages, what about phone and video calls? For entry level stuff,
 Whatsapp offers both of these, and it’ll do an okay job, but remember that
 metadata is a huge problem. Signal is better, and offers both phone and video
-calls. Wire is also decent. For a more advanced phone threat model, consider
+calls. For a more advanced threat model, consider
 using prepaid or burner phones for sensitive conversations. If you want a more
-permanent secondary number: iNumbr, Burner, and Shuffle are all great services
+permanent secondary number: iNumbr, Burner, Shuffle, and mySudo are all great services
 to go check out.
 
 Moving on to email! This seems to be pretty good, right? Well, depending on your
@@ -107,6 +108,7 @@ typically tricky to setup, but there are services like Mailvelope that simplify 
 a lot. ProtonMail, disroot.org Tutanota, and CounterMail also seems good. These
 are just random recommendation to look into. Lastly don’t forget about
 self-hosting your own email if you can go that route.
+
 Remember though, just because the email is encrypted, doesn’t mean there’s no
 metadata stored within the message. Make sure to watch the metadata lesson
 from the first section of the course.
@@ -122,10 +124,10 @@ project.
 One final overlooked form of communication is file sharing. You can use email,
 but you’ll be limited on size and number of files. No matter how you share the file,
 make sure you encrypt it before uploading it to the internet, we already covered
-how to do this in section 3. As for how to share it, if it’s encrypted it’s not a huge
+how to do this in section 3.14. As for how to share it, if it’s encrypted it’s not a huge
 deal to upload on a service like Dropbox, but I’m still not going to recommend it.
 You can use something like Nextcloud. There’s also Firefox Send, which will
-encrypt and store a file.. The last service is OnionShare, an open source project
+encrypt and store a file. The last service is OnionShare, an open source project
 on Tor, which lets you securely and anonymously share a file of any size. This is
 very promising. No matter what service you choose, encrypt the file before
 uploading it, and give the password to your recipient using another
