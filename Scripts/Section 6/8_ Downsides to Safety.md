@@ -30,7 +30,7 @@ accomplishments are much more difficult to do.
 The last downside is the possibility of obsession and/or phobia. It’s not
 uncommon for everything we’ve discussed in the course to shock some people. As
 big as the problems we discussed in the course are, be grateful for the positives
-they bring into our lives. Being able to navigate anywhere with Google Maps,
+technology can bring into our lives. Being able to navigate anywhere with Google Maps,
 instantly messaging people around the world, sharing moments with anybody
 instantly--is awesome! There is a hidden dark side to it, but don’t forget to enjoy
 the positives.
