@@ -49,8 +49,8 @@ configuration files.
 On to mobile devices! For Android, these are a couple guides you can use to help
 you, and there does seem to be built-in features for newer version of android.
 
-For iOS, you can’t spoof your MAC address unless you’re jailbroken. The
-workaround is you tether internet traffic through your computer with a spoofed
+For iOS, iOS 14 introudces MAC address randomization, so just enable it per network! The
+workaround if you're not running iOS 14 is you tether internet traffic through your computer with a spoofed
 MAC address.
 
 So that summarizes MAC addresses and how to change them in order to
@@ -59,6 +59,3 @@ this as often as possible to prevent people from tracking where you go, and what
 you’re doing on a network by simply logging your MAC addresses. The next
 lesson will be on a similar topic: Networking...more specifically how to properly
 secure a network. I’ll see you then!
-
-## Changes
-***iOS 14 now enables Mac address randomization!***
