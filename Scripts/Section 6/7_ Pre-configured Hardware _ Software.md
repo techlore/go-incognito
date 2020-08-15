@@ -6,7 +6,7 @@ options out there that do this work for us? Luckily, at the time of making this
 course, there are some projects and products I wanted to share with you that aim
 to offer security, privacy, or both out of the box. It’s important for us to support
 companies and projects that take this stuff seriously, and leave behind other
-companies that don’t give a crap...our advocacy lesson is coming soon.
+companies that don’t care.
 
 Let’s start with software:
 
@@ -33,7 +33,7 @@ a great track record.
 - Most linux distributions are private and secure out of the box, emphasis on
 most.
 
-- LineageOS, GrapheneOS, and CalyxOS are excellent ROMs for android
+- GrapheneOS, and CalyxOS are excellent ROMs for android
 devices.
 
 - VirtualBox and KVM allow you to create virtual machines quickly and
@@ -44,8 +44,9 @@ easily.
 - OpenWRT and PFsense both give you FOSS protection on your home
 routers.
 
-- And cryptocurrency projects like Monero and Zcash offer private ways to
+- And cryptocurrency projects like Monero offer private ways to
 send payments to anyone around the world.
+
 Those are just a few of many amazing projects out there. Moving to hardware:
 
 - Purism, Pine, and System76 make private computers built from the ground
@@ -62,6 +63,10 @@ iPads and Chromebooks. We’ve discussed using these in the past for high
 security, and low privacy activities; this includes personal banking,
 personal email, and anything else that is inherently unprivate, but requires
 a degree of security.
+
+- Outside of these larger products and services, we have some smaller items you can buy
+that we covered on our YouTube channel that we consider small boosts to your privacy and security
+for very little money, like privacy screen protectors. 
 
 And that’s it! My hope is that some of you watching this course have some
 programming, engineering, or development experience. If so, I encourage you to
