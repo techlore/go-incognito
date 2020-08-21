@@ -13,7 +13,7 @@ Go Incognito is a video-based course teaching users of varying experience levels
 - The sources used in each lesson are also in their own document. 
 
 <p align="center">
-  <img src="https://yt3.ggpht.com/Hkcj9JORsXH4s0QGhZRkpv_R7KB4SZDPa9C6YhSR2zYPu02-K3im3-z7S-Hk3SUOm-l_UE-ksdq4MA=s2800-nd"  height="500">
+  <img src="https://github.com/techlore-official/go-incognito/blob/master/Assets/overview.png"  height="500">
 </p>
 
 ## Project Status
