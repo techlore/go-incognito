@@ -86,4 +86,7 @@ warranty and many other major concerns. The Techlore channel has covered this to
 - A beautiful thing about searx.me is they allow you to self-host it yourself. Underrated feature I
     failed to bring up.
 
+**Antiviruses & Malware | Lesson 12:**
 
+-Using mutiple real-time antiviruses is never recommended, 
+  though having a backup scanning-only tool is fine.
