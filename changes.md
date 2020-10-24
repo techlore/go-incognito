@@ -88,5 +88,5 @@ warranty and many other major concerns. The Techlore channel has covered this to
 
 **Antiviruses & Malware | Lesson 12:**
 
--Using mutiple real-time antiviruses is never recommended, 
+- Using mutiple real-time antiviruses is never recommended, 
   though having a backup scanning-only tool is fine.
