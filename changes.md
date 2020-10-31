@@ -1,6 +1,6 @@
 # Go Incognito Changelog
 
-**(Updated May 17, 2019)**
+**(Updated October 30, 2020)**
 
 Thank you for watching Go Incognito! This document includes any necessary changes or updates to the course to ensure all information stays relevant.
 
