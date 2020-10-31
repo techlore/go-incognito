@@ -1,6 +1,6 @@
 # Go Incognito Changelog
 
-**(Updated May 17, 2019)**
+**(Updated October 30, 2020)**
 
 Thank you for watching Go Incognito! This document includes any necessary changes or updates to the course to ensure all information stays relevant.
 
@@ -68,6 +68,7 @@ warranty and many other major concerns. The Techlore channel has covered this to
 
 - The disclaimer text at https://youtu.be/jZr4u5nEZP4?t=730 (12 minutes, 10 seconds) should say
     “Overestimate” instead of “Underestimate”.
+ - Some password tips were a bit outdated in this video, for a much more thorough analysis on password security, refer to this resource: https://pages.nist.gov/800-63-3/sp800-63b.html   
 
 **Two-Factor Authentication | Lesson 5:**
 
@@ -85,6 +86,11 @@ warranty and many other major concerns. The Techlore channel has covered this to
     channel will cover other search engines more in-depth in the future.
 - A beautiful thing about searx.me is they allow you to self-host it yourself. Underrated feature I
     failed to bring up.
+    
+**What's the BEST browser | Lesson 7:**
+
+- There was a study showing Brave phones home the least out of the box: https://www.scss.tcd.ie/Doug.Leith/pubs/browser_privacy.pdf
+- Firefox incorporates some heavy telemetry by default, specifically including Google into their mobile applications. This can all be opted out of, though you should know of its existence.
 
 **Antiviruses & Malware | Lesson 12:**
 
