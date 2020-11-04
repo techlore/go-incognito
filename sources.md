@@ -562,6 +562,66 @@ https://brave.com/
 3.7.15 Tor Browser
 https://www.torproject.org/download/
 
+3.8.1 Privacytools.io Firefox about:config Tweaks
+https://www.privacytools.io/browsers/#about_config
+
+3.8.2 HTTPS Everywhere
+https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
+
+3.8.3 About HTTP/S
+https://www.computerhope.com/jargon/h/http.htm
+
+3.8.4 uBlock Origin
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+
+3.8.5 Adblock Plus Whitelisting Ads
+https://www.cnbc.com/2016/09/14/adblock-plus-defends-new-whitelisting-ad-platform.html
+
+3.8.6 Privacy Badger
+https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+
+3.8.7 Privacytools.io WebRTC Details
+https://www.privacytools.io/browsers/#webrtc
+
+3.8.8 Decentraleyes
+https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
+
+3.8.9 Google Hosted Libraries
+https://developers.google.com/speed/libraries/
+
+3.8.10 jQuery CDN
+http://code.jquery.com
+
+3.8.11 Cookie AutoDelete
+https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/
+
+3.8.12 Java, Adobe Reader, and Flash Exploits
+https://www.zdnet.com/article/java-reader-and-flash-are-most-exploited-windows-programs/
+
+3.8.13 Exploiting Meltdown/Spectre via JavaScript
+https://react-etc.net/entry/exploiting-speculative-execution-meltdown-spectre-via-javascript
+
+3.8.14 The Death of Adobe Flash
+https://www.jwplayer.com/blog/deprecation-flash/
+
+3.8.15 CanvasBlocker
+https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
+
+3.8.16 Canvas Fingerprint Defender
+https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp
+
+3.8.17 NoScript
+https://addons.mozilla.org/en-US/firefox/addon/noscript/
+
+3.8.18 ScriptBlock
+https://chrome.google.com/webstore/detail/scriptblock/hcdjknjpbnhdoabbngpmfekaecnpajba
+
+3.8.19 uMatrix
+https://addons.mozilla.org/en-US/firefox/addon/umatrix/
+
+3.8.20 The Hated One Firefox Hardening Guide
+https://youtu.be/tQhWdsFMc24
+
 3.9.1 Web Browsing Behavior Study
 https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS13/paper/viewFile/5865/6081
 
