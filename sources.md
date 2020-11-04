@@ -945,3 +945,137 @@ https://send.firefox.com/
 
 3.15.41 OnionShare
 https://onionshare.org/
+
+## Section 4
+
+4.2.1 Windows 10 Privacy Nightmare
+https://www.privacytools.io/operating-systems/#win10
+
+4.2.2 Microsoft NSA Messages
+https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data
+
+4.2.3 W10Privacy
+https://www.w10privacy.de/
+
+4.2.4 Permissions & Settings | Go Incognito 3.3
+https://youtu.be/npf4kjWhCe8
+
+4.2.5 Apple Privacy Recap
+https://www.forbes.com/sites/theopriestley/2015/08/24/did-apple-lie-about-your-privacy/#1bf4bdcc2b09
+
+4.2.6 Apple iCloud Privacy
+https://money.cnn.com/2016/02/22/technology/apple-privacy-icloud/index.html
+
+4.2.6(1) Apple Transparency Report
+https://www.apple.com/legal/transparency/
+
+4.2.7 Apple Kickass Torrents FBI
+https://www.macrumors.com/2016/07/21/apple-helped-identify-kickasstorrents-owner/
+
+4.2.8 NSA PRISM
+https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data
+
+4.2.9 Ubuntu Amazon Spyware
+https://www.pcworld.com/article/2840401/ubuntus-unity-8-desktop-removes-the-amazon-search-spyware.html
+
+4.2.10 Ubuntu
+https://ubuntu.com/
+
+4.2.11 Linux Mint
+https://linuxmint.com/
+
+4.2.12 Fedora
+https://getfedora.org/
+
+4.2.13 Debian
+https://www.debian.org/
+
+4.2.14 FreeBSD
+https://www.freebsd.org/
+
+4.2.15 OpenBSD
+https://www.openbsd.org/
+
+4.2.16 BSD vs Linux Differences
+https://www.howtogeek.com/190773/htg-explains-whats-the-difference-between-linux-and-bsd/
+
+4.2.17 HardenedBSD
+https://hardenedbsd.org/
+
+4.2.18 AlternativeTo
+https://alternativeto.net/
+
+4.2.19 Switched to Linux
+https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw
+
+4.2.20 Switched to Linux & Techlore Linux Livestream
+https://youtu.be/RVGzR7yuw80
+
+4.3.1 OnePlus Phone Spying
+https://thenextweb.com/mobile/2017/10/11/dear-oneplus-please-stop-spying-on-my-phone/
+
+4.3.2 GrapheneOS
+https://grapheneos.org
+
+4.3.3 Android Bloatware Explained
+https://tech.hindustantimes.com/tech/news/android-s-bloatware-problem-explained-here-s-how-can-you-manage-it-story-1oQeO6lrGY2VAuC5KhUviI.html
+
+4.3.4 Motorola Phone Spying
+https://www.computerworld.com/article/2473949/motorola-secretly-spies-on-droid-phone-users-every-9-minutes--collects-personal-data.html
+
+4.3.5 HTC Sensation and EVO 3D Spying
+https://bgr.com/2011/09/01/htc-sensation-and-evo-3d-revealed-to-be-spying-on-users/
+
+4.3.6 Samsung Peeping Tom Phone Spying
+https://www.thesun.co.uk/tech/3751944/samsungs-peeping-tom-smartphones-listen-and-watch-what-you-do-on-the-web-while-monitoring-your-emails-to-target-you-with-ads/
+
+4.3.7 XDA Developers
+https://www.xda-developers.com
+
+4.3.8 LineageOS
+https://lineageos.org
+
+4.3.9 F-Droid
+https://f-droid.org
+
+4.3.10 Introduction to APK Files
+https://www.nextpit.com/android-for-beginners-what-is-an-apk-file
+
+4.3.11 Aurora Store
+https://f-droid.org/en/packages/com.aurora.store/
+
+4.3.12 Open GApps
+https://opengapps.org
+
+4.3.13 MicroG
+https://microg.org
+
+4.3.14 CalyxOS
+https://calyxos.org
+
+4.3.15 GrapheneOS Techlore Review
+https://youtu.be/hrDUOtWXGv8
+
+4.3.16 CalyxOS Techlore Review
+https://youtu.be/heVNcdq2MKA
+
+4.3.17 Purism Librem 5
+https://shop.puri.sm/shop/librem-5/
+
+4.3.18 Pine64 Pinephone
+https://www.pine64.org/pinephone/eTo
+
+4.4.1 QubesOS
+https://www.qubes-os.org
+
+4.4.2 Whonix
+https://www.whonix.org
+
+4.4.3 TailsOS
+https://tails.boum.org
+
+4.4.4 Anonymity Operating System Comparison
+https://www.whonix.org/wiki/Comparison_with_Others
+
+4.4.5 Ventoy
+https://www.ventoy.net/en/index.html
