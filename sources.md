@@ -562,4 +562,326 @@ https://brave.com/
 3.7.15 Tor Browser
 https://www.torproject.org/download/
 
+3.9.1 Web Browsing Behavior Study
+https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS13/paper/viewFile/5865/6081
 
+3.9.2 Keyboard Privacy Extension for Chromium
+https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk
+
+3.9.3 Behavioral Keyboard Privacy for Firefox
+https://addons.mozilla.org/en-US/firefox/addon/behavioral-keyboard-privacy/
+
+3.10.1 Panopticlick
+https://panopticlick.eff.org/
+
+3.10.2 AmIUnique
+https://amiunique.org/fp
+
+3.10.3 BrowserSPY.dk
+https://browserspy.dk/
+
+3.10.4 NoScript
+https://addons.mozilla.org/en-US/firefox/addon/noscript/
+
+3.10.5 Panopticlick
+https://panopticlick.eff.org/
+
+3.10.6 User-agent- Switcher 
+https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/
+
+3.10.7 Tor Project
+https://www.torproject.org/
+
+3.11.1 ISPs Selling User Data
+https://cybernews.com/privacy/isp-selling-data-why-you-should-actually-care/
+
+3.11.2 ISPs Lobbying Congress
+https://www.theverge.com/2017/3/28/15080436/us-house-votes-to-let-isps-share-web-browsing-history
+
+3.11.3 ProtonVPN
+https://protonvpn.com/
+
+3.11.4 Windscribe
+https://windscribe.com/
+
+3.11.5 DEFCON Chema Alonso XROXY
+https://youtu.be/0QT4YJn7oVI
+
+3.11.6 'Are Free VPNs Good or Evil?' Video
+https://youtu.be/Gq1uTrSmykU
+
+3.11.7 'VPN 14 Eyes Explained' Video
+https://youtu.be/M5N51k0o_8A
+
+3.11.8 Privacytools.io - The Fourteen Eyes
+https://www.privacytools.io/providers/#ukusa
+
+3.11.9 Privacytools.io - VPN Recommendations
+https://www.privacytools.io/providers/vpn/
+
+3.11.10 Techlore VPN Reviews, Tools, & Resources
+https://github.com/techlore-official/VPN-reviews
+
+3.11.11 Mullvad
+https://mullvad.net/
+
+3.11.12 IVPN
+https://www.ivpn.net/
+
+3.11.13 NordVPN
+https://nordvpn.com/
+
+3.11.14 PrivateInternetAccess
+https://www.privateinternetaccess.com/
+
+3.11.15 Vanilla Visa Gift Card
+https://www.vanillagift.com
+
+3.11.16 IPVanish Caught Logging
+https://torrentfreak.com/ipvanish-no-logging-vpn-led-homeland-security-to-comcast-user-180505/
+
+3.11.17 HideMyAss Caught Logging
+https://invisibler.com/lulzsec-and-hidemyass/
+
+3.11.18 PureVPN Caught Logging
+https://torrentfreak.com/purevpn-logs-helped-fbi-net-alleged-cyberstalker-171009/
+
+3.11.19 WireGuard
+https://www.wireguard.com/
+
+3.11.20 WireGuard 1.0 & Linux Kernel
+https://arstechnica.com/gadgets/2020/03/wireguard-vpn-makes-it-to-1-0-0-and-into-the-next-linux-kernel/
+
+3.12.1 Security vs Privacy! | Go Incognito 1.3
+https://youtu.be/Wpkh-hfULgE
+
+3.12.2 'Macs Don't Get Viruses' Myth-Busting
+https://www.solarwindsmsp.com/blog/macs-dont-get-viruses-and-other-lies#:~:text=Macs%20don%27t%20get%20as,increased%20by%20a%20whopping%2060%25.
+
+3.12.3 How To Uninstall McAfee Antivirus Video
+https://youtu.be/bKgf5PaBzyg
+
+3.12.4 Antivirus Privacy Concerns
+https://www.makeuseof.com/tag/antivirus-tracking-youd-surprised-sends/
+
+3.12.5 Windows Defender Protection Test
+https://www.av-test.org/en/antivirus/home-windows/
+
+3.12.6 Operating System Vulnerabilities
+https://heimdalsecurity.com/blog/most-vulnerable-software-2016/
+
+3.12.7 ClamAV
+https://www.clamav.net/
+
+3.12.8 iOS Security Recap
+https://support.apple.com/guide/security/welcome/web
+
+3.12.9 VirusTotal
+https://www.virustotal.com
+
+3.12.10 Your Browsing Habits | Go Incognito 3.9
+https://youtu.be/g0mId51upt0
+
+3.12.11 Linux Firewalls
+https://opensource.com/article/18/9/linux-iptables-firewalld
+
+3.12.12 NetGuard (Play Store)
+https://play.google.com/store/apps/details?id=eu.faircode.netguard
+
+3.12.12(1) NetGuard (F-Droid)
+https://f-droid.org/en/packages/eu.faircode.netguard/
+
+3.12.13 GuardedID
+https://www.strikeforcecpg.com/guardedid/
+
+3.13.1 Why Deleting Files Doesn't Work
+http://www.radschool.org.au/magazines/Vol41/pdf/Page4.pdf
+
+3.13.2 Recuva
+https://www.ccleaner.com/recuva
+
+3.13.3 CCleaner
+https://www.ccleaner.com/
+
+3.13.4 BleachBit
+https://www.bleachbit.org/
+
+3.13.5 Mac Secure File Deletion
+https://www.macworld.com/article/3005796/operating-systems/how-to-replace-secure-empty-trash-in-os-x-el-capitan.html
+
+3.13.6 Eraser
+https://eraser.heidi.ie/
+
+3.13.7 Mac Secure File Deletion
+https://www.macworld.com/article/3005796/operating-systems/how-to-replace-secure-empty-trash-in-os-x-el-capitan.html
+
+3.13.8 Erasing Data From SSDs
+https://www.usenix.org/legacy/events/fast11/tech/full_papers/Wei.pdf
+
+3.13.9 SSD Lifespans & Write Cycles
+https://www.compuram.de/blog/en/the-life-span-of-a-ssd-how-long-does-it-last-and-what-can-be-done-to-take-care/
+
+3.14.1 7-Zip
+https://www.7-zip.org/
+
+3.14.2 VeraCrypt
+https://www.veracrypt.fr/
+
+3.14.3 VeraCrypt Video Guide
+https://youtu.be/C25VWAGl7Tw
+
+3.14.4 The GNU Privacy Guard
+https://gnupg.org/
+
+3.14.5 OpenPGP
+https://www.openpgp.org/
+
+3.14.6 Drive Encryption Video Demo
+https://youtu.be/0NfvKci3WF0
+
+3.14.7 Control Over Encryption Keys
+https://www.skyhighnetworks.com/cloud-security-blog/5-reasons-to-maintain-control-of-your-keys-when-encrypting-data-in-the-cloud/
+
+3.14.8 iCloud Encryption & Backups
+https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT
+
+3.14.9 Companies in PRISM
+https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data
+
+3.14.10 Cryptomator
+https://cryptomator.org/
+
+3.14.11 MEGA
+https://mega.nz/
+
+3.14.12 ProtonDrive (Unreleased)
+http://protondrive.com/
+
+3.14.12(1) ProtonDrive Info
+https://medium.com/@edumontoya/protondrive-price-release-date-and-review-95031b9e88aa
+
+3.14.13 Nextcloud
+https://nextcloud.com/
+
+3.15.1 SMS Security Concerns
+https://techcrunch.com/2018/12/25/cybersecurity-101-guide-encrypted-messaging-apps/
+
+3.15.2 NSA AT&T Whistleblower
+https://www.wired.com/2013/06/nsa-whistleblower-klein/
+
+3.15.3 NSA AT&T Secret Rooms
+https://www.salon.com/2006/06/21/att_nsa/
+
+3.15.4 Modern NSA AT&T Spy Hubs
+https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/
+
+3.15.5 Signal Messenger
+https://signal.org/
+
+3.15.6 Threema
+https://threema.ch/
+
+3.15.7 Wire
+https://wire.com/
+
+3.15.8 Telegram
+https://telegram.org/
+
+3.15.9 Briar
+https://briarproject.org/
+
+3.15.10 Wickr
+https://wickr.com/
+
+3.15.11 WhatsApp Metadata
+https://www.freecodecamp.org/news/why-i-asked-my-friends-to-stop-using-whatsapp-and-telegram-e93346b3c1f0/
+
+3.15.12 Telegram Security Concerns
+https://www.scmp.com/abacus/tech/article/3029415/why-telegram-isnt-secure-you-think
+
+3.15.13 ChatSecure
+https://chatsecure.org/
+
+3.15.14 XMPP
+https://xmpp.org/
+
+3.15.15 Jabber
+https://www.jabber.org/
+
+3.15.16 Kontalk
+https://kontalk.org/
+
+3.15.17 Matrix
+https://matrix.org/
+
+3.15.18 Element
+https://element.io/
+
+3.15.19 Privacytools.io Real Time Communication
+https://www.privacytools.io/software/real-time-communication/
+
+3.15.20 WhatsApp
+https://www.whatsapp.com/
+
+3.15.21 Burner
+https://www.burnerapp.com/
+
+3.15.22 Shuffle
+http://getshuffle.com/
+
+3.15.23 MySudo
+https://mysudo.com/
+
+3.15.24 Email Is Completely Insecure by Default
+https://www.viget.com/articles/email-is-completely-insecure-by-default/
+
+3.15.25 Privacytools.io Email Resources
+https://www.privacytools.io/providers/email/
+
+3.15.26 Google Reads/Scans Your Emails
+https://variety.com/2017/digital/news/google-gmail-ads-emails-1202477321/
+
+3.15.27 Mailvelope
+https://www.mailvelope.com
+
+3.15.28 ProtonMail
+https://protonmail.com/
+
+3.15.29 Disroot
+https://disroot.org/
+
+3.15.30 Tutanota
+https://www.tutanota.com/
+
+3.15.31 Countermail
+https://countermail.com/
+
+3.15.32 Top 5 Email Providers Techlore Video
+https://youtu.be/Ruvp6F2AmV8
+
+3.15.33 Email Metadata Information
+https://www.makeuseof.com/tag/what-can-you-learn-from-an-email-header-metadata/
+
+3.15.34 TempMail
+https://temp-mail.org/
+
+3.15.35 Guerrilamail
+https://www.guerrillamail.com/
+
+3.15.36 Harvard Bomb Threat Guerrilamail
+https://www.theverge.com/2013/12/18/5224130/fbi-agents-tracked-harvard-bomb-threats-across-tor
+
+3.15.37 10MinuteMail
+https://10minutemail.com/
+
+3.15.38 I2P-Bote
+https://i2pbote.xyz/
+
+3.15.39 Nextcloud
+https://nextcloud.com/
+
+3.15.40 Firefox Send
+https://send.firefox.com/
+
+3.15.41 OnionShare
+https://onionshare.org/
