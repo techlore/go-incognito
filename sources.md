@@ -1,8 +1,8 @@
 # Go Incognito Sources
 
-(Updated June 16th 2019)
-Thank you for watching Go Incognito! This document includes the sources used throughout the
-course for you to verify claims and in-depth read through all of these amazing resources.
+(Updated November 3, 2020)
+Thank you for watching Go Incognito. This document includes sources used throughout the
+course for you to verify claims and in-depth read through all these resources.
 
 The numbering system is Section.Lesson.Source; so 1.1.1 would be section 1, lesson 1, source 1.
 CTRL-F through this document to find a specific source mentioned in a lesson.
