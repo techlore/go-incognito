@@ -1,6 +1,6 @@
 # Go Incognito Changelog
 
-**(Updated October 30, 2020)**
+**(Updated November 16, 2020)**
 
 Thank you for watching Go Incognito! This document includes any necessary changes or updates to the course to ensure all information stays relevant.
 
@@ -96,3 +96,7 @@ warranty and many other major concerns. The Techlore channel has covered this to
 
 - Using mutiple real-time antiviruses is never recommended, 
   though having a backup scanning-only tool is fine.
+
+**Section 3 Finale | Lesson 16:**
+
+- There is a missing audio effect in the introduction. This will be fixed in the premium version of Go Incognito
