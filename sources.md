@@ -118,7 +118,7 @@ users.html
 https://www.zdnet.com/article/coalition-of-tech-giants-hit-by-nsa-spying-slams-encryption-backdoors/
 
 1.4.2 FOSS Study
-https://ro.uow.edu.au/cgi/viewcontent.cgi
+https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1938&context=eispapers
 
 1.4.3 More on FOSS Video
 https://www.youtube.com/watch?v=BpmAFwZy0Gg
