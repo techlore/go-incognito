@@ -3,7 +3,7 @@
   <img src="https://techlore.tech/assets/images/course-logo.png" width="250" height="250">
 </p>
 
-Go Incognito is a video-based course teaching users of varying experience levels about privacy, security, and anonymity. It’s part of the Techlore mission to educate users and provide them with not only a tutorial for improving their data habits, but to transform their way of thinking about why, where, when, and how to treat their personal information. Go Incognito is available free to watch, is shareable to the public through a Creative Commons license, and will one day include a premium version for users who want perks and to support our cause. It’s been in production since May, 2018, and is still in the process of being released.
+Go Incognito is a video-based course teaching users of varying experience levels about privacy, security, and anonymity. It’s part of the Techlore mission to educate users and provide them with not only a tutorial for improving their data habits, but to transform their way of thinking about why, where, when, and how to treat their personal information. Go Incognito is available free to watch, is shareable to the public through a Creative Commons license, and will one day include a premium version for users who want perks and to support our cause. It’s been in production since May, 2018, and the free version has been released.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
@@ -18,8 +18,7 @@ Go Incognito is a video-based course teaching users of varying experience levels
 </p>
 
 ## Project Status
-- Section 4 is currently being produced. Lessons are first uploaded to YouTube, so visit our channel https://www.youtube.com/c/techlore to catch them as they are released. There's a Go Incognito playlist located at https://www.youtube.com/playlist?list=PL3KeV6Ui_4CayDGHw64OFXEPHgXLkrtJO
-- Current goal to complete production of the course by the end of 2020
+- The free version of Go Incognito has been finished and can be found on [YouTube](https://www.youtube.com/playlist?list=PL3KeV6Ui_4CayDGHw64OFXEPHgXLkrtJO), or other places on our [website](https://techlore.tech/goincognito.html).
 
 ## Premium vs Free Version
 - All information between the two versions are exactly the same. 
