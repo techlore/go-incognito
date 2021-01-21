@@ -1148,3 +1148,93 @@ https://techlore.tech/sr.html
 
 4.7.3 Have I Been Pwned
 https://haveibeenpwned.com/
+
+5.2.1 Techlore Drive Encryption Video
+https://youtu.be/0NfvKci3WF0
+
+5.2.2 BitLocker
+https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview
+
+5.2.3 FileVault
+https://support.apple.com/en-us/HT204837
+
+5.2.4 iOS Encryption
+https://support.apple.com/guide/security/encryption-and-data-protection-overview-sece3bee0835/web
+
+5.2.5 Android Full-Disk Encryption
+https://source.android.com/security/encryption/full-disk
+
+5.2.6 Veracrypt
+https://www.veracrypt.fr/code/VeraCrypt/
+
+5.2.7 Techlore Veracrypt Tutorial
+https://youtu.be/C25VWAGl7Tw
+
+5.2.8 Printers/Copiers Storing Data
+https://blog.techsoup.org/posts/your-copiers-are-storing-confidential-information-what-you-can-do-about-it
+
+5.2.9 Libreboot
+https://libreboot.org/
+
+5.2.10 Coreboot
+https://www.coreboot.org/
+
+5.2.11 Managing Health Privacy
+https://www.wired.com/story/strava-privacy-settings-how-to/
+
+5.2.12 Techlore Health/Fitness Tracking Options
+https://youtu.be/LgYReUhHy9k
+
+5.2.13 Blake Robbins School Webcam Spying
+https://www.cbsnews.com/news/610k-settlement-in-school-webcam-spy-case/
+
+5.3.1 MAC Address Garbage Cans
+https://gizmodo.com/brave-new-garbage-londons-trash-cans-track-you-using-1071610114
+
+5.3.2 Change MAC in Windows/MacOS/Linux
+https://www.howtogeek.com/192173/how-and-why-to-change-your-mac-address-on-windows-linux-and-mac/
+
+5.3.3 Technitium
+https://technitium.com/tmac/
+
+5.3.4 spoof MAC Address Tool
+https://github.com/feross/spoof
+
+5.3.5 Change MAC in Android
+https://www.droidviews.com/change-mac-address-android-devices/
+
+5.3.6 Android MAC Randomization
+https://www.techrepublic.com/article/how-to-enable-a-randomized-mac-address-in-android-10/
+
+5.3.7 iOS 14 MAC Address Randomization
+https://support.apple.com/en-us/HT211227
+
+5.4.1 WEP is Bad
+https://www.makeuseof.com/tag/what-is-wep-wi-fi-encryption-and-why-is-it-really-insecure-makeuseof-explains/
+
+5.4.2 How to Access Home Router Admin
+https://www.pcmag.com/how-to/how-to-access-your-wi-fi-routers-settings
+
+5.4.3 Go Incognito 3.4 - Passwords
+https://youtu.be/jZr4u5nEZP4
+
+5.4.4 Is Hiding Your SSID More Secure?
+https://lifehacker.com/is-hiding-your-wireless-ssid-really-more-secure-5636856
+
+5.4.5 WPS Issue 1
+https://null-byte.wonderhowto.com/how-to/hack-wpa-wifi-passwords-by-cracking-wps-pin-0132542/
+
+5.4.6 WPS Issue 2
+https://kalilinuxtutorials.com/reaver-pixewps/
+
+5.4.7 Pixiewps
+https://github.com/wiire-a/pixiewps
+
+5.4.8 Bypassing MAC Address Filters
+https://www.hackingtutorials.org/wifi-hacking-tutorials/bypass-mac-filtering-on-wireless-networks/
+
+5.4.9 OpenWrt
+https://openwrt.org/
+
+5.4.10 pfSense
+https://www.pfsense.org/
