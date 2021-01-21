@@ -1238,3 +1238,69 @@ https://openwrt.org/
 
 5.4.10 pfSense
 https://www.pfsense.org/
+
+5.5.1 Bluetooth Attacks & Security Risks
+https://www.makeuseof.com/tag/3-ways-bluetooth-device-security-risk/
+
+5.5.2 BlueBorne
+https://www.armis.com/blueborne/
+
+5.5.3 Bluetooth Wikipedia Page
+https://en.m.wikipedia.org/wiki/Bluetooth
+
+5.5.4 Retail Bluetooth Shopping Beacons
+https://www.nytimes.com/interactive/2019/06/14/opinion/bluetooth-wireless-tracking-privacy.html
+
+5.5.5 Location Data Privacy Usage
+https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
+
+5.5.6 Apple Location Data Issue
+https://www.wired.com/2011/04/iphone-location/
+
+5.5.7 US Government Using Cell Location Data
+https://www.aclu.org/news/immigrants-rights/the-u-s-government-is-secretly-using-cell-phone-location-data-to-track-us-were-suing/
+
+5.5.8 GPS Data to Track Americans
+https://www.aclu.org/blog/national-security/privacy-and-surveillance/justice-department-refuses-release-gps-tracking
+
+5.5.9 Android Spoof Location
+https://9to5google.com/2018/04/08/spoof-location-android-basics/
+
+5.5.10 iOS Spoof Location
+https://www.idownloadblog.com/2020/06/15/location-faker/
+
+5.5.11 Usenix Enigma 2019 Serge Egelman
+https://youtu.be/zdFUGhrMifM
+
+5.5.12 NFC Concerns
+https://cdt.org/insights/nfc-phones-raise-opportunities-privacy-and-security-issues/
+
+5.5.13 Bluetooth and NFC Beacons to Personalize Shopping
+https://martechtoday.com/using-bluetooth-nft-personalize-store-shopping-199314
+
+5.5.14 Retail Tracking Privacy Analysis
+https://www.ftc.gov/news-events/blogs/techftc/2015/04/privacy-trade-offs-retail-tracking
+
+5.5.15 Google & Apple Map our WiFi Locations
+https://www.itbusiness.ca/news/google-apple-tap-crowdsourcing-to-map-out-wifi-locations/15658
+
+5.5.16 CSEC Tracking Canadian Travelers
+https://www.cbc.ca/news/politics/csec-used-airport-wi-fi-to-track-canadian-travellers-edward-snowden-documents-1.2517881
+
+5.5.17 Pat Barbaro Australian Mafia Investigation
+https://web.archive.org/web/20150709001723/https://www.abc.net.au/news/2015-07-06/nick-mckenzie-speaks-out-about-his-brush-with-the-mafia/6596098
+
+5.5.18 Cell Companies Selling Location Data
+https://techcrunch.com/2019/01/09/us-cell-carriers-still-selling-your-location-data/
+
+6.2.1 IRS Scams
+https://www.irs.gov/newsroom/tax-scams-consumer-alerts
+
+6.2.2 FTC Settlement with Toysmart.com
+https://www.ftc.gov/news-events/press-releases/2000/07/ftc-announces-settlement-bankrupt-website-toysmartcom-regarding
+
+6.2.3 Companies Will Sell or Transfer Your Data
+https://www.nytimes.com/2015/06/29/technology/when-a-company-goes-up-for-sale-in-many-cases-so-does-your-personal-data.html
+
+6.2.4 RadioShack Bankruptcy and User Data
+https://www.infolawgroup.com/insights/2015/06/articles/privacy-law/radioshack-bankruptcy-case-highlights-value-of-consumer-data
