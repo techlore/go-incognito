@@ -1121,3 +1121,21 @@ https://geti2p.net
 
 4.5.14 Freenet
 https://freenetproject.org
+
+4.6.1 Bitcoin Double-Spending Explained
+https://www.investopedia.com/ask/answers/061915/how-does-block-chain-prevent-doublespending-bitcoins.asp
+
+4.6.2 Monero
+https://www.getmonero.org/
+
+4.6.3 Techlore Bitcoin ATM Video
+https://youtu.be/LG-FIxRW2eI
+
+4.6.4 LocalBitcoins
+https://localbitcoins.com/
+
+4.6.5 Bisq
+https://bisq.network/
+
+4.6.6 Techlore Anonymous Cryptocurrency Video
+https://youtu.be/MGGIvaF234c
