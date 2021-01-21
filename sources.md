@@ -1139,3 +1139,12 @@ https://bisq.network/
 
 4.6.6 Techlore Anonymous Cryptocurrency Video
 https://youtu.be/MGGIvaF234c
+
+4.7.1 Techlore Resources
+https://techlore.tech/resources.html
+
+4.7.2 Techlore Surveillance Report
+https://techlore.tech/sr.html
+
+4.7.3 Have I Been Pwned
+https://haveibeenpwned.com/
