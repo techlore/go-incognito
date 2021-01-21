@@ -1079,3 +1079,45 @@ https://www.whonix.org/wiki/Comparison_with_Others
 
 4.4.5 Ventoy
 https://www.ventoy.net/en/index.html
+
+4.5.1 Tor Real-World Uses
+https://2019.www.torproject.org/about/torusers.html.en
+
+4.5.2 Tor Browser
+https://www.torproject.org/
+
+4.5.3 Go Incognito 3.10 - Browser Uniqueness
+https://youtu.be/SiCguOP9h6o
+
+4.5.4 TailsOS
+https://tails.boum.org/
+
+4.5.5 Whonix
+https://www.whonix.org/
+
+4.5.6 Should You Install Extensions in Tor?
+https://2019.www.torproject.org/docs/faq.html.en
+
+4.5.7 Keystroke Traits to Track Users in Tor
+https://arstechnica.com/information-technology/2015/07/how-the-way-you-type-can-shatter-anonymity-even-on-tor/
+
+4.5.8 Malicious Relays on the Tor Network
+https://nusenu.medium.com/the-growing-problem-of-malicious-relays-on-the-tor-network-2f14198af548
+
+4.5.9 Tor Differential Treatment For Tor Users
+https://www.icir.org/vern/papers/tor-differential.NDSS16.pdf
+
+4.5.10 Brave Privacy Window w/ Tor Functionality
+https://support.brave.com/hc/en-us/articles/360018121491-What-is-a-Private-Window-with-Tor-Connectivity-
+
+4.5.11 Tor Use After Freedom Hosting Compromise
+https://www.helpnetsecurity.com/2013/08/06/advice-on-tor-use-in-wake-of-freedom-hosting-compromise/
+
+4.5.12 Tor & VPNs?
+https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN
+
+4.5.13 I2P
+https://geti2p.net
+
+4.5.14 Freenet
+https://freenetproject.org
