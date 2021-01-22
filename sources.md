@@ -1304,3 +1304,88 @@ https://www.nytimes.com/2015/06/29/technology/when-a-company-goes-up-for-sale-in
 
 6.2.4 RadioShack Bankruptcy and User Data
 https://www.infolawgroup.com/insights/2015/06/articles/privacy-law/radioshack-bankruptcy-case-highlights-value-of-consumer-data
+
+6.3.1 Trading Data For a Cookie
+https://www.propublica.org/article/how-much-of-your-data-would-you-trade-for-a-free-cookie
+
+6.3.2 DNA Sites Are the Wild West of Privacy
+https://www.marketwatch.com/story/genealogy-site-traps-alleged-serial-killer-how-your-dna-could-be-used-against-you-2018-04-28
+
+6.3.3 MyHeritage Breach
+https://www.theverge.com/2018/6/5/17430146/dna-myheritage-ancestry-accounts-compromised-hack-breach
+
+6.3.4 23andMe Pharma Deals
+https://www.wired.com/story/23andme-glaxosmithkline-pharma-deal/
+
+6.3.5 FTC Investigating DNA Firms Over Privacy
+https://www.fastcompany.com/40580364/the-ftc-is-investigating-dna-firms-like-23andme-and-ancestry-over-privacy
+
+6.3.6 Facial Recognition From DNA
+https://www.nature.com/articles/s41467-019-10617-y.pdf
+
+6.3.7 Blogger Beaten For Boasting Crypto
+https://cointelegraph.com/news/russia-blogger-who-boasted-about-crypto-wealth-beaten-and-robbed-for-425k
+
+6.3.8 Legal Trusts Explained
+https://youtu.be/UG5n_3UsrxA
+
+6.4.1 Tempmail
+https://temp-mail.org/
+
+6.4.2 Guerrilla Mail
+https://www.guerrillamail.com/
+
+6.4.3 SimpleLogin
+https://simplelogin.io/
+
+6.4.4 Burner
+https://www.burnerapp.com/
+
+6.4.5 MySudo
+https://mysudo.com/
+
+6.4.6 Fake Name Generator
+https://www.fakenamegenerator.com/
+
+6.5.1 All Business Breaches
+https://mashable.com/2018/04/04/every-store-retailer-hacked/
+
+6.5.2 Vanilla Visa
+https://www.vanillagift.com/
+
+6.5.3 Viabuy
+https://www.viabuy.com/the-prepaid-mastercard-in-gold-or-black.html
+
+6.5.4 OptOutPrescreen
+https://www.optoutprescreen.com/
+
+6.5.5 Virtual Card Numbers
+https://www.creditcardinsider.com/blog/virtual-credit-cards/
+
+6.5.6 Privacy.com
+https://privacy.com/
+
+6.6.1 Offsite Backups
+https://www.howtogeek.com/219197/youre-not-backing-up-properly-unless-you-have-offsite-backups/
+
+6.6.2 CCTV FOSS Options
+https://www.reddit.com/r/ZoneMinder/comments/9s3y2q/alternatives_to_zoneminder/
+
+6.6.3 Alexa Is Listening
+https://www.theverge.com/2018/5/24/17391898/amazon-alexa-private-conversation-recording-explanation
+
+6.6.4 Burglars Casing Homes
+https://www.getsafe.com/are-burglars-casing-your-home-four-scams/
+
+6.6.5 Facial Recogniton Eye Glasses
+https://www.fastcompany.com/3050252/yes-anti-facial-recognition-glasses-are-coming
+
+6.6.6 Masks Fooling Facial Recognition
+https://www.vox.com/recode/2020/7/28/21340674/face-masks-facial-recognition-surveillance-nist
+
+6.6.7 FTC Opt Out
+https://www.consumer.ftc.gov/articles/0262-stopping-unsolicited-mail-phone-calls-and-email
+
+6.6.8 Triangle-Based Facial Detection
+https://www.semanticscholar.org/paper/Triangle-based-approach-to-the-detection-of-human-Lin-Fan/69528269f54f4997320ce7d34a7036254f7d380f
+
