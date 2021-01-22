@@ -115,146 +115,95 @@ e66ec1068d168e304a51fd2756e)
 
 ## Section 2
 
-2.2.1 Java, Reader, & Flash Exploits
-https://heimdalsecurity.com/blog/java-biggest-security-hole-your-computer/
+2.2.1 [Java, Reader, & Flash Exploits](https://heimdalsecurity.com/blog/java-biggest-security-hole-your-computer/)
 
-2.2.2 First Techlore Video (Free VPN for iOS)
-https://www.youtube.com/watch?v=ivF2dIz2lNM
+2.2.2 [First Techlore Video (Free VPN for iOS)](https://www.youtube.com/watch?v=ivF2dIz2lNM)
 
-2.2.3 Beats Firmware Updater
-https://www.beatsbydre.com/support/how-to/firmware-updates-beats-updater
+2.2.3 [Beats Firmware Updater](https://www.beatsbydre.com/support/how-to/firmware-updates-beats-updater)
 
-2.2.4 Removing Mac Program Remnants
-https://www.stellarinfo.com/blog/remove-delete-mac-leftover-files/
+2.2.4 [Removing Mac Program Remnants](https://www.stellarinfo.com/blog/remove-delete-mac-leftover-files/)
 
-2.2.5 Geek Uninstaller
-https://geekuninstaller.com/
+2.2.5 [Geek Uninstaller](https://geekuninstaller.com/)
 
-2.2.6 AppCleaner
-https://freemacsoft.net/appcleaner/
+2.2.6 [AppCleaner](https://freemacsoft.net/appcleaner/)
 
-2.2.7 Spy Software mSpy Leaks
-https://krebsonsecurity.com/2018/09/for-2nd-time-in-3-years-mobile-spyware-maker-mspy-leaks-millions-of-sensitive-
-records/
+2.2.7 [Spy Software mSpy Leaks](https://krebsonsecurity.com/2018/09/for-2nd-time-in-3-years-mobile-spyware-maker-mspy-leaks-millions-of-sensitive-records/)
 
-2.2.8 Spy Software Teen Apple ID Leak
-https://www.tomsguide.com/us/teensafe-apple-id-passwords,news-27243.html
+2.2.8 [Spy Software Teen Apple ID Leak](https://www.tomsguide.com/us/teensafe-apple-id-passwords,news-27243.html)
 
-2.3.1 Basics of Cookies
-https://www.theguardian.com/technology/2012/apr/23/cookies-and-web-tracking-intro
+2.3.1 [Basics of Cookies](https://www.theguardian.com/technology/2012/apr/23/cookies-and-web-tracking-intro)
 
-2.3.2 Verizon Supercookies
-https://www.eff.org/deeplinks/2014/11/verizon-x-uidh
+2.3.2 [Verizon Supercookies](https://www.eff.org/deeplinks/2014/11/verizon-x-uidh)
 
-2.3.3 Verizon UIDH Tracking
-https://www.verizonwireless.com/support/unique-identifier-header-faqs/
+2.3.3 [Verizon UIDH Tracking](https://www.verizonwireless.com/support/unique-identifier-header-faqs/)
 
-2.3.4 Supercookies & Evercookies
-https://www.macworld.com/article/3152056/privacy/how-to-kill-the-evercookie-and-supercookie-the-cockroaches-of-
-tracking.html
+2.3.4 [Supercookies & Evercookies](https://www.macworld.com/article/3152056/privacy/how-to-kill-the-evercookie-and-supercookie-the-cockroaches-of-tracking.html)
 
-2.3.5 CCleaner
-https://www.ccleaner.com/
+2.3.5 [CCleaner](https://www.ccleaner.com/)
 
-2.3.6 CCleaner Malware Hack
-https://www.pcworld.com/article/3225407/security/ccleaner-downloads-infected-malware.html
+2.3.6 [CCleaner Malware Hack](https://www.pcworld.com/article/3225407/security/ccleaner-downloads-infected-malware.html)
 
-2.3.7 BleachBit
-https://www.bleachbit.org/
+2.3.7 [BleachBit](https://www.bleachbit.org/)
 
-2.3.8 BleachBit Doesn’t Like MacOS
-https://www.bleachbit.org/download/mac
+2.3.8 [BleachBit Doesn’t Like MacOS](https://www.bleachbit.org/download/mac)
 
+2.3.9 [SD Maid](https://sdmaid.darken.eu/)
 
-2.3.9 SD Maid
-https://sdmaid.darken.eu/
+2.3.10 [David Kernell Sarah Palin Hack](https://abcnews.go.com/Politics/sarah-palins-mail-hacker-david-kernell-found-guilty/story)
 
-2.3.10 David Kernell Sarah Palin Hack
-https://abcnews.go.com/Politics/sarah-palins-mail-hacker-david-kernell-found-guilty/story
+2.3.11 [Sarbanes Oxley Act](http://www.sarbanes-oxley-101.com/sarbanes-oxley-compliance.htm)
 
-2.3.11 Sarbanes Oxley Act
-[http://www.sarbanes-oxley-101.com/sarbanes-oxley-compliance.htm](http://www.sarbanes-oxley-101.com/sarbanes-oxley-compliance.htm)
+2.4.1 [Google My Activity Page](https://myactivity.google.com/myactivity)
 
-2.4.1 Google My Activity Page
-https://myactivity.google.com/myactivity
+2.4.2 [Google](https://www.google.com/)
 
-2.4.2 Google
-https://www.google.com/
+2.4.3 [Have I Been Pwned](https://haveibeenpwned.com/)
 
-2.4.3 have I been pwned
-https://haveibeenpwned.com/
+2.4.4 [pipl](https://pipl.com/)
 
-2.4.4 pipl
-https://pipl.com/
+2.4.5 [AnyWho](https://www.anywho.com/reverse-lookup)
 
-2.4.5 AnyWho
-https://www.anywho.com/reverse-lookup
+2.4.6 [How You End Up On People-Searching Websites](https://www.zdnet.com/article/how-to-protect-yourself-from-people-search-sites/)
 
-2.4.6 How You End Up On People-Searching Websites
-https://www.zdnet.com/article/how-to-protect-yourself-from-people-search-sites/
+2.4.7 [TempMail](https://temp-mail.org/)
 
-2.4.7 TempMail
-https://temp-mail.org/
+2.4.8 [FreePhoneNum](https://freephonenum.com/us)
 
-2.4.8 FreePhoneNum
-https://freephonenum.com/us
+2.4.9 [Deseat.me](https://www.deseat.me/)
 
-2.4.9 Deseat.me
-https://www.deseat.me/
+2.4.10 [JustDeleteMe](https://justdeleteme.xyz/)
 
-2.4.10 JustDeleteMe
-https://justdeleteme.xyz/
+2.4.11 [How To Delete Google From Your Life Video](https://youtu.be/WoAhf_qwLDM)
 
-2.4.11 How To Delete Google From Your Life Video
-https://youtu.be/WoAhf_qwLDM
+2.4.12 [TinEye](https://www.tineye.com/)
 
-2.4.12 TinEye
-https://www.tineye.com/
+2.4.13 [How To File DMCA Request](https://sarafhawkins.com/how-to-file-dmca-takedown/)
 
-2.4.13 How To File DMCA Request
-https://sarafhawkins.com/how-to-file-dmca-takedown/
+2.4.14 [On Social Media, Privacy Is No Longer a Personal Choice (Social Media #1)](https://www.sciencenews.org/blog/scicurious/social-media-privacy-no-longer-personal-choice)
 
-2.4.14 On Social Media, Privacy Is No Longer a Personal Choice (Social Media #1)
-https://www.sciencenews.org/blog/scicurious/social-media-privacy-no-longer-personal-choice
+2.4.15 [A Timeline of Facebook’s Privacy Issues—and its Responses (Social Media #2)](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n)
 
-2.4.15 A Timeline of Facebook’s Privacy Issues—and its Responses (Social Media #2)
-https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n
+2.4.16 [Twitter’s New Privacy Policy: Here’s What We Do With Your Data (Social Media #3)](https://www.cnet.com/news/twitter-privacy-policy-heres-what-we-do-with-your-data/)
 
-2.4.16 Twitter’s New Privacy Policy: Here’s What We Do With Your Data (Social Media #3)
-https://www.cnet.com/news/twitter-privacy-policy-heres-what-we-do-with-your-data/
+2.4.17 [Snapchat Settles FTC Charges with “Disappearing Messages” (Social Media #4)](https://www.ftc.gov/news-events/press-releases/2014/05/snapchat-settles-ftc-charges-promises-disappearing-messages-were)
 
+2.4.18 [How Heavy Use of Social Media is Linked to Mental Illness (Media Health #1)](https://www.economist.com/graphic-detail/2018/05/18/how-heavy-use-of-social-media-is-linked-to-mental-illness)
 
-2.4.17 Snapchat Settles FTC Charges with “Disappearing Messages” (Social Media #4)
-https://www.ftc.gov/news-events/press-releases/2014/05/snapchat-settles-ftc-charges-promises-disappearing-
-messages-were
+2.4.19 [All the Ways Social Media is Affecting Your Mental Health (Media Health #2)](https://www.highsnobiety.com/p/social-media-and-mental-health/)
 
-2.4.18 How Heavy Use of Social Media is Linked to Mental Illness (Media Health #1)
-https://www.economist.com/graphic-detail/2018/05/18/how-heavy-use-of-social-media-is-linked-to-mental-illness
+2.4.20 [Online Social Networking and Mental Health Journal (Media Health #3)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183915/)
 
-2.4.19 All the Ways Social Media is Affecting Your Mental Health (Media Health #2)
-https://www.highsnobiety.com/p/social-media-and-mental-health/
+2.4.21 [Is Social Media Bad For You? (Media Health #4)](http://www.bbc.com/future/story/20180104-is-social-media-bad-for-you-the-evidence-and-the-unknowns)
 
-2.4.20 Online Social Networking and Mental Health Journal (Media Health #3)
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183915/
+2.4.22 [Phone Addiction is Real—And So Are its Mental Health Risks (Media Health #5)](https://www.forbes.com/sites/alicegwalton/2017/12/11/phone-addiction-is-real-and-so-are-its-mental-health-risks/)
 
-2.4.21 Is Social Media Bad For You? (Media Health #4)
-[http://www.bbc.com/future/story/20180104-is-social-media-bad-for-you-the-evidence-and-the-unknowns](http://www.bbc.com/future/story/20180104-is-social-media-bad-for-you-the-evidence-and-the-unknowns)
+2.4.23 [Impact of Social Media on Mental Health Study (Media Health #6)](https://pdfs.semanticscholar.org/ad43/c20a709dc32ac1d6ca81cc1946174255a826.pdf)
 
-2.4.22 Phone Addiction is Real—And So Are its Mental Health Risks (Media Health #5)
-https://www.forbes.com/sites/alicegwalton/2017/12/11/phone-addiction-is-real-and-so-are-its-mental-health-risks/
+2.4.24 [Remove Your Personal Info From Data Brokers](https://www.computerworld.com/article/2849263/data-privacy/doxxing-defense-remove-your-personal-info-from-data-brokers.html)
 
-2.4.23 Impact of Social Media on Mental Health Study (Media Health #6)
-https://pdfs.semanticscholar.org/ad43/c20a709dc32ac1d6ca81cc1946174255a826.pdf
+2.4.25 [Albine | Remove Personal Information](https://www.abine.com/optouts.php)
 
-2.4.24 Remove Your Personal Info From Data Brokers
-https://www.computerworld.com/article/2849263/data-privacy/doxxing-defense-remove-your-personal-info-from-data-
-brokers.html
-
-2.4.25 Albine | Remove Personal Information
-https://www.abine.com/optouts.php
-
-2.4.26 LifeLock & Equifax Suck.
-[http://www.latimes.com/business/hiltzik/la-fi-hiltzik-lifelock-equifax-20170918-story.html](http://www.latimes.com/business/hiltzik/la-fi-hiltzik-lifelock-equifax-20170918-story.html)
+2.4.26 [LifeLock & Equifax Suck.](http://www.latimes.com/business/hiltzik/la-fi-hiltzik-lifelock-equifax-20170918-story.html)
 
 ## Section 3
 
