@@ -25,19 +25,15 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.7 [Amy Boyer Case](http://si410wiki.sites.uofmhosting.net/index.php/The_Amy_Boyer_Case)
 
-1.2.8 [Uncovering ECHELON](https://techcrunch.com/2015/08/03/uncovering-echelon-the-top-secret-nsa-program-that-has-been-watching-you-your-
-entire-life/)
+1.2.8 [Uncovering ECHELON](https://techcrunch.com/2015/08/03/uncovering-echelon-the-top-secret-nsa-program-that-has-been-watching-you-your-entire-life/)
 
-1.2.9 [FinCEN](https://www.reuters.com/article/usa-banks-spying/exclusive-u-s-to-let-spy-agencies-scour-americans-finances-
-idINDEE92C0EH)
+1.2.9 [FinCEN](https://www.reuters.com/article/usa-banks-spying/exclusive-u-s-to-let-spy-agencies-scour-americans-finances-idINDEE92C0EH)
 
 1.2.10 [XKeyscore](https://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data)
 
-1.2.11 [NSA Tracking cellphone locations](https://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldwide-snowden-
-documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_story.html)
+1.2.11 [NSA Tracking cellphone locations](https://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldwide-snowden-documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_story.html)
 
 1.2.12 [Optic Nerve: Yahoo Webcams](https://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo)
-
 
 1.2.13 [PRISM what we know to date](https://www.washingtonpost.com/news/wonk/wp/2013/06/12/heres-everything-we-know-about-prism-to-date/)
 
@@ -77,8 +73,7 @@ documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_story.html)
 
 1.3.5 [Do You Need an Antivirus Video](https://www.youtube.com/watch?v=cT_uCi8hmv)
 
-1.3.6 [AVG Privacy Policy Concerns](https://www.pcworld.com/article/2984639/privacy/avg-s-new-privacy-policy-is-uncomfortably-honest-about-tracking-
-users.html)
+1.3.6 [AVG Privacy Policy Concerns](https://www.pcworld.com/article/2984639/privacy/avg-s-new-privacy-policy-is-uncomfortably-honest-about-tracking-users.html)
 
 1.4.1 [Backdoor Pressure](https://www.zdnet.com/article/coalition-of-tech-giants-hit-by-nsa-spying-slams-encryption-backdoors/)
 
@@ -98,8 +93,7 @@ users.html)
 
 1.5.5 [FBI Apple Backdoor](https://www.ifsecglobal.com/apple-versus-fbi-moral-maze-behind-security-backdoor/)
 
-1.5.6 [McAfee and His Journeys](https://www.news.com.au/technology/behind-the-antivirus-entrepreneur-john-mcafee/news-story/
-e66ec1068d168e304a51fd2756e)
+1.5.6 [McAfee and His Journeys](https://www.news.com.au/technology/behind-the-antivirus-entrepreneur-john-mcafee/news-story/e66ec1068d168e304a51fd2756e)
 
 1.5.7 [McAfee Blog](https://www.theguardian.com/world/2012/nov/19/john-mcafee-blog-fugitive-belize)
 
