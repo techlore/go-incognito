@@ -1389,3 +1389,90 @@ https://www.consumer.ftc.gov/articles/0262-stopping-unsolicited-mail-phone-calls
 6.6.8 Triangle-Based Facial Detection
 https://www.semanticscholar.org/paper/Triangle-based-approach-to-the-detection-of-human-Lin-Fan/69528269f54f4997320ce7d34a7036254f7d380f
 
+6.7.1 Techlore Resources
+https://techlore.tech/resources.html
+
+6.7.2 Tor
+https://www.torproject.org/
+
+6.7.3 TailsOS
+https://tails.boum.org/
+
+6.7.4 Whonix
+https://www.whonix.org/
+
+6.7.5 EFF
+https://www.eff.org/
+
+6.7.6 ProtonMail
+https://protonmail.com/
+
+6.7.7 Searx.me
+https://searx.me/
+
+6.7.8 Startpage
+https://www.startpage.com/
+
+6.7.9 DuckDuckGo
+https://duckduckgo.com/
+
+6.7.10 Veracrypt
+https://www.veracrypt.fr/code/VeraCrypt/
+
+6.7.11 BSD
+https://us.bsdforever.com/
+
+6.7.12 QubesOS
+https://www.qubes-os.org/
+
+6.7.13 GrapheneOS
+https://grapheneos.org/
+
+6.7.14 CalyxOS
+https://calyxos.org/
+
+6.7.15 VirtualBox
+https://www.virtualbox.org/
+
+6.7.16 KVM
+https://www.linux-kvm.org/page/Main_Page
+
+6.7.17 Libreboot
+https://libreboot.org/
+
+6.7.18 Coreboot
+https://www.coreboot.org/
+
+6.7.19 OpenWrt
+https://openwrt.org/
+
+6.7.20 pfSense
+https://www.pfsense.org/
+
+6.7.21 Monero
+https://www.getmonero.org/
+
+6.7.22 Purism
+https://puri.sm/
+
+6.7.23 Pine64
+https://www.pine64.org/
+
+6.7.24 system76
+https://system76.com/
+
+6.7.25 RetroFreedom
+https://retrofreedom.com/
+
+6.7.26 Ledger Nano
+https://www.ledger.com/
+
+6.7.27 iPad
+https://www.apple.com/ipad/
+
+6.7.28 Chromebook
+https://www.google.com/chromebook/
+
+6.7.29 Techlore Top 10 Privacy Tools Video
+https://youtu.be/LLpLU317zfc
+
