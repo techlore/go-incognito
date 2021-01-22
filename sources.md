@@ -1149,6 +1149,8 @@ https://techlore.tech/sr.html
 4.7.3 Have I Been Pwned
 https://haveibeenpwned.com/
 
+## Section 5
+
 5.2.1 Techlore Drive Encryption Video
 https://youtu.be/0NfvKci3WF0
 
@@ -1292,6 +1294,8 @@ https://web.archive.org/web/20150709001723/https://www.abc.net.au/news/2015-07-0
 
 5.5.18 Cell Companies Selling Location Data
 https://techcrunch.com/2019/01/09/us-cell-carriers-still-selling-your-location-data/
+
+## Section 6
 
 6.2.1 IRS Scams
 https://www.irs.gov/newsroom/tax-scams-consumer-alerts
