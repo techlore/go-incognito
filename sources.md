@@ -1,6 +1,6 @@
 # Go Incognito Sources
 
-(Updated November 3, 2020)
+(Updated January 21, 2021)
 Thank you for watching Go Incognito. This document includes sources used throughout the
 course for you to verify claims and in-depth read through all these resources.
 
@@ -9,160 +9,109 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 ## Section 1
 
-1.1.1 Techlore YouTube Channel
-https://www.youtube.com/techlore/videos
+1.1.1 [Techlore YouTube Channel](https://www.youtube.com/techlore/videos)
 
-1.2.1 United States Right to Privacy
-https://www.livescience.com/37398-right-to-privacy.html
+1.2.1 [United States Right to Privacy](https://www.livescience.com/37398-right-to-privacy.html)
 
-1.2.2 Universal Deceleration Human Rights
-[http://www.un.org/en/universal-declaration-human-rights/](http://www.un.org/en/universal-declaration-human-rights/)
+1.2.2 [Universal Deceleration Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
 
-1.2.3 Minnesota Sues U.S. Bank For Sharing Data
-https://www.nytimes.com/1999/06/11/business/minnesota-sues-us-bank-on-privacy-data.html
+1.2.3 [Minnesota Sues U.S. Bank For Sharing Data](https://www.nytimes.com/1999/06/11/business/minnesota-sues-us-bank-on-privacy-data.html)
 
-1.2.4 Timeline of Facebook Privacy Issues
-https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n
+1.2.4 [Timeline of Facebook Privacy Issues](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n)
 
-1.2.5 Private Medical Data for Sale
-https://www.theguardian.com/technology/2017/jan/10/medical-data-multibillion-dollar-business-report-warns
+1.2.5 [Private Medical Data for Sale](https://www.theguardian.com/technology/2017/jan/10/medical-data-multibillion-dollar-business-report-warns)
 
-1.2.6 Lifelock
-https://www.lifelock.com/
+1.2.6 [Lifelock](https://www.lifelock.com/)
 
-1.2.7 Amy Boyer Case (RIP Edition)
-[http://si410wiki.sites.uofmhosting.net/index.php/The_Amy_Boyer_Case](http://si410wiki.sites.uofmhosting.net/index.php/The_Amy_Boyer_Case)
+1.2.7 [Amy Boyer Case](http://si410wiki.sites.uofmhosting.net/index.php/The_Amy_Boyer_Case)
 
-1.2.8 Uncovering ECHELON
-https://techcrunch.com/2015/08/03/uncovering-echelon-the-top-secret-nsa-program-that-has-been-watching-you-your-
-entire-life/
+1.2.8 [Uncovering ECHELON](https://techcrunch.com/2015/08/03/uncovering-echelon-the-top-secret-nsa-program-that-has-been-watching-you-your-
+entire-life/)
 
-1.2.9 FinCEN
-https://www.reuters.com/article/usa-banks-spying/exclusive-u-s-to-let-spy-agencies-scour-americans-finances-
-idINDEE92C0EH
+1.2.9 [FinCEN](https://www.reuters.com/article/usa-banks-spying/exclusive-u-s-to-let-spy-agencies-scour-americans-finances-
+idINDEE92C0EH)
 
-1.2.10 XKeyscore
-https://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data
+1.2.10 [XKeyscore](https://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data)
 
-1.2.11 NSA Tracking cellphone locations
-https://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldwide-snowden-
-documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_story.html
+1.2.11 [NSA Tracking cellphone locations](https://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldwide-snowden-
+documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_story.html)
 
-1.2.12 Optic Nerve: Yahoo Webcams
-https://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo
+1.2.12 [Optic Nerve: Yahoo Webcams](https://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo)
 
 
-1.2.13 PRISM what we know to date
-https://www.washingtonpost.com/news/wonk/wp/2013/06/12/heres-everything-we-know-about-prism-to-date/
+1.2.13 [PRISM what we know to date](https://www.washingtonpost.com/news/wonk/wp/2013/06/12/heres-everything-we-know-about-prism-to-date/)
 
-1.2.14 Why Privacy Matters, Glenn Greenwald TED Talk
-https://www.ted.com/talks/glenn_greenwald_why_privacy_matters
+1.2.14 [Why Privacy Matters, Glenn Greenwald TED Talk](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
 
-1.2.15 Evidence Mass Surveillance Works?
-https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much
+1.2.15 [Evidence Mass Surveillance Works?](https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much)
 
-1.2.16 Evidence Mass Surveillance Works?
-https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much
+1.2.16 [Evidence Mass Surveillance Works?](https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much)
 
-1.2.17 Evidence Mass Surveillance Works?
-https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much
+1.2.17 [Evidence Mass Surveillance Works?](https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much)
 
-1.2.18 NSA Program Stopped No Terror Attacks
-https://www.nbcnews.com/news/world/nsa-program-stopped-no-terror-attacks-says-white-house-panel-flna2D
+1.2.18 [NSA Program Stopped No Terror Attacks](https://www.nbcnews.com/news/world/nsa-program-stopped-no-terror-attacks-says-white-house-panel-flna2D)
 
-1.2.19 Evidence Mass Surveillance Works?
-https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much
+1.2.19 [Evidence Mass Surveillance Works?](https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much)
 
-1.2.20 1984, George Orwell (Affiliate Link)
-https://amzn.to/2zKAI1X
+1.2.20 [1984, George Orwell (Affiliate Link)](https://amzn.to/2zKAI1X)
 
-1.2.21 China Aims for Surveillance
-https://www.rfa.org/english/news/china/surveillance-03302018111415.html
+1.2.21 [China Aims for Surveillance](https://www.rfa.org/english/news/china/surveillance-03302018111415.html)
 
-1.2.22 United States, State Whistleblower Laws
-[http://www.ncsl.org/research/labor-and-employment/state-whistleblower-laws.aspx](http://www.ncsl.org/research/labor-and-employment/state-whistleblower-laws.aspx)
+1.2.22 [United States, State Whistleblower Laws](http://www.ncsl.org/research/labor-and-employment/state-whistleblower-laws.aspx)
 
-1.2.23 Reality Winner Pleads Guilty
-https://www.nytimes.com/2018/06/26/us/reality-winner-nsa-leak-guilty-plea.html
+1.2.23 [Reality Winner Pleads Guilty](https://www.nytimes.com/2018/06/26/us/reality-winner-nsa-leak-guilty-plea.html)
 
-1.2.24 Former FBI Agent Admits Sharing Documents
-https://www.nytimes.com/2018/04/17/us/politics/fbi-leaker-terry-albury.html
+1.2.24 [Former FBI Agent Admits Sharing Documents](https://www.nytimes.com/2018/04/17/us/politics/fbi-leaker-terry-albury.html)
 
-1.2.25 Edward Snowden Biography
-https://www.biography.com/people/edward-snowden-
+1.2.25 [Edward Snowden Biography](https://www.biography.com/people/edward-snowden-)
 
-1.2.26 State of Surveillance with Edward Snowden
-https://www.youtube.com/watch?v=ucRWyGKBVzo
+1.2.26 [State of Surveillance with Edward Snowden](https://www.youtube.com/watch?v=ucRWyGKBVzo)
 
-1.3.1 Video Surveillance Storage Management
-[http://blog.dnfcorp.com/](http://blog.dnfcorp.com/)
+1.3.1 [Video Surveillance Storage Management](http://blog.dnfcorp.com/)
 
-1.3.2 TSA New Body Scan Policy Privacy Concerns
-https://www.forbes.com/sites/lisabrownlee/2016/01/14/growing-list-joins-tsa-body-scan-fight/
+1.3.2 [TSA New Body Scan Policy Privacy Concerns](https://www.forbes.com/sites/lisabrownlee/2016/01/14/growing-list-joins-tsa-body-scan-fight/)
 
-1.3.3 George V. TSA Privacy Case
-https://www.aclu.org/cases/george-v-tsa
+1.3.3 [George V. TSA Privacy Case](https://www.aclu.org/cases/george-v-tsa)
 
+1.3.4 [How Many Antiviruses Forum](https://www.cnet.com/forums/discussions/it-is-safe-to-run-multiple-anti-virus-508905/)
 
-1.3.4 How Many Antiviruses Forum
-https://www.cnet.com/forums/discussions/it-is-safe-to-run-multiple-anti-virus-508905/
+1.3.5 [Do You Need an Antivirus Video](https://www.youtube.com/watch?v=cT_uCi8hmv)
 
-1.3.5 Do You Need an Antivirus Video
-https://www.youtube.com/watch?v=cT_uCi8hmv
+1.3.6 [AVG Privacy Policy Concerns](https://www.pcworld.com/article/2984639/privacy/avg-s-new-privacy-policy-is-uncomfortably-honest-about-tracking-
+users.html)
 
-1.3.6 AVG Privacy Policy Concerns
-https://www.pcworld.com/article/2984639/privacy/avg-s-new-privacy-policy-is-uncomfortably-honest-about-tracking-
-users.html
+1.4.1 [Backdoor Pressure](https://www.zdnet.com/article/coalition-of-tech-giants-hit-by-nsa-spying-slams-encryption-backdoors/)
 
-1.4.1 Backdoor Pressure
-https://www.zdnet.com/article/coalition-of-tech-giants-hit-by-nsa-spying-slams-encryption-backdoors/
+1.4.2 [FOSS Study](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1938&context=eispapers)
 
-1.4.2 FOSS Study
-https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1938&context=eispapers
+1.4.3 [More on FOSS Video](https://www.youtube.com/watch?v=BpmAFwZy0Gg)
 
-1.4.3 More on FOSS Video
-https://www.youtube.com/watch?v=BpmAFwZy0Gg
+1.4.4 [AlternativeTo.net](https://alternativeto.net/)
 
-1.4.4 AlternativeTo.net
-https://alternativeto.net/
+1.5.1 [About FISA](https://www.cnn.com/2014/01/17/politics/surveillance-court/index.html)
 
-1.51 About FISA
-https://www.cnn.com/2014/01/17/politics/surveillance-court/index.html
+1.5.2 [About FISA](https://www.cnn.com/2014/01/17/politics/surveillance-court/index.html)
 
-1.5.2 About FISA
-https://www.cnn.com/2014/01/17/politics/surveillance-court/index.html
+1.5.3 [PRISM Renewed & Info](https://www.cnet.com/news/nsa-surveillance-programs-prism-upstream-live-on-snowden/)
 
-1.5.3 PRISM Renewed & Info
-https://www.cnet.com/news/nsa-surveillance-programs-prism-upstream-live-on-snowden/
+1.5.4 [Lavabit & Snowden](https://www.theguardian.com/commentisfree/2014/may/20/why-did-lavabit-shut-down-snowden-email)
 
-1.5.4 Lavabit & Snowden
-https://www.theguardian.com/commentisfree/2014/may/20/why-did-lavabit-shut-down-snowden-email
+1.5.5 [FBI Apple Backdoor](https://www.ifsecglobal.com/apple-versus-fbi-moral-maze-behind-security-backdoor/)
 
-1.5.5 FBI Apple Backdoor
-https://www.ifsecglobal.com/apple-versus-fbi-moral-maze-behind-security-backdoor/
+1.5.6 [McAfee and His Journeys](https://www.news.com.au/technology/behind-the-antivirus-entrepreneur-john-mcafee/news-story/
+e66ec1068d168e304a51fd2756e)
 
-1.5.6 McAfee and His Journeys
-https://www.news.com.au/technology/behind-the-antivirus-entrepreneur-john-mcafee/news-story/
-e66ec1068d168e304a51fd2756e
+1.5.7 [McAfee Blog](https://www.theguardian.com/world/2012/nov/19/john-mcafee-blog-fugitive-belize)
 
-1.5.7 McAfee Blog
-https://www.theguardian.com/world/2012/nov/19/john-mcafee-blog-fugitive-belize
+1.5.8 [get-metadata.com](https://www.get-metadata.com/)
 
-1.5.8 get-metadata.com
-https://www.get-metadata.com/
+1.5.9 [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)
 
-1.5.9 Scrambled Exif
-https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/
+1.5.10 [PhotoExif](http://www.ijailbreak.com/cydia/photoexif-cydia-tweak-ios/)
 
-1.5.10 PhotoExif
-[http://www.ijailbreak.com/cydia/photoexif-cydia-tweak-ios/](http://www.ijailbreak.com/cydia/photoexif-cydia-tweak-ios/)
+1.5.11 [ViewExif](https://itunes.apple.com/us/app/viewexif/)
 
-
-1.5.11 ViewExif
-https://itunes.apple.com/us/app/viewexif/
-
-1.5.12 TailsOS mat
-https://0xacab.org/jvoisin/mat
+1.5.12 [TailsOS mat](https://0xacab.org/jvoisin/mat)
 
 ## Section 2
 
