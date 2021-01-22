@@ -757,332 +757,222 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 ## Section 5
 
-5.2.1 Techlore Drive Encryption Video
-https://youtu.be/0NfvKci3WF0
+5.2.1 [Techlore Drive Encryption Video](https://youtu.be/0NfvKci3WF0)
 
-5.2.2 BitLocker
-https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview
+5.2.2 [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
 
-5.2.3 FileVault
-https://support.apple.com/en-us/HT204837
+5.2.3 [FileVault](https://support.apple.com/en-us/HT204837)
 
-5.2.4 iOS Encryption
-https://support.apple.com/guide/security/encryption-and-data-protection-overview-sece3bee0835/web
+5.2.4 [iOS Encryption](https://support.apple.com/guide/security/encryption-and-data-protection-overview-sece3bee0835/web)
 
-5.2.5 Android Full-Disk Encryption
-https://source.android.com/security/encryption/full-disk
+5.2.5 [Android Full-Disk Encryption](https://source.android.com/security/encryption/full-disk)
 
-5.2.6 Veracrypt
-https://www.veracrypt.fr/code/VeraCrypt/
+5.2.6 [Veracrypt](https://www.veracrypt.fr/code/VeraCrypt/)
 
-5.2.7 Techlore Veracrypt Tutorial
-https://youtu.be/C25VWAGl7Tw
+5.2.7 [Techlore Veracrypt Tutorial](https://youtu.be/C25VWAGl7Tw)
 
-5.2.8 Printers/Copiers Storing Data
-https://blog.techsoup.org/posts/your-copiers-are-storing-confidential-information-what-you-can-do-about-it
+5.2.8 [Printers/Copiers Storing Data](https://blog.techsoup.org/posts/your-copiers-are-storing-confidential-information-what-you-can-do-about-it)
 
-5.2.9 Libreboot
-https://libreboot.org/
+5.2.9 [Libreboot](https://libreboot.org/)
 
-5.2.10 Coreboot
-https://www.coreboot.org/
+5.2.10 [Coreboot](https://www.coreboot.org/)
 
-5.2.11 Managing Health Privacy
-https://www.wired.com/story/strava-privacy-settings-how-to/
+5.2.11 [Managing Health Privacy](https://www.wired.com/story/strava-privacy-settings-how-to/)
 
-5.2.12 Techlore Health/Fitness Tracking Options
-https://youtu.be/LgYReUhHy9k
+5.2.12 [Techlore Health/Fitness Tracking Options](https://youtu.be/LgYReUhHy9k)
 
-5.2.13 Blake Robbins School Webcam Spying
-https://www.cbsnews.com/news/610k-settlement-in-school-webcam-spy-case/
+5.2.13 [Blake Robbins School Webcam Spying](https://www.cbsnews.com/news/610k-settlement-in-school-webcam-spy-case/)
 
-5.3.1 MAC Address Garbage Cans
-https://gizmodo.com/brave-new-garbage-londons-trash-cans-track-you-using-1071610114
+5.3.1 [MAC Address Garbage Cans](https://gizmodo.com/brave-new-garbage-londons-trash-cans-track-you-using-1071610114)
 
-5.3.2 Change MAC in Windows/MacOS/Linux
-https://www.howtogeek.com/192173/how-and-why-to-change-your-mac-address-on-windows-linux-and-mac/
+5.3.2 [Change MAC in Windows/MacOS/Linux](https://www.howtogeek.com/192173/how-and-why-to-change-your-mac-address-on-windows-linux-and-mac/)
 
-5.3.3 Technitium
-https://technitium.com/tmac/
+5.3.3 [Technitium](https://technitium.com/tmac/)
 
-5.3.4 spoof MAC Address Tool
-https://github.com/feross/spoof
+5.3.4 [spoof MAC Address Tool](https://github.com/feross/spoof)
 
-5.3.5 Change MAC in Android
-https://www.droidviews.com/change-mac-address-android-devices/
+5.3.5 [Change MAC in Android](https://www.droidviews.com/change-mac-address-android-devices/)
 
-5.3.6 Android MAC Randomization
-https://www.techrepublic.com/article/how-to-enable-a-randomized-mac-address-in-android-10/
+5.3.6 [Android MAC Randomization](https://www.techrepublic.com/article/how-to-enable-a-randomized-mac-address-in-android-10/)
 
-5.3.7 iOS 14 MAC Address Randomization
-https://support.apple.com/en-us/HT211227
+5.3.7 [iOS 14 MAC Address Randomization](https://support.apple.com/en-us/HT211227)
 
-5.4.1 WEP is Bad
-https://www.makeuseof.com/tag/what-is-wep-wi-fi-encryption-and-why-is-it-really-insecure-makeuseof-explains/
+5.4.1 [WEP is Bad](https://www.makeuseof.com/tag/what-is-wep-wi-fi-encryption-and-why-is-it-really-insecure-makeuseof-explains/)
 
-5.4.2 How to Access Home Router Admin
-https://www.pcmag.com/how-to/how-to-access-your-wi-fi-routers-settings
+5.4.2 [How to Access Home Router Admin](https://www.pcmag.com/how-to/how-to-access-your-wi-fi-routers-settings)
 
-5.4.3 Go Incognito 3.4 - Passwords
-https://youtu.be/jZr4u5nEZP4
+5.4.3 [Go Incognito 3.4 - Passwords](https://youtu.be/jZr4u5nEZP4)
 
-5.4.4 Is Hiding Your SSID More Secure?
-https://lifehacker.com/is-hiding-your-wireless-ssid-really-more-secure-5636856
+5.4.4 [Is Hiding Your SSID More Secure?](https://lifehacker.com/is-hiding-your-wireless-ssid-really-more-secure-5636856)
 
-5.4.5 WPS Issue 1
-https://null-byte.wonderhowto.com/how-to/hack-wpa-wifi-passwords-by-cracking-wps-pin-0132542/
+5.4.5 [WPS Issue 1](https://null-byte.wonderhowto.com/how-to/hack-wpa-wifi-passwords-by-cracking-wps-pin-0132542/)
 
-5.4.6 WPS Issue 2
-https://kalilinuxtutorials.com/reaver-pixewps/
+5.4.6 [WPS Issue 2](https://kalilinuxtutorials.com/reaver-pixewps/)
 
-5.4.7 Pixiewps
-https://github.com/wiire-a/pixiewps
+5.4.7 [Pixiewps](https://github.com/wiire-a/pixiewps)
 
-5.4.8 Bypassing MAC Address Filters
-https://www.hackingtutorials.org/wifi-hacking-tutorials/bypass-mac-filtering-on-wireless-networks/
+5.4.8 [Bypassing MAC Address Filters](https://www.hackingtutorials.org/wifi-hacking-tutorials/bypass-mac-filtering-on-wireless-networks/)
 
-5.4.9 OpenWrt
-https://openwrt.org/
+5.4.9 [OpenWrt](https://openwrt.org/)
 
-5.4.10 pfSense
-https://www.pfsense.org/
+5.4.10 [pfSense](https://www.pfsense.org/)
 
-5.5.1 Bluetooth Attacks & Security Risks
-https://www.makeuseof.com/tag/3-ways-bluetooth-device-security-risk/
+5.5.1 [Bluetooth Attacks & Security Risks](https://www.makeuseof.com/tag/3-ways-bluetooth-device-security-risk/)
 
-5.5.2 BlueBorne
-https://www.armis.com/blueborne/
+5.5.2 [BlueBorne](https://www.armis.com/blueborne/)
 
-5.5.3 Bluetooth Wikipedia Page
-https://en.m.wikipedia.org/wiki/Bluetooth
+5.5.3 [Bluetooth Wikipedia Page](https://en.m.wikipedia.org/wiki/Bluetooth)
 
-5.5.4 Retail Bluetooth Shopping Beacons
-https://www.nytimes.com/interactive/2019/06/14/opinion/bluetooth-wireless-tracking-privacy.html
+5.5.4 [Retail Bluetooth Shopping Beacons](https://www.nytimes.com/interactive/2019/06/14/opinion/bluetooth-wireless-tracking-privacy.html)
 
-5.5.5 Location Data Privacy Usage
-https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
+5.5.5 [Location Data Privacy Usage](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
 
-5.5.6 Apple Location Data Issue
-https://www.wired.com/2011/04/iphone-location/
+5.5.6 [Apple Location Data Issue](https://www.wired.com/2011/04/iphone-location/)
 
-5.5.7 US Government Using Cell Location Data
-https://www.aclu.org/news/immigrants-rights/the-u-s-government-is-secretly-using-cell-phone-location-data-to-track-us-were-suing/
+5.5.7 [US Government Using Cell Location Data](https://www.aclu.org/news/immigrants-rights/the-u-s-government-is-secretly-using-cell-phone-location-data-to-track-us-were-suing/)
 
-5.5.8 GPS Data to Track Americans
-https://www.aclu.org/blog/national-security/privacy-and-surveillance/justice-department-refuses-release-gps-tracking
+5.5.8 [GPS Data to Track Americans](https://www.aclu.org/blog/national-security/privacy-and-surveillance/justice-department-refuses-release-gps-tracking)
 
-5.5.9 Android Spoof Location
-https://9to5google.com/2018/04/08/spoof-location-android-basics/
+5.5.9 [Android Spoof Location](https://9to5google.com/2018/04/08/spoof-location-android-basics/)
 
-5.5.10 iOS Spoof Location
-https://www.idownloadblog.com/2020/06/15/location-faker/
+5.5.10 [iOS Spoof Location](https://www.idownloadblog.com/2020/06/15/location-faker/)
 
-5.5.11 Usenix Enigma 2019 Serge Egelman
-https://youtu.be/zdFUGhrMifM
+5.5.11 [Usenix Enigma 2019 Serge Egelman](https://youtu.be/zdFUGhrMifM)
 
-5.5.12 NFC Concerns
-https://cdt.org/insights/nfc-phones-raise-opportunities-privacy-and-security-issues/
+5.5.12 [NFC Concerns](https://cdt.org/insights/nfc-phones-raise-opportunities-privacy-and-security-issues/)
 
-5.5.13 Bluetooth and NFC Beacons to Personalize Shopping
-https://martechtoday.com/using-bluetooth-nft-personalize-store-shopping-199314
+5.5.13 [Bluetooth and NFC Beacons to Personalize Shopping](https://martechtoday.com/using-bluetooth-nft-personalize-store-shopping-199314)
 
-5.5.14 Retail Tracking Privacy Analysis
-https://www.ftc.gov/news-events/blogs/techftc/2015/04/privacy-trade-offs-retail-tracking
+5.5.14 [Retail Tracking Privacy Analysis](https://www.ftc.gov/news-events/blogs/techftc/2015/04/privacy-trade-offs-retail-tracking)
 
-5.5.15 Google & Apple Map our WiFi Locations
-https://www.itbusiness.ca/news/google-apple-tap-crowdsourcing-to-map-out-wifi-locations/15658
+5.5.15 [Google & Apple Map our WiFi Locations](https://www.itbusiness.ca/news/google-apple-tap-crowdsourcing-to-map-out-wifi-locations/15658)
 
-5.5.16 CSEC Tracking Canadian Travelers
-https://www.cbc.ca/news/politics/csec-used-airport-wi-fi-to-track-canadian-travellers-edward-snowden-documents-1.2517881
+5.5.16 [CSEC Tracking Canadian Travelers](https://www.cbc.ca/news/politics/csec-used-airport-wi-fi-to-track-canadian-travellers-edward-snowden-documents-1.2517881)
 
-5.5.17 Pat Barbaro Australian Mafia Investigation
-https://web.archive.org/web/20150709001723/https://www.abc.net.au/news/2015-07-06/nick-mckenzie-speaks-out-about-his-brush-with-the-mafia/6596098
+5.5.17 [Pat Barbaro Australian Mafia Investigation](https://web.archive.org/web/20150709001723/https://www.abc.net.au/news/2015-07-06/nick-mckenzie-speaks-out-about-his-brush-with-the-mafia/6596098)
 
-5.5.18 Cell Companies Selling Location Data
-https://techcrunch.com/2019/01/09/us-cell-carriers-still-selling-your-location-data/
+5.5.18 [Cell Companies Selling Location Data](https://techcrunch.com/2019/01/09/us-cell-carriers-still-selling-your-location-data/)
 
 ## Section 6
 
-6.2.1 IRS Scams
-https://www.irs.gov/newsroom/tax-scams-consumer-alerts
+6.2.1 [IRS Scams](https://www.irs.gov/newsroom/tax-scams-consumer-alerts)
 
-6.2.2 FTC Settlement with Toysmart.com
-https://www.ftc.gov/news-events/press-releases/2000/07/ftc-announces-settlement-bankrupt-website-toysmartcom-regarding
+6.2.2 [FTC Settlement with Toysmart.com](https://www.ftc.gov/news-events/press-releases/2000/07/ftc-announces-settlement-bankrupt-website-toysmartcom-regarding)
 
-6.2.3 Companies Will Sell or Transfer Your Data
-https://www.nytimes.com/2015/06/29/technology/when-a-company-goes-up-for-sale-in-many-cases-so-does-your-personal-data.html
+6.2.3 [Companies Will Sell or Transfer Your Data](https://www.nytimes.com/2015/06/29/technology/when-a-company-goes-up-for-sale-in-many-cases-so-does-your-personal-data.html)
 
-6.2.4 RadioShack Bankruptcy and User Data
-https://www.infolawgroup.com/insights/2015/06/articles/privacy-law/radioshack-bankruptcy-case-highlights-value-of-consumer-data
+6.2.4 [RadioShack Bankruptcy and User Data](https://www.infolawgroup.com/insights/2015/06/articles/privacy-law/radioshack-bankruptcy-case-highlights-value-of-consumer-data)
 
-6.3.1 Trading Data For a Cookie
-https://www.propublica.org/article/how-much-of-your-data-would-you-trade-for-a-free-cookie
+6.3.1 [Trading Data For a Cookie](https://www.propublica.org/article/how-much-of-your-data-would-you-trade-for-a-free-cookie)
 
-6.3.2 DNA Sites Are the Wild West of Privacy
-https://www.marketwatch.com/story/genealogy-site-traps-alleged-serial-killer-how-your-dna-could-be-used-against-you-2018-04-28
+6.3.2 [DNA Sites Are the Wild West of Privacy](https://www.marketwatch.com/story/genealogy-site-traps-alleged-serial-killer-how-your-dna-could-be-used-against-you-2018-04-28)
 
-6.3.3 MyHeritage Breach
-https://www.theverge.com/2018/6/5/17430146/dna-myheritage-ancestry-accounts-compromised-hack-breach
+6.3.3 [MyHeritage Breach](https://www.theverge.com/2018/6/5/17430146/dna-myheritage-ancestry-accounts-compromised-hack-breach)
 
-6.3.4 23andMe Pharma Deals
-https://www.wired.com/story/23andme-glaxosmithkline-pharma-deal/
+6.3.4 [23andMe Pharma Deals](https://www.wired.com/story/23andme-glaxosmithkline-pharma-deal/)
 
-6.3.5 FTC Investigating DNA Firms Over Privacy
-https://www.fastcompany.com/40580364/the-ftc-is-investigating-dna-firms-like-23andme-and-ancestry-over-privacy
+6.3.5 [FTC Investigating DNA Firms Over Privacy](https://www.fastcompany.com/40580364/the-ftc-is-investigating-dna-firms-like-23andme-and-ancestry-over-privacy)
 
-6.3.6 Facial Recognition From DNA
-https://www.nature.com/articles/s41467-019-10617-y.pdf
+6.3.6 [Facial Recognition From DNA](https://www.nature.com/articles/s41467-019-10617-y.pdf)
 
-6.3.7 Blogger Beaten For Boasting Crypto
-https://cointelegraph.com/news/russia-blogger-who-boasted-about-crypto-wealth-beaten-and-robbed-for-425k
+6.3.7 [Blogger Beaten For Boasting Crypto](https://cointelegraph.com/news/russia-blogger-who-boasted-about-crypto-wealth-beaten-and-robbed-for-425k)
 
-6.3.8 Legal Trusts Explained
-https://youtu.be/UG5n_3UsrxA
+6.3.8 [Legal Trusts Explained](https://youtu.be/UG5n_3UsrxA)
 
-6.4.1 Tempmail
-https://temp-mail.org/
+6.4.1 [Tempmail](https://temp-mail.org/)
 
-6.4.2 Guerrilla Mail
-https://www.guerrillamail.com/
+6.4.2 [Guerrilla Mail](https://www.guerrillamail.com/)
 
-6.4.3 SimpleLogin
-https://simplelogin.io/
+6.4.3 [SimpleLogin](https://simplelogin.io/)
 
-6.4.4 Burner
-https://www.burnerapp.com/
+6.4.4 [Burner](https://www.burnerapp.com/)
 
-6.4.5 MySudo
-https://mysudo.com/
+6.4.5 [MySudo](https://mysudo.com/)
 
-6.4.6 Fake Name Generator
-https://www.fakenamegenerator.com/
+6.4.6 [Fake Name Generator](https://www.fakenamegenerator.com/)
 
-6.5.1 All Business Breaches
-https://mashable.com/2018/04/04/every-store-retailer-hacked/
+6.5.1 [All Business Breaches](https://mashable.com/2018/04/04/every-store-retailer-hacked/)
 
-6.5.2 Vanilla Visa
-https://www.vanillagift.com/
+6.5.2 [Vanilla Visa](https://www.vanillagift.com/)
 
-6.5.3 Viabuy
-https://www.viabuy.com/the-prepaid-mastercard-in-gold-or-black.html
+6.5.3 [Viabuy](https://www.viabuy.com/the-prepaid-mastercard-in-gold-or-black.html)
 
-6.5.4 OptOutPrescreen
-https://www.optoutprescreen.com/
+6.5.4 [OptOutPrescreen](https://www.optoutprescreen.com/)
 
-6.5.5 Virtual Card Numbers
-https://www.creditcardinsider.com/blog/virtual-credit-cards/
+6.5.5 [Virtual Card Numbers](https://www.creditcardinsider.com/blog/virtual-credit-cards/)
 
-6.5.6 Privacy.com
-https://privacy.com/
+6.5.6 [Privacy.com](https://privacy.com/)
 
-6.6.1 Offsite Backups
-https://www.howtogeek.com/219197/youre-not-backing-up-properly-unless-you-have-offsite-backups/
+6.6.1 [Offsite Backups](https://www.howtogeek.com/219197/youre-not-backing-up-properly-unless-you-have-offsite-backups/)
 
-6.6.2 CCTV FOSS Options
-https://www.reddit.com/r/ZoneMinder/comments/9s3y2q/alternatives_to_zoneminder/
+6.6.2 [CCTV FOSS Options](https://www.reddit.com/r/ZoneMinder/comments/9s3y2q/alternatives_to_zoneminder/)
 
-6.6.3 Alexa Is Listening
-https://www.theverge.com/2018/5/24/17391898/amazon-alexa-private-conversation-recording-explanation
+6.6.3 [Alexa Is Listening](https://www.theverge.com/2018/5/24/17391898/amazon-alexa-private-conversation-recording-explanation)
 
-6.6.4 Burglars Casing Homes
-https://www.getsafe.com/are-burglars-casing-your-home-four-scams/
+6.6.4 [Burglars Casing Homes](https://www.getsafe.com/are-burglars-casing-your-home-four-scams/)
 
-6.6.5 Facial Recogniton Eye Glasses
-https://www.fastcompany.com/3050252/yes-anti-facial-recognition-glasses-are-coming
+6.6.5 [Facial Recogniton Eye Glasses](https://www.fastcompany.com/3050252/yes-anti-facial-recognition-glasses-are-coming)
 
-6.6.6 Masks Fooling Facial Recognition
-https://www.vox.com/recode/2020/7/28/21340674/face-masks-facial-recognition-surveillance-nist
+6.6.6 [Masks Fooling Facial Recognition](https://www.vox.com/recode/2020/7/28/21340674/face-masks-facial-recognition-surveillance-nist)
 
-6.6.7 FTC Opt Out
-https://www.consumer.ftc.gov/articles/0262-stopping-unsolicited-mail-phone-calls-and-email
+6.6.7 [FTC Opt Out](https://www.consumer.ftc.gov/articles/0262-stopping-unsolicited-mail-phone-calls-and-email)
 
-6.6.8 Triangle-Based Facial Detection
-https://www.semanticscholar.org/paper/Triangle-based-approach-to-the-detection-of-human-Lin-Fan/69528269f54f4997320ce7d34a7036254f7d380f
+6.6.8 [Triangle-Based Facial Detection](https://www.semanticscholar.org/paper/Triangle-based-approach-to-the-detection-of-human-Lin-Fan/69528269f54f4997320ce7d34a7036254f7d380f)
 
-6.7.1 Techlore Resources
-https://techlore.tech/resources.html
+6.7.1 [Techlore Resources](https://techlore.tech/resources.html)
 
-6.7.2 Tor
-https://www.torproject.org/
+6.7.2 [Tor](https://www.torproject.org/)
 
-6.7.3 TailsOS
-https://tails.boum.org/
+6.7.3 [TailsOS](https://tails.boum.org/)
 
-6.7.4 Whonix
-https://www.whonix.org/
+6.7.4 [Whonix](https://www.whonix.org/)
 
-6.7.5 EFF
-https://www.eff.org/
+6.7.5 [EFF](https://www.eff.org/)
 
-6.7.6 ProtonMail
-https://protonmail.com/
+6.7.6 [ProtonMail](https://protonmail.com/)
 
-6.7.7 Searx.me
-https://searx.me/
+6.7.7 [Searx.me](https://searx.me/)
 
-6.7.8 Startpage
-https://www.startpage.com/
+6.7.8 [Startpage](https://www.startpage.com/)
 
-6.7.9 DuckDuckGo
-https://duckduckgo.com/
+6.7.9 [DuckDuckGo](https://duckduckgo.com/)
 
-6.7.10 Veracrypt
-https://www.veracrypt.fr/code/VeraCrypt/
+6.7.10 [Veracrypt](https://www.veracrypt.fr/code/VeraCrypt/)
 
-6.7.11 BSD
-https://us.bsdforever.com/
+6.7.11 [BSD](https://us.bsdforever.com/)
 
-6.7.12 QubesOS
-https://www.qubes-os.org/
+6.7.12 [QubesOS](https://www.qubes-os.org/)
 
-6.7.13 GrapheneOS
-https://grapheneos.org/
+6.7.13 [GrapheneOS](https://grapheneos.org/)
 
-6.7.14 CalyxOS
-https://calyxos.org/
+6.7.14 [CalyxOS](https://calyxos.org/)
 
-6.7.15 VirtualBox
-https://www.virtualbox.org/
+6.7.15 [VirtualBox](https://www.virtualbox.org/)
 
-6.7.16 KVM
-https://www.linux-kvm.org/page/Main_Page
+6.7.16 [KVM](https://www.linux-kvm.org/page/Main_Page)
 
-6.7.17 Libreboot
-https://libreboot.org/
+6.7.17 [Libreboot](https://libreboot.org/)
 
-6.7.18 Coreboot
-https://www.coreboot.org/
+6.7.18 [Coreboot](https://www.coreboot.org/)
 
-6.7.19 OpenWrt
-https://openwrt.org/
+6.7.19 [OpenWrt](https://openwrt.org/)
 
-6.7.20 pfSense
-https://www.pfsense.org/
+6.7.20 [pfSense](https://www.pfsense.org/)
 
-6.7.21 Monero
-https://www.getmonero.org/
+6.7.21 [Monero](https://www.getmonero.org/)
 
-6.7.22 Purism
-https://puri.sm/
+6.7.22 [Purism](https://puri.sm/)
 
-6.7.23 Pine64
-https://www.pine64.org/
+6.7.23 [Pine64](https://www.pine64.org/)
 
-6.7.24 system76
-https://system76.com/
+6.7.24 [system76](https://system76.com/)
 
-6.7.25 RetroFreedom
-https://retrofreedom.com/
+6.7.25 [RetroFreedom](https://retrofreedom.com/)
 
-6.7.26 Ledger Nano
-https://www.ledger.com/
+6.7.26 [Ledger Nano](https://www.ledger.com/)
 
-6.7.27 iPad
-https://www.apple.com/ipad/
+6.7.27 [iPad](https://www.apple.com/ipad/)
 
-6.7.28 Chromebook
-https://www.google.com/chromebook/
+6.7.28 [Chromebook](https://www.google.com/chromebook/)
 
-6.7.29 Techlore Top 10 Privacy Tools Video
-https://youtu.be/LLpLU317zfc
-
+6.7.29 [Techlore Top 10 Privacy Tools Video](https://youtu.be/LLpLU317zfc)
