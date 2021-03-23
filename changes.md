@@ -100,3 +100,20 @@ warranty and many other major concerns. The Techlore channel has covered this to
 **Section 3 Finale | Lesson 16:**
 
 - There is a missing audio effect in the introduction. This will be fixed in the premium version of Go Incognito
+
+## Section 4
+
+**Cryptocurrencies | Lesson 6**
+
+- This lesson recommends LocalBitcoin, which several users have expressed now require identification. It's recommended to strictly use Bisq.
+
+## Section 5
+
+**MAC | Lesson 3**
+
+- Windows 10 has now introduced MAC Address randomization which may negate the need for some of the referenced tools in this lesson.
+
+## Section 6
+
+**Shopping Safely | Lesson 5**
+- A user has mentioned that both MasterCard & VISA offer privacy opt-outs on their websites. This is another step users can take to shop a bit safer.
