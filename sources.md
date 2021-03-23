@@ -59,7 +59,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.24 [Former FBI Agent Admits Sharing Documents](https://www.nytimes.com/2018/04/17/us/politics/fbi-leaker-terry-albury.html)
 
-1.2.25 [Edward Snowden Biography](https://www.biography.com/people/edward-snowden-)
+1.2.25 [Edward Snowden Biography](https://www.biography.com/people/edward-snowden)
 
 1.2.26 [State of Surveillance with Edward Snowden](https://www.youtube.com/watch?v=ucRWyGKBVzo)
 
