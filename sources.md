@@ -71,7 +71,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.3.4 [How Many Antiviruses Forum](https://www.cnet.com/forums/discussions/it-is-safe-to-run-multiple-anti-virus-508905/)
 
-1.3.5 [Do You Need an Antivirus Video](https://www.youtube.com/watch?v=cT_uCi8hmv)
+1.3.5 [Do You Need an Antivirus Video](https://www.youtube.com/watch?v=cT_uCi8hmv0)
 
 1.3.6 [AVG Privacy Policy Concerns](https://www.pcworld.com/article/2984639/privacy/avg-s-new-privacy-policy-is-uncomfortably-honest-about-tracking-users.html)
 
