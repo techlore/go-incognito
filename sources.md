@@ -13,7 +13,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.1 [United States Right to Privacy](https://www.livescience.com/37398-right-to-privacy.html)
 
-1.2.2 [Universal Deceleration Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
+1.2.2 [Universal Declaration Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
 
 1.2.3 [Minnesota Sues U.S. Bank For Sharing Data](https://www.nytimes.com/1999/06/11/business/minnesota-sues-us-bank-on-privacy-data.html)
 
