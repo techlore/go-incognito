@@ -1,6 +1,6 @@
 # Go Incognito Changelog
 
-**(Updated March 22, 2021)**
+**(Updated July 29, 2021)**
 
 Thank you for watching Go Incognito! This document includes any necessary changes or updates to the course to ensure all information stays relevant.
 
@@ -91,6 +91,16 @@ warranty and many other major concerns. The Techlore channel has covered this to
 
 - There was a study showing Brave phones home the least out of the box: https://www.scss.tcd.ie/Doug.Leith/pubs/browser_privacy.pdf
 - Firefox incorporates some heavy telemetry by default, specifically including Google into their mobile applications. This can all be opted out of, though you should know of its existence.
+
+**Hardening Your Browser | Lesson 8:**
+
+First, hardening practices are continually changing. We recommend referring to privacytools.io for the newest recommendations as they keep their site relatively updated. Some basic changes offered by a community member:
+
+-HTTPS Everywhere is no longer necessary as Firefox includes it natively (but it must be activated in the settings). (Also most places are transitioning to TLS over SSL. Not really a big deal, but if you're redoing it, may as well change your wording/graphic, too)
+-Privacy Badger is also probably not necessary anymore since it no longer learns and instead draws on a list of trackers. I've been told uBlock has a much more comprehensive list. Unless you want users to enable the learning in the settings.
+-Consider LocalCDN over Decentraleyes. LocalCDN gets updated much more frequently.
+-Cookie Autodelete is also kind of redundant if you set Firefox to clear data on closure. CA does it faster, but it's still redundant.
+-uMatrix is no longer supported and hasn't been for quite some time, should probably be removed altogether.
 
 **Antiviruses & Malware | Lesson 12:**
 
