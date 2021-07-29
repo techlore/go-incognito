@@ -96,11 +96,11 @@ warranty and many other major concerns. The Techlore channel has covered this to
 
 First, hardening practices are continually changing. We recommend referring to privacytools.io for the newest recommendations as they keep their site relatively updated. Some basic changes offered by a community member:
 
--HTTPS Everywhere is no longer necessary as Firefox includes it natively (but it must be activated in the settings). (Also most places are transitioning to TLS over SSL. Not really a big deal, but if you're redoing it, may as well change your wording/graphic, too)
--Privacy Badger is also probably not necessary anymore since it no longer learns and instead draws on a list of trackers. I've been told uBlock has a much more comprehensive list. Unless you want users to enable the learning in the settings.
--Consider LocalCDN over Decentraleyes. LocalCDN gets updated much more frequently.
--Cookie Autodelete is also kind of redundant if you set Firefox to clear data on closure. CA does it faster, but it's still redundant.
--uMatrix is no longer supported and hasn't been for quite some time, should probably be removed altogether.
+- HTTPS Everywhere is no longer necessary as Firefox includes it natively (but it must be activated in the settings). (Also most places are transitioning to TLS over SSL. Not really a big deal, but if you're redoing it, may as well change your wording/graphic, too)
+- Privacy Badger is also probably not necessary anymore since it no longer learns and instead draws on a list of trackers. I've been told uBlock has a much more comprehensive list. Unless you want users to enable the learning in the settings.
+- Consider LocalCDN over Decentraleyes. LocalCDN gets updated much more frequently.
+- Cookie Autodelete is also kind of redundant if you set Firefox to clear data on closure. CA does it faster, but it's still redundant.
+- uMatrix is no longer supported and hasn't been for quite some time, should probably be removed altogether.
 
 **Antiviruses & Malware | Lesson 12:**
 
