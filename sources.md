@@ -1,6 +1,6 @@
 # Go Incognito Sources
 
-(Updated January 21, 2021)
+(Updated October 10, 2021)
 Thank you for watching Go Incognito. This document lists all sources used throughout the
 course for students to verify claims & read through resources.
 
@@ -17,7 +17,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.3 [Minnesota Sues U.S. Bank For Sharing Data](https://www.nytimes.com/1999/06/11/business/minnesota-sues-us-bank-on-privacy-data.html)
 
-1.2.4 [Timeline of Facebook Privacy Issues](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n)
+1.2.4 [Timeline of Facebook Privacy Issues](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n859651)
 
 1.2.5 [Private Medical Data for Sale](https://www.theguardian.com/technology/2017/jan/10/medical-data-multibillion-dollar-business-report-warns)
 
@@ -27,7 +27,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.8 [Uncovering ECHELON](https://techcrunch.com/2015/08/03/uncovering-echelon-the-top-secret-nsa-program-that-has-been-watching-you-your-entire-life/)
 
-1.2.9 [FinCEN](https://www.reuters.com/article/usa-banks-spying/exclusive-u-s-to-let-spy-agencies-scour-americans-finances-idINDEE92C0EH)
+1.2.9 [FinCEN](https://www.reuters.com/article/uk-global-banking-fincen-explainer-idUKKCN26C2QI)
 
 1.2.10 [XKeyscore](https://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data)
 
@@ -45,7 +45,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.17 [Evidence Mass Surveillance Works?](https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much)
 
-1.2.18 [NSA Program Stopped No Terror Attacks](https://www.nbcnews.com/news/world/nsa-program-stopped-no-terror-attacks-says-white-house-panel-flna2D)
+1.2.18 [NSA Program Stopped No Terror Attacks](https://www.nbcnews.com/news/world/nsa-program-stopped-no-terror-attacks-says-white-house-panel-flna2d11783588)
 
 1.2.19 [Evidence Mass Surveillance Works?](https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much)
 
@@ -63,13 +63,13 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.26 [State of Surveillance with Edward Snowden](https://www.youtube.com/watch?v=ucRWyGKBVzo)
 
-1.3.1 [Video Surveillance Storage Management](http://blog.dnfcorp.com/)
+1.3.1 [Discontinued Source - Video Surveillance Storage Management]
 
 1.3.2 [TSA New Body Scan Policy Privacy Concerns](https://www.forbes.com/sites/lisabrownlee/2016/01/14/growing-list-joins-tsa-body-scan-fight/)
 
 1.3.3 [George V. TSA Privacy Case](https://www.aclu.org/cases/george-v-tsa)
 
-1.3.4 [How Many Antiviruses Forum](https://www.cnet.com/forums/discussions/it-is-safe-to-run-multiple-anti-virus-508905/)
+1.3.4 [How Many Antiviruses Forum](https://web.archive.org/web/20210126154403/https://www.cnet.com/forums/discussions/it-is-safe-to-run-multiple-anti-virus-508905/)
 
 1.3.5 [Do You Need an Antivirus Video](https://www.youtube.com/watch?v=cT_uCi8hmv0)
 
@@ -93,7 +93,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.5.5 [FBI Apple Backdoor](https://www.ifsecglobal.com/apple-versus-fbi-moral-maze-behind-security-backdoor/)
 
-1.5.6 [McAfee and His Journeys](https://www.news.com.au/technology/behind-the-antivirus-entrepreneur-john-mcafee/news-story/e66ec1068d168e304a51fd2756e)
+1.5.6 [McAfee and His Journeys](https://www.news.com.au/technology/behind-the-antivirus-entrepreneur-john-mcafee/news-story/441962b58b2c6b7a5f7c8025e247f19d)
 
 1.5.7 [McAfee Blog](https://www.theguardian.com/world/2012/nov/19/john-mcafee-blog-fugitive-belize)
 
@@ -103,9 +103,9 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.5.10 [PhotoExif](http://www.ijailbreak.com/cydia/photoexif-cydia-tweak-ios/)
 
-1.5.11 [ViewExif](https://itunes.apple.com/us/app/viewexif/)
+1.5.11 [ViewExif - Now Discontinued](https://itunes.apple.com/us/app/viewexif/)
 
-1.5.12 [TailsOS mat](https://0xacab.org/jvoisin/mat)
+1.5.12 [TailsOS mat](https://gitlab.tails.boum.org/tails/blueprints/-/wikis/doc/mat)
 
 ## Section 2
 
@@ -123,7 +123,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.2.7 [Spy Software mSpy Leaks](https://krebsonsecurity.com/2018/09/for-2nd-time-in-3-years-mobile-spyware-maker-mspy-leaks-millions-of-sensitive-records/)
 
-2.2.8 [Spy Software Teen Apple ID Leak](https://www.tomsguide.com/us/teensafe-apple-id-passwords,news-27243.html)
+2.2.8 [Spy Software Teen Apple ID Leak](https://web.archive.org/web/20180522051255/https://www.tomsguide.com/us/teensafe-apple-id-passwords,news-27243.html)
 
 2.3.1 [Basics of Cookies](https://www.theguardian.com/technology/2012/apr/23/cookies-and-web-tracking-intro)
 
@@ -143,7 +143,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.3.9 [SD Maid](https://sdmaid.darken.eu/)
 
-2.3.10 [David Kernell Sarah Palin Hack](https://abcnews.go.com/Politics/sarah-palins-mail-hacker-david-kernell-found-guilty/story)
+2.3.10 [David Kernell Sarah Palin Hack](https://abcnews.go.com/Politics/sarah-palins-mail-hacker-david-kernell-found-guilty/story?id=10521656)
 
 2.3.11 [Sarbanes Oxley Act](http://www.sarbanes-oxley-101.com/sarbanes-oxley-compliance.htm)
 
@@ -153,7 +153,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.4.3 [Have I Been Pwned](https://haveibeenpwned.com/)
 
-2.4.4 [pipl](https://pipl.com/)
+2.4.4 [pipl - Now a Premium Service Only](https://pipl.com/)
 
 2.4.5 [AnyWho](https://www.anywho.com/reverse-lookup)
 
@@ -175,7 +175,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.4.14 [On Social Media, Privacy Is No Longer a Personal Choice (Social Media #1)](https://www.sciencenews.org/blog/scicurious/social-media-privacy-no-longer-personal-choice)
 
-2.4.15 [A Timeline of Facebook’s Privacy Issues—and its Responses (Social Media #2)](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n)
+2.4.15 [A Timeline of Facebook’s Privacy Issues—and its Responses (Social Media #2)](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n859651)
 
 2.4.16 [Twitter’s New Privacy Policy: Here’s What We Do With Your Data (Social Media #3)](https://www.cnet.com/news/twitter-privacy-policy-heres-what-we-do-with-your-data/)
 
@@ -195,7 +195,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.4.24 [Remove Your Personal Info From Data Brokers](https://www.computerworld.com/article/2849263/data-privacy/doxxing-defense-remove-your-personal-info-from-data-brokers.html)
 
-2.4.25 [Albine | Remove Personal Information](https://www.abine.com/optouts.php)
+2.4.25 [Abine | Remove Personal Information](https://joindeleteme.com/help/diy-free-opt-out-guide/)
 
 2.4.26 [LifeLock & Equifax Suck.](http://www.latimes.com/business/hiltzik/la-fi-hiltzik-lifelock-equifax-20170918-story.html)
 
@@ -211,11 +211,11 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.3.2 [Cambridge Analytica and Trump campaign](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html)
 
-3.3.3 [Uber Tracking When App Closed](https://www.businessinsider.com/uber-soon-able-to-track-your-location-even-when-app-is-closed-and-gps-turned-off-2015-)
+3.3.3 [Uber Tracking When App Closed](https://www.businessinsider.com/uber-soon-able-to-track-your-location-even-when-app-is-closed-and-gps-turned-off-2015-6)
 
 3.3.4 [Uber God View](https://www.forbes.com/sites/kashmirhill/2014/10/03/god-view-uber-allegedly-stalked-users-for-party-goers-viewing-pleasure/)
 
-3.3.5 [Uber Secret Permissions](https://gizmodo.com/researchers-uber-s-ios-app-had-secret-permissions-that-)
+3.3.5 [Uber Secret Permissions](https://gizmodo.com/researchers-uber-s-ios-app-had-secret-permissions-that-1819177235)
 
 3.3.6 [Tesla Legal Page](https://www.tesla.com/about/legal)
 
@@ -255,7 +255,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.4.14 [OneLogin Hack](https://www.zdnet.com/article/onelogin-hit-by-data-breached-exposing-sensitive-customer-data/)
 
-3.4.15 [LastPass Hack](https://lifehacker.com/lastpass-hacked-time-to-change-your-master-password-)
+3.4.15 [LastPass Hack](https://lifehacker.com/lastpass-hacked-time-to-change-your-master-password-1711463571)
 
 3.4.16 [KeePass](https://keepass.info/)
 
@@ -267,7 +267,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.4.20 [TouchID Hack](https://arstechnica.com/information-technology/2013/09/touchid-hack-was-no-challenge-at-all-hacker-tells-ars/)
 
-3.4.21 [FaceID Hack](https://www.wired.com/story/hackers-say-broke-face-id-security/)
+3.4.21 [FaceID Hack](https://web.archive.org/web/20210428063626/https://www.wired.com/story/hackers-say-broke-face-id-security/)
 
 3.4.22 [Fingerprint Phone Vulnerability](https://www.theverge.com/2016/5/2/11540962/iphone-samsung-fingerprint-duplicate-hack-security)
 
@@ -285,15 +285,15 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.4.29 [ALP is predictable, as one can predict.](https://arstechnica.com/information-technology/2015/08/new-data-uncovers-the-surprising-predictability-of-android-lock-patterns/)
 
-3.4.30 [Stop using ALP](https://gizmodo.com/for-the-love-of-all-that-is-holy-stop-using-pattern-un-)
+3.4.30 [Stop using ALP](https://gizmodo.com/for-the-love-of-all-that-is-holy-stop-using-pattern-un-1818672002)
 
 3.4.31 [Smart Phone Stats](https://www.consumerreports.org/cro/news/2014/04/smart-phone-thefts-rose-to-3-1-million-last-year/index.htm)
 
 3.5.1 [The Bee Movie](https://youtu.be/efj8XEEsosU)
 
-3.5.2 [Captain America Civil War](https://youtu.be/JdPX3-Byoa)
+3.5.2 [Captain America Civil War - No Longer Available](https://youtu.be/JdPX3-Byoa)
 
-3.5.3 [Terminator 2](https://youtu.be/HdY0UKGHgj)
+3.5.3 [Terminator 2 - No Longer Available](https://youtu.be/HdY0UKGHgj)
 
 3.5.4 [Charlie’s Angels](https://youtu.be/jj7BRKHml8g)
 
@@ -301,7 +301,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.5.6 [Linus got hacked!?!?!?](https://youtu.be/LlcAHkjbARs)
 
-3.5.7 [boogie2988 Channel](https://www.youtube.com/user/boogie)
+3.5.7 [boogie2988 Channel](https://www.youtube.com/user/boogie2988)
 
 3.5.8 [The Art of Invisibility (Affiliate Link)](https://amzn.to/2YxAIvJ)
 
@@ -315,11 +315,11 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.5.13 [YubiKey](https://www.yubico.com/products/yubikey-hardware/)
 
-3.6.1 [Google Sees Everything You Do](https://www.lifewire.com/stop-google-from-tracking-your-searches-)
+3.6.1 [Google Sees Everything You Do](https://www.lifewire.com/stop-google-from-tracking-your-searches-4123866)
 
 3.6.2 [DuckDuckGo](https://duckduckgo.com)
 
-3.6.3 [DuckDuckGo Court US Jurisdiction](https://insight.rpxcorp.com/litigation_documents/)
+3.6.3 [DuckDuckGo Court US Jurisdiction - No Longer Available](https://insight.rpxcorp.com/litigation_documents/)
 
 3.6.4 [Additional DuckDuckGo Jurisdiction Concerns](https://etherrag.blogspot.com/2013/07/duck-duck-go-illusion-of-privacy.html)
 
@@ -409,11 +409,11 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.9.3 [Behavioral Keyboard Privacy for Firefox](https://addons.mozilla.org/en-US/firefox/addon/behavioral-keyboard-privacy/)
 
-3.10.1 [Panopticlick](https://panopticlick.eff.org/)
+3.10.1 [Panopticlick - Now rebranded to 'Cover Your Tracks'](https://coveryourtracks.eff.org/)
 
 3.10.2 [AmIUnique](https://amiunique.org/fp)
 
-3.10.3 [BrowserSPY.dk](https://browserspy.dk/)
+3.10.3 [BrowserSPY.dk (Discontinued)](https://browserspy.dk/)
 
 3.10.4 [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 
@@ -455,7 +455,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.11.16 [IPVanish Caught Logging](https://torrentfreak.com/ipvanish-no-logging-vpn-led-homeland-security-to-comcast-user-180505/)
 
-3.11.17 [HideMyAss Caught Logging](https://invisibler.com/lulzsec-and-hidemyass/)
+3.11.17 [HideMyAss Caught Logging](https://web.archive.org/web/20210206191627/https://invisibler.com/lulzsec-and-hidemyass/)
 
 3.11.18 [PureVPN Caught Logging](https://torrentfreak.com/purevpn-logs-helped-fbi-net-alleged-cyberstalker-171009/)
 
@@ -531,7 +531,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.14.11 [MEGA](https://mega.nz/)
 
-3.14.12 [ProtonDrive (Unreleased)](http://protondrive.com/)
+3.14.12 [ProtonDrive (Unreleased)](https://drive.protonmail.com/)
 
 3.14.12(1) [ProtonDrive Info](https://medium.com/@edumontoya/protondrive-price-release-date-and-review-95031b9e88aa)
 
@@ -557,7 +557,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.15.10 [Wickr](https://wickr.com/)
 
-3.15.11 [WhatsApp Metadata](https://www.freecodecamp.org/news/why-i-asked-my-friends-to-stop-using-whatsapp-and-telegram-e93346b3c1f0/)
+3.15.11 [WhatsApp Metadata](https://web.archive.org/web/20210107183118/https://www.freecodecamp.org/news/why-i-asked-my-friends-to-stop-using-whatsapp-and-telegram-e93346b3c1f0/)
 
 3.15.12 [Telegram Security Concerns](https://www.scmp.com/abacus/tech/article/3029415/why-telegram-isnt-secure-you-think)
 
@@ -579,7 +579,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.15.21 [Burner](https://www.burnerapp.com/)
 
-3.15.22 [Shuffle](http://getshuffle.com/)
+3.15.22 [Shuffle (Discontinued)](http://getshuffle.com/)
 
 3.15.23 [MySudo](https://mysudo.com/)
 
@@ -611,11 +611,11 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.15.37 [10MinuteMail](https://10minutemail.com/)
 
-3.15.38 [I2P-Bote](https://i2pbote.xyz/)
+3.15.38 [I2P-Bote (Discontinued)](https://i2pbote.xyz/)
 
 3.15.39 [Nextcloud](https://nextcloud.com/)
 
-3.15.40 [Firefox Send](https://send.firefox.com/)
+3.15.40 [Firefox Send (Discontinued)](https://send.firefox.com/)
 
 3.15.41 [OnionShare](https://onionshare.org/)
 
@@ -697,7 +697,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 4.3.17 [Purism Librem 5](https://shop.puri.sm/shop/librem-5/)
 
-4.3.18 [Pine64 Pinephone](https://www.pine64.org/pinephone/eTo)
+4.3.18 [Pine64 Pinephone](https://www.pine64.org/pinephone/)
 
 4.4.1 [QubesOS](https://www.qubes-os.org)
 
