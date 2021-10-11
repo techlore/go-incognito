@@ -211,11 +211,11 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.3.2 [Cambridge Analytica and Trump campaign](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html)
 
-3.3.3 [Uber Tracking When App Closed](https://www.businessinsider.com/uber-soon-able-to-track-your-location-even-when-app-is-closed-and-gps-turned-off-2015-)
+3.3.3 [Uber Tracking When App Closed](https://www.businessinsider.com/uber-soon-able-to-track-your-location-even-when-app-is-closed-and-gps-turned-off-2015-6)
 
 3.3.4 [Uber God View](https://www.forbes.com/sites/kashmirhill/2014/10/03/god-view-uber-allegedly-stalked-users-for-party-goers-viewing-pleasure/)
 
-3.3.5 [Uber Secret Permissions](https://gizmodo.com/researchers-uber-s-ios-app-had-secret-permissions-that-)
+3.3.5 [Uber Secret Permissions](https://gizmodo.com/researchers-uber-s-ios-app-had-secret-permissions-that-1819177235)
 
 3.3.6 [Tesla Legal Page](https://www.tesla.com/about/legal)
 
@@ -255,7 +255,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.4.14 [OneLogin Hack](https://www.zdnet.com/article/onelogin-hit-by-data-breached-exposing-sensitive-customer-data/)
 
-3.4.15 [LastPass Hack](https://lifehacker.com/lastpass-hacked-time-to-change-your-master-password-)
+3.4.15 [LastPass Hack](https://lifehacker.com/lastpass-hacked-time-to-change-your-master-password-1711463571)
 
 3.4.16 [KeePass](https://keepass.info/)
 
@@ -267,7 +267,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.4.20 [TouchID Hack](https://arstechnica.com/information-technology/2013/09/touchid-hack-was-no-challenge-at-all-hacker-tells-ars/)
 
-3.4.21 [FaceID Hack](https://www.wired.com/story/hackers-say-broke-face-id-security/)
+3.4.21 [FaceID Hack](https://web.archive.org/web/20210428063626/https://www.wired.com/story/hackers-say-broke-face-id-security/)
 
 3.4.22 [Fingerprint Phone Vulnerability](https://www.theverge.com/2016/5/2/11540962/iphone-samsung-fingerprint-duplicate-hack-security)
 
@@ -285,15 +285,15 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.4.29 [ALP is predictable, as one can predict.](https://arstechnica.com/information-technology/2015/08/new-data-uncovers-the-surprising-predictability-of-android-lock-patterns/)
 
-3.4.30 [Stop using ALP](https://gizmodo.com/for-the-love-of-all-that-is-holy-stop-using-pattern-un-)
+3.4.30 [Stop using ALP](https://gizmodo.com/for-the-love-of-all-that-is-holy-stop-using-pattern-un-1818672002)
 
 3.4.31 [Smart Phone Stats](https://www.consumerreports.org/cro/news/2014/04/smart-phone-thefts-rose-to-3-1-million-last-year/index.htm)
 
 3.5.1 [The Bee Movie](https://youtu.be/efj8XEEsosU)
 
-3.5.2 [Captain America Civil War](https://youtu.be/JdPX3-Byoa)
+3.5.2 [Captain America Civil War - No Longer Available](https://youtu.be/JdPX3-Byoa)
 
-3.5.3 [Terminator 2](https://youtu.be/HdY0UKGHgj)
+3.5.3 [Terminator 2 - No Longer Available](https://youtu.be/HdY0UKGHgj)
 
 3.5.4 [Charlie’s Angels](https://youtu.be/jj7BRKHml8g)
 
@@ -301,7 +301,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.5.6 [Linus got hacked!?!?!?](https://youtu.be/LlcAHkjbARs)
 
-3.5.7 [boogie2988 Channel](https://www.youtube.com/user/boogie)
+3.5.7 [boogie2988 Channel](https://www.youtube.com/user/boogie2988)
 
 3.5.8 [The Art of Invisibility (Affiliate Link)](https://amzn.to/2YxAIvJ)
 
@@ -315,11 +315,11 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.5.13 [YubiKey](https://www.yubico.com/products/yubikey-hardware/)
 
-3.6.1 [Google Sees Everything You Do](https://www.lifewire.com/stop-google-from-tracking-your-searches-)
+3.6.1 [Google Sees Everything You Do](https://www.lifewire.com/stop-google-from-tracking-your-searches-4123866)
 
 3.6.2 [DuckDuckGo](https://duckduckgo.com)
 
-3.6.3 [DuckDuckGo Court US Jurisdiction](https://insight.rpxcorp.com/litigation_documents/)
+3.6.3 [DuckDuckGo Court US Jurisdiction - No Longer Available](https://insight.rpxcorp.com/litigation_documents/)
 
 3.6.4 [Additional DuckDuckGo Jurisdiction Concerns](https://etherrag.blogspot.com/2013/07/duck-duck-go-illusion-of-privacy.html)
 
@@ -409,11 +409,11 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.9.3 [Behavioral Keyboard Privacy for Firefox](https://addons.mozilla.org/en-US/firefox/addon/behavioral-keyboard-privacy/)
 
-3.10.1 [Panopticlick](https://panopticlick.eff.org/)
+3.10.1 [Panopticlick - Now rebranded to 'Cover Your Tracks'](https://coveryourtracks.eff.org/)
 
 3.10.2 [AmIUnique](https://amiunique.org/fp)
 
-3.10.3 [BrowserSPY.dk](https://browserspy.dk/)
+3.10.3 [BrowserSPY.dk (Discontinued)](https://browserspy.dk/)
 
 3.10.4 [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 
@@ -455,7 +455,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.11.16 [IPVanish Caught Logging](https://torrentfreak.com/ipvanish-no-logging-vpn-led-homeland-security-to-comcast-user-180505/)
 
-3.11.17 [HideMyAss Caught Logging](https://invisibler.com/lulzsec-and-hidemyass/)
+3.11.17 [HideMyAss Caught Logging](https://web.archive.org/web/20210206191627/https://invisibler.com/lulzsec-and-hidemyass/)
 
 3.11.18 [PureVPN Caught Logging](https://torrentfreak.com/purevpn-logs-helped-fbi-net-alleged-cyberstalker-171009/)
 
@@ -531,7 +531,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.14.11 [MEGA](https://mega.nz/)
 
-3.14.12 [ProtonDrive (Unreleased)](http://protondrive.com/)
+3.14.12 [ProtonDrive (Unreleased)](https://drive.protonmail.com/)
 
 3.14.12(1) [ProtonDrive Info](https://medium.com/@edumontoya/protondrive-price-release-date-and-review-95031b9e88aa)
 
@@ -557,7 +557,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.15.10 [Wickr](https://wickr.com/)
 
-3.15.11 [WhatsApp Metadata](https://www.freecodecamp.org/news/why-i-asked-my-friends-to-stop-using-whatsapp-and-telegram-e93346b3c1f0/)
+3.15.11 [WhatsApp Metadata](https://web.archive.org/web/20210107183118/https://www.freecodecamp.org/news/why-i-asked-my-friends-to-stop-using-whatsapp-and-telegram-e93346b3c1f0/)
 
 3.15.12 [Telegram Security Concerns](https://www.scmp.com/abacus/tech/article/3029415/why-telegram-isnt-secure-you-think)
 
@@ -579,7 +579,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.15.21 [Burner](https://www.burnerapp.com/)
 
-3.15.22 [Shuffle](http://getshuffle.com/)
+3.15.22 [Shuffle (Discontinued)](http://getshuffle.com/)
 
 3.15.23 [MySudo](https://mysudo.com/)
 
@@ -611,11 +611,11 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 3.15.37 [10MinuteMail](https://10minutemail.com/)
 
-3.15.38 [I2P-Bote](https://i2pbote.xyz/)
+3.15.38 [I2P-Bote (Discontinued)](https://i2pbote.xyz/)
 
 3.15.39 [Nextcloud](https://nextcloud.com/)
 
-3.15.40 [Firefox Send](https://send.firefox.com/)
+3.15.40 [Firefox Send (Discontinued)](https://send.firefox.com/)
 
 3.15.41 [OnionShare](https://onionshare.org/)
 
