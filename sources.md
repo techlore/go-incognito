@@ -1,6 +1,6 @@
 # Go Incognito Sources
 
-(Updated January 21, 2021)
+(Updated October 10, 2021)
 Thank you for watching Go Incognito. This document lists all sources used throughout the
 course for students to verify claims & read through resources.
 
