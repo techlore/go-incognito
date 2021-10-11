@@ -123,7 +123,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.2.7 [Spy Software mSpy Leaks](https://krebsonsecurity.com/2018/09/for-2nd-time-in-3-years-mobile-spyware-maker-mspy-leaks-millions-of-sensitive-records/)
 
-2.2.8 [Spy Software Teen Apple ID Leak](https://www.tomsguide.com/us/teensafe-apple-id-passwords,news-27243.html)
+2.2.8 [Spy Software Teen Apple ID Leak](https://web.archive.org/web/20180522051255/https://www.tomsguide.com/us/teensafe-apple-id-passwords,news-27243.html)
 
 2.3.1 [Basics of Cookies](https://www.theguardian.com/technology/2012/apr/23/cookies-and-web-tracking-intro)
 
@@ -143,7 +143,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.3.9 [SD Maid](https://sdmaid.darken.eu/)
 
-2.3.10 [David Kernell Sarah Palin Hack](https://abcnews.go.com/Politics/sarah-palins-mail-hacker-david-kernell-found-guilty/story)
+2.3.10 [David Kernell Sarah Palin Hack](https://abcnews.go.com/Politics/sarah-palins-mail-hacker-david-kernell-found-guilty/story?id=10521656)
 
 2.3.11 [Sarbanes Oxley Act](http://www.sarbanes-oxley-101.com/sarbanes-oxley-compliance.htm)
 
@@ -153,7 +153,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.4.3 [Have I Been Pwned](https://haveibeenpwned.com/)
 
-2.4.4 [pipl](https://pipl.com/)
+2.4.4 [pipl - Now a Premium Service Only](https://pipl.com/)
 
 2.4.5 [AnyWho](https://www.anywho.com/reverse-lookup)
 
@@ -175,7 +175,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.4.14 [On Social Media, Privacy Is No Longer a Personal Choice (Social Media #1)](https://www.sciencenews.org/blog/scicurious/social-media-privacy-no-longer-personal-choice)
 
-2.4.15 [A Timeline of Facebook’s Privacy Issues—and its Responses (Social Media #2)](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n)
+2.4.15 [A Timeline of Facebook’s Privacy Issues—and its Responses (Social Media #2)](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n859651)
 
 2.4.16 [Twitter’s New Privacy Policy: Here’s What We Do With Your Data (Social Media #3)](https://www.cnet.com/news/twitter-privacy-policy-heres-what-we-do-with-your-data/)
 
@@ -195,7 +195,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 2.4.24 [Remove Your Personal Info From Data Brokers](https://www.computerworld.com/article/2849263/data-privacy/doxxing-defense-remove-your-personal-info-from-data-brokers.html)
 
-2.4.25 [Albine | Remove Personal Information](https://www.abine.com/optouts.php)
+2.4.25 [Abine | Remove Personal Information](https://joindeleteme.com/help/diy-free-opt-out-guide/)
 
 2.4.26 [LifeLock & Equifax Suck.](http://www.latimes.com/business/hiltzik/la-fi-hiltzik-lifelock-equifax-20170918-story.html)
 
