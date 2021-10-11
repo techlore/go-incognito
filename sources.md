@@ -17,7 +17,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.3 [Minnesota Sues U.S. Bank For Sharing Data](https://www.nytimes.com/1999/06/11/business/minnesota-sues-us-bank-on-privacy-data.html)
 
-1.2.4 [Timeline of Facebook Privacy Issues](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n)
+1.2.4 [Timeline of Facebook Privacy Issues](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n859651)
 
 1.2.5 [Private Medical Data for Sale](https://www.theguardian.com/technology/2017/jan/10/medical-data-multibillion-dollar-business-report-warns)
 
@@ -27,7 +27,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.8 [Uncovering ECHELON](https://techcrunch.com/2015/08/03/uncovering-echelon-the-top-secret-nsa-program-that-has-been-watching-you-your-entire-life/)
 
-1.2.9 [FinCEN](https://www.reuters.com/article/usa-banks-spying/exclusive-u-s-to-let-spy-agencies-scour-americans-finances-idINDEE92C0EH)
+1.2.9 [FinCEN](https://www.reuters.com/article/uk-global-banking-fincen-explainer-idUKKCN26C2QI)
 
 1.2.10 [XKeyscore](https://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data)
 
@@ -45,7 +45,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.17 [Evidence Mass Surveillance Works?](https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much)
 
-1.2.18 [NSA Program Stopped No Terror Attacks](https://www.nbcnews.com/news/world/nsa-program-stopped-no-terror-attacks-says-white-house-panel-flna2D)
+1.2.18 [NSA Program Stopped No Terror Attacks](https://www.nbcnews.com/news/world/nsa-program-stopped-no-terror-attacks-says-white-house-panel-flna2d11783588)
 
 1.2.19 [Evidence Mass Surveillance Works?](https://www.propublica.org/article/whats-the-evidence-mass-surveillance-works-not-much)
 
@@ -63,13 +63,13 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.2.26 [State of Surveillance with Edward Snowden](https://www.youtube.com/watch?v=ucRWyGKBVzo)
 
-1.3.1 [Video Surveillance Storage Management](http://blog.dnfcorp.com/)
+1.3.1 [Discontinued Source - Video Surveillance Storage Management]
 
 1.3.2 [TSA New Body Scan Policy Privacy Concerns](https://www.forbes.com/sites/lisabrownlee/2016/01/14/growing-list-joins-tsa-body-scan-fight/)
 
 1.3.3 [George V. TSA Privacy Case](https://www.aclu.org/cases/george-v-tsa)
 
-1.3.4 [How Many Antiviruses Forum](https://www.cnet.com/forums/discussions/it-is-safe-to-run-multiple-anti-virus-508905/)
+1.3.4 [How Many Antiviruses Forum](https://web.archive.org/web/20210126154403/https://www.cnet.com/forums/discussions/it-is-safe-to-run-multiple-anti-virus-508905/)
 
 1.3.5 [Do You Need an Antivirus Video](https://www.youtube.com/watch?v=cT_uCi8hmv0)
 
@@ -93,7 +93,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.5.5 [FBI Apple Backdoor](https://www.ifsecglobal.com/apple-versus-fbi-moral-maze-behind-security-backdoor/)
 
-1.5.6 [McAfee and His Journeys](https://www.news.com.au/technology/behind-the-antivirus-entrepreneur-john-mcafee/news-story/e66ec1068d168e304a51fd2756e)
+1.5.6 [McAfee and His Journeys](https://www.news.com.au/technology/behind-the-antivirus-entrepreneur-john-mcafee/news-story/441962b58b2c6b7a5f7c8025e247f19d)
 
 1.5.7 [McAfee Blog](https://www.theguardian.com/world/2012/nov/19/john-mcafee-blog-fugitive-belize)
 
@@ -103,9 +103,9 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 1.5.10 [PhotoExif](http://www.ijailbreak.com/cydia/photoexif-cydia-tweak-ios/)
 
-1.5.11 [ViewExif](https://itunes.apple.com/us/app/viewexif/)
+1.5.11 [ViewExif - Now Discontinued](https://itunes.apple.com/us/app/viewexif/)
 
-1.5.12 [TailsOS mat](https://0xacab.org/jvoisin/mat)
+1.5.12 [TailsOS mat](https://gitlab.tails.boum.org/tails/blueprints/-/wikis/doc/mat)
 
 ## Section 2
 
