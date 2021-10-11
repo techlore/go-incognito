@@ -697,7 +697,7 @@ CTRL-F through this document to find a specific source mentioned in a lesson.
 
 4.3.17 [Purism Librem 5](https://shop.puri.sm/shop/librem-5/)
 
-4.3.18 [Pine64 Pinephone](https://www.pine64.org/pinephone/eTo)
+4.3.18 [Pine64 Pinephone](https://www.pine64.org/pinephone/)
 
 4.4.1 [QubesOS](https://www.qubes-os.org)
 
