@@ -1,6 +1,6 @@
 # Go Incognito Changelog
 
-**(Updated July 29, 2021)**
+**(Updated May 11, 2022)**
 
 Thank you for watching Go Incognito! This document includes any necessary changes or updates to the course to ensure all information stays relevant.
 
@@ -77,13 +77,14 @@ warranty and many other major concerns. The Techlore channel has covered this to
 - Biggest mistake of Go Incognito so far: No mention to BACK UP YOUR 2FA CODES! I repeat...BACK
     UP 2FA CODES. This is a major headache in the event you lose the device holding your 2FA keys.
     Have you backed up your codes yet?
+- For an updated guide on TOTP for 2FA, check out this [video](https://youtu.be/iXSyxm9jmmo) on the Techlore channel.
 
 **Search Engines | Lesson 6:**
 
 - Please note this lesson isn’t covering the ONLY search engines to use—it’s simply giving three
     commonly-recommended options. There are several other great privacy search engines, and more
     advanced users can make an educated decision on which one they trust most. The Techlore
-    channel will cover other search engines more in-depth in the future.
+    channel will cover other search engines more in-depth in the future. [Update, here.](https://youtu.be/ma2qDOkvaJo)
 - A beautiful thing about searx.me is they allow you to self-host it yourself. Underrated feature I
     failed to bring up.
     
@@ -91,16 +92,12 @@ warranty and many other major concerns. The Techlore channel has covered this to
 
 - There was a study showing Brave phones home the least out of the box: https://www.scss.tcd.ie/Doug.Leith/pubs/browser_privacy.pdf
 - Firefox incorporates some heavy telemetry by default, specifically including Google into their mobile applications. This can all be opted out of, though you should know of its existence.
+- There have been many major updates to browsers, including LibreWolf, Arkenfox, Bromite, and much more. We recommend visiting our [website's resources](https://techlore.tech/resources) for the latest recommendations.
 
 **Hardening Your Browser | Lesson 8:**
 
-First, hardening practices are continually changing. We recommend referring to privacytools.io for the newest recommendations as they keep their site relatively updated. Some basic changes offered by a community member:
+***This the most out-of-date Go Incognito lesson!*** We strongly recommend using our newest Firefox hardening guide [here.](https://youtu.be/F7-bW2y6lcI) We also recommend referring to [PrivacyGuides](https://www.privacyguides.org/browsers/#firefox) for the newest recommendations.
 
-- HTTPS Everywhere is no longer necessary as Firefox includes it natively (but it must be activated in the settings). (Also most places are transitioning to TLS over SSL. Not really a big deal, but if you're redoing it, may as well change your wording/graphic, too)
-- Privacy Badger is also probably not necessary anymore since it no longer learns and instead draws on a list of trackers. I've been told uBlock has a much more comprehensive list. Unless you want users to enable the learning in the settings.
-- Consider LocalCDN over Decentraleyes. LocalCDN gets updated much more frequently.
-- Cookie Autodelete is also kind of redundant if you set Firefox to clear data on closure. CA does it faster, but it's still redundant.
-- uMatrix is no longer supported and hasn't been for quite some time, should probably be removed altogether.
 
 **Antiviruses & Malware | Lesson 12:**
 
@@ -115,13 +112,15 @@ First, hardening practices are continually changing. We recommend referring to p
 
 **Cryptocurrencies | Lesson 6**
 
-- This lesson recommends LocalBitcoin, which several users have expressed now require identification. It's recommended to strictly use Bisq.
+- This lesson recommends LocalBitcoin, which several users have expressed now require identification. It's recommended to strictly use [Bisq](https://bisq.network/), [LocalMonero](https://localmonero.co/), or another [KYC-free exchange.](https://kycnot.me/)
 
 ## Section 5
 
 **MAC | Lesson 3**
 
 - Windows 10 has now introduced MAC Address randomization which may negate the need for some of the referenced tools in this lesson.
+- iOS 14 re-introduces MAC Address randomization
+- Newer versions of Android also include MAC address randomization
 
 ## Section 6
 
