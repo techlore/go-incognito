@@ -10,7 +10,7 @@ Go Incognito is a video-based course teaching users of varying experience levels
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 ## Navigating Go Incognito
-- [Watch Go Incognito Now For Free](https://techlore.tech/goincognito.html)
+- [Watch Go Incognito Now For Free](https://techlore.tech/goincognito)
 - [Enroll in the Premium Version Now](https://techlore.teachable.com/p/go-incognito)
 - All scripts have been completed since summer, 2018. You'll find them [here.](https://github.com/techlore-official/go-incognito/tree/master/Scripts)
 - The [changelog](https://github.com/techlore-official/go-incognito/blob/master/changes.md) accounts for changes. Things change, but so can the changelog. Premium Go Incognito implements many of the changes through 2021 as it was produced most recently.
@@ -34,7 +34,7 @@ Go Incognito is a video-based course teaching users of varying experience levels
 ## Contributing to Go Incognito
 There are several ways you can support this initiative, here are the main methods:
 - [Purchasing the premium course](https://techlore.teachable.com/p/go-incognito)
-- Directly donating to our channel through Patreon, Brave Rewards, Monero, or other donation methods [found here.](https://techlore.tech/support.html)
+- Directly donating to our channel through Patreon, Liberapay, Monero, or other support methods [found here.](https://techlore.tech/support)
 - Sharing the course with your friends and family. It's friendly to both beginners and advanced users alike. 
 - Spreading the course to different communities around the internet. 
 - Uploading the free course to a platform of your choice. Because the free course is licensed under Creative Commons, go for it! Assuming: A) It's unmodified B) It's unmonetized and C) Techlore is credited. Premium is not under CC.
