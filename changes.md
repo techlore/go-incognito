@@ -1,6 +1,6 @@
 # Go Incognito Changelog
 
-**(Updated May 11, 2022)**
+**(Updated Jun 7, 2023)**
 
 Thank you for watching Go Incognito! This document includes any necessary changes or updates to the course to ensure all information stays relevant.
 
@@ -15,6 +15,7 @@ Thank you for watching Go Incognito! This document includes any necessary change
     version(s) of Go Incognito Section 1-2 WILL be improved...although still not quite as good as Section
     3 and beyond, as raw recordings issues can only be fixed so much. Long story short, expect to see
     some improvements in production in the premium course.
+ - **While the general philosophies and instructions of Go Incognito are still massively helpful, it's beginning to show its age regarding individual recommendations. For example, Go Incognito predates Mullvad Browser, Lockdown Mode on iOS/iPadOS/MacOS, Passkeys, etc. Additionally, some services that were previously recommended are no longer suggested. Because of this, we are currently [in the process](https://dispatch.techlore.tech/i/116795784/go-incognito-v) of planning & producing a V2 to the project. A free variant will remain, and all current premium students will be auto-enrolled in future iterations for life. [To view more information and to leave us feedback on what to improve, visit here.](https://discuss.techlore.tech/t/go-incognito-fans-we-need-your-feedback-for-a-v2/1830)**
 
 ## Section 1
 
