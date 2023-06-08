@@ -1,9 +1,9 @@
 # Go Incognito: A Guide to Security, Privacy, &amp; Anonymity
 <p align="center">
-  <img src="https://techlore.tech/assets/images/course-logo.png" width="250" height="250">
+  <img src="https://www.techlore.tech/assets/svg/goincognito.svg" width="250" height="250">
 </p>
 
-**IMPORTANT UPDATE: Go Incognito is now officially a project we will continue to support for future iterations. We are currently in the process of planning & producing a V2 to the project. A free variant will remain, and all current premium students will be auto-enrolled in future iterations for life. [To view more information and to leave us feedback on what to improve, visit here.](https://discuss.techlore.tech/t/go-incognito-fans-we-need-your-feedback-for-a-v2/1830)**
+**IMPORTANT UPDATE: Go Incognito is now officially a project we will continue to support for future iterations. We are currently [in the process](https://dispatch.techlore.tech/i/116795784/go-incognito-v) of planning & producing a V2 to the project. A free variant will remain, and all current premium students will be auto-enrolled in future iterations for life. [To view more information and to leave us feedback on what to improve, visit here.](https://discuss.techlore.tech/t/go-incognito-fans-we-need-your-feedback-for-a-v2/1830)**
 
 Go Incognito is a video-based course teaching users of varying experience levels about privacy, security, and anonymity. It’s a core part of the Techlore mission to educate users and transform their mindset of why, where, when, and how to treat their personal information. Go Incognito is available free to watch, is shareable to the public through a Creative Commons license, and features a premium version with serveral perks - also functioning as a support method for the course.
 
